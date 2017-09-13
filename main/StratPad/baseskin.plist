@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kSkinSection4FontColor</key>
+	<dict>
+		<key>Comment</key>
+		<string>font color for StratBoard chart title, axis labels.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>ffffff</string>
+	</dict>
+	<key>kSkinSection4FontSize</key>
+	<dict>
+		<key>Value</key>
+		<string>12</string>
+	</dict>
+	<key>kSkinSection2FormSubtableBackgroundColor</key>
+	<dict>
+		<key>Comment</key>
+		<string>color for the rounded rect behind any subtable in the details of a form (F3, F4, etc).  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>c7c7c7</string>
+	</dict>
+	<key>kSkinSection4GridColor</key>
+	<dict>
+		<key>Comment</key>
+		<string>color of the chart grids in stratboard</string>
+		<key>Value</key>
+		<string>4c4c4c</string>
+	</dict>
+	<key>kSkinReportCardCommentFontSize</key>
+	<dict>
+		<key>Comment</key>
+		<string>font size for the text in the comment bubbles, in the stratboard charts</string>
+		<key>Value</key>
+		<string>10</string>
+	</dict>
+	<key>kSkinTableCellHighlightColor</key>
+	<dict>
+		<key>Comment</key>
+		<string>color for the selected state of the cells in F4, F6, F7 as well as for the add row cells - NB alpha is 0.5</string>
+		<key>Value</key>
+		<string>0000FF</string>
+	</dict>
+	<key>kSkinSection2BodyFontSizeSmall</key>
+	<dict>
+		<key>Comment</key>
+		<string>font size for smaller body text throughout Section 2 (forms)</string>
+		<key>Value</key>
+		<string>17</string>
+	</dict>
+</dict>
+</plist>

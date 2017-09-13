@@ -1,0 +1,36 @@
+{
+	"startDate": 201201,
+	"revenue": {
+		"data": [{
+			"name": "Complete DocLock Development",
+			"values": [null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+		}, {
+			"name": "Sell 100 \"Pro\"Licenses",
+			"values": [null, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 180000.0, null, null, null, null, null, null, null]
+		}, {
+			"name": "Develop Reseller Relationships",
+			"values": [null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+		}],
+		"subtotals": [null, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 180000.0, null, null, null, null, null, null, null]
+	},
+	"cogs": {
+		"subtotals": [null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+		"totals": [null, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 180000.0, null, null, null, null, null, null, null]
+	},
+	"expenses": {
+		"data": [{
+			"name": "GENERAL_AND_ADMINISTRATIVE_SHORT",
+			"values": [85000.0, 120000.0, 135000.0, 50000.0, 50000.0, 50000.0, 150000.0, null, null, null, null, null, null, null]
+		}, {
+			"name": "RESEARCH_AND_DEVELOPMENT_SHORT",
+			"values": [null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+		}, {
+			"name": "SALES_AND_MARKETING_SHORT",
+			"values": [null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+		}],
+		"subtotals": [85000.0, 120000.0, 135000.0, 50000.0, 50000.0, 50000.0, 150000.0, null, null, null, null, null, null, null]
+	},
+	"netIncome": {
+		"totals": [85000.0, -60000.0, -75000.0, 10000.0, 10000.0, 10000.0, 30000.0, null, null, null, null, null, null, null]
+	}
+}

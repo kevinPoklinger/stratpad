@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20120216T13:29:16-0700</dateCreated>
+	<dateLastAccessed>20120216T13:31:28-0700</dateLastAccessed>
+	<dateModified>20120216T13:31:10-0700</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.2 (668)</model>
+	<name>Rounded StratFile</name>
+	<companyName>Mobilesce</companyName>
+	<city />
+	<provinceState />
+	<country />
+	<industry />
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal />
+	<themes>
+		<theme>
+			<title>Rounded Theme</title>
+			<startDate>20120101T00:00:00+0000</startDate>
+			<endDate>20121231T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>18</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>12</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly>15</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly>20</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment>6</expensesMonthlyAdjustment>
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment>8.25</revenueMonthlyAdjustment>
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment>5</cogsMonthlyAdjustment>
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives />
+		</theme>
+	</themes>
+</stratfile>

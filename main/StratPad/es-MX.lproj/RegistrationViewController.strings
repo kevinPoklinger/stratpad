@@ -1,0 +1,37 @@
+/* 
+	// or /* denotes a comment, useful for the translator, not used by the program - don't translate 
+*/
+
+/* Class = "IBUILabel"; text = "Sorry, there was a problem."; ObjectID = "11"; */
+"11.text" = "Se ha producido un problema.";
+
+/* Class = "IBUIButton"; normalTitle = "Submit"; ObjectID = "12"; */
+"12.normalTitle" = "Enviar";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "13"; */
+"13.placeholder" = "Apellidos";
+
+/* Class = "IBUITextField"; placeholder = "Email Address"; ObjectID = "14"; */
+"14.placeholder" = "Dirección de email";
+
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "19"; */
+"19.placeholder" = "Nombre";
+
+/* Class = "IBUILabel"; text = "Join the StratPad Community and enjoy a new backup feature."; ObjectID = "20"; */
+"20.text" = "Únase a la Comunidad de StratPad y disfrute de una nueva función de copias de seguridad.";
+
+/* Class = "IBUILabel"; text = "Julian Wood <julian@mobilesce.com>"; ObjectID = "55"; */
+"55.text" = "Julian Wood <julian@mobilesce.com>";
+
+/* Class = "IBUILabel"; text = "StratPad Premium 1.4 (897)"; ObjectID = "56"; */
+"56.text" = "StratPad Premium 1.4 (897)";
+
+/* Class = "IBUILabel"; text = "Registration Details"; ObjectID = "57"; */
+"57.text" = "Detalles de registro";
+
+/* Class = "IBUILabel"; text = "Thank you for registering StratPad."; ObjectID = "58"; */
+"58.text" = "Gracias por realizar el registro de StratPad.";
+
+/* Class = "IBUILabel"; text = "The backup functionality is now unlocked. Just tap \"Backup\" from the Actions menu and StratPad will instantly email a backup file to your email address.\n\nYou now also have access to the StratPad online community, which includes training videos, frequently asked questions, sample StratFiles and monitored forums. See the info menu for more details.\n"; ObjectID = "59"; */
+"59.text" = "Ahora puede acceder a la función de copias de seguridad. Solo tiene que tocar \"Copia de seguridad\" en el menú Acciones y StratPad enviará por email un archivo de copia de seguridad a su dirección de email.\n\nAhora también dispone de acceso a la comunidad online de StratPad, que contiene videos de capacitación, preguntas más frecuentes, StratFiles de muestra y foros supervisados. Consulte el menú de información para obtener más detalles.\n";
+

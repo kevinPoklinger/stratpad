@@ -1,0 +1,29 @@
+html, body {
+	margin:0;
+	padding:0;
+}
+a, div {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+#advertise {
+	display:block;
+	color:white;
+	font-size: 13px;
+	font-family: Helvetica, sans-serif;
+	position: absolute;
+	width: 250px; 
+	height: 80px; 
+	top: 8px;
+	right: 15px;
+	text-align: right;
+    text-decoration: underline;
+}
+.wrapper {
+	position: absolute;
+	width:878px; 
+	height:640px;
+}
+
+#jumpstart a#advertise {
+	color:#375394;
+}

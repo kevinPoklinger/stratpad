@@ -1,0 +1,12 @@
+#bottomLine {
+    padding-top: 20px;
+}
+
+.total {
+    border-top: 1px solid #4C4C4C;
+    padding-bottom: 1em;
+}
+
+.expense {
+    padding-left: 1em;
+}

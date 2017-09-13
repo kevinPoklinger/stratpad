@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.glasseystrategy.stratpad.plus</key>
+	<dict>
+		<key>displayName</key>
+		<dict>
+			<key>en</key>
+			<string>StratPad Plus: Strategic Business Plan and Business Intelligence App</string>
+			<key>es</key>
+			<string>StratPad Plus: Plan de negocio estratégico e inteligencia de negocio</string>
+			<key>es-MX</key>
+			<string>StratPad Plus: Plan de negocio estratégico e inteligencia de negocio</string>
+		</dict>
+		<key>appStoreURL</key>
+		<string>http://itunes.apple.com/app/stratpad-plus-strategy-business/id486654615?mt=8</string>
+		<key>priceUS</key>
+		<string>9.99</string>
+		<key>iap</key>
+		<dict>
+			<key>com.glasseystrategy.stratpad.plus.iap.premium</key>
+			<dict>
+				<key>refName</key>
+				<string>StratPad Plus to Premium Upgrade</string>
+				<key>priceUS</key>
+				<string>25.99</string>
+			</dict>
+			<key>com.glasseystrategy.stratpad.plus.iap.stratbord</key>
+			<dict>
+				<key>refName</key>
+				<string>StratBoard For Plus users</string>
+				<key>priceUS</key>
+				<string>29.99</string>
+			</dict>
+			<key>com.glasseystrategy.stratpad.plus.iap.premium.stratbord</key>
+			<dict>
+				<key>refName</key>
+				<string>StratBoard For Plus-&gt;Premium users</string>
+				<key>priceUS</key>
+				<string>29.99</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>com.glasseystrategy.stratpad.business</key>
+	<dict>
+		<key>displayName</key>
+		<dict>
+			<key>en</key>
+			<string>Strategic Business Plan</string>
+			<key>es</key>
+			<string>Strategic Business Plan</string>
+			<key>es-MX</key>
+			<string>Strategic Business Plan</string>
+		</dict>
+		<key>appStoreURL</key>
+		<string>http://itunes.apple.com/app/stratpad-for-business/id465233220?mt=8</string>
+		<key>priceUS</key>
+		<string>34.99</string>
+		<key>iap</key>
+		<dict>
+			<key>com.glasseystrategy.stratpad.premium.iap.stratbord</key>
+			<dict>
+				<key>refName</key>
+				<string>StratBoard For Premium users</string>
+				<key>priceUS</key>
+				<string>29.99</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>com.glasseystrategy.stratpad.free</key>
+	<dict>
+		<key>displayName</key>
+		<dict>
+			<key>en</key>
+			<string>StratPad Free: Strategic Business Plan and Balanced Scorecard Strategy App</string>
+			<key>es</key>
+			<string>StratPad Free: Plan de negocio estratégico e inteligencia de negocio</string>
+			<key>es-MX</key>
+			<string>StratPad Free: Plan de negocio estratégico e inteligencia de negocio</string>
+		</dict>
+		<key>appStoreURL</key>
+		<string>http://itunes.apple.com/app/stratpad-free-strategic-business/id540225053?ls=1&amp;mt=8</string>
+		<key>priceUS</key>
+		<string>0</string>
+		<key>iap</key>
+		<dict>
+			<key>com.glasseystrategy.stratpad.free.iap.fix.plus</key>
+			<dict>
+				<key>refName</key>
+				<string>StratPad Free to Plus Upgrade</string>
+				<key>priceUS</key>
+				<string>9.99</string>
+			</dict>
+			<key>com.glasseystrategy.stratpad.free.iap.fix.premium</key>
+			<dict>
+				<key>refName</key>
+				<string>StratPad Free to Premium Upgrade</string>
+				<key>priceUS</key>
+				<string>34.99</string>
+			</dict>
+			<key>com.glasseystrategy.stratpad.free.iap.fix.plus.premium</key>
+			<dict>
+				<key>refName</key>
+				<string>StratPad Free to Plus to Premium Upgrade</string>
+				<key>priceUS</key>
+				<string>25.99</string>
+			</dict>
+			<key>com.glasseystrategy.stratpad.free.iap.combo.plus.stratbord</key>
+			<dict>
+				<key>refName</key>
+				<string>StratPad Free to Plus with StratBoard Combo Upgrade</string>
+				<key>priceUS</key>
+				<string>39.99</string>
+			</dict>
+			<key>com.glasseystrategy.stratpad.free.iap.plus.stratbord</key>
+			<dict>
+				<key>refName</key>
+				<string>StratBoard For Free-&gt;Plus users</string>
+				<key>priceUS</key>
+				<string>29.99</string>
+			</dict>
+			<key>com.glasseystrategy.stratpad.free.iap.premium.stratbord</key>
+			<dict>
+				<key>refName</key>
+				<string>StratBoard For Free-&gt;Premium users</string>
+				<key>priceUS</key>
+				<string>23.99</string>
+			</dict>
+			<key>com.glasseystrategy.stratpad.free.iap.plus.premium.stratbord</key>
+			<dict>
+				<key>refName</key>
+				<string>StratBoard For Free-&gt;Plus-&gt;Premium users</string>
+				<key>priceUS</key>
+				<string>29.99</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>com.glasseystrategy.stratpad.platinum</key>
+	<dict>
+		<key>displayName</key>
+		<dict>
+			<key>en</key>
+			<string>StratPad Platinum: Business Planning and Business Intelligence Strategy App</string>
+			<key>es</key>
+			<string>StratPad Platinum: Plan de negocio estratégico e inteligencia de negocio</string>
+			<key>es-MX</key>
+			<string>StratPad Platinum: Plan de negocio estratégico e inteligencia de negocio</string>
+		</dict>
+		<key>appStoreURL</key>
+		<string>http://itunes.apple.com/app/stratpad-platinum-business/id542415134?mt=8</string>
+		<key>priceUS</key>
+		<string>54.99</string>
+		<key>iap</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>

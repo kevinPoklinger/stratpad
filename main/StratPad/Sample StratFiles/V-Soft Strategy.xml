@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20110915T19:48:46-0700</dateCreated>
+	<dateLastAccessed>20130501T23:50:27-0700</dateLastAccessed>
+	<dateModified>20120807T23:50:27-0700</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.3 (747)</model>
+	<name>V-Soft Strategy</name>
+	<companyName>Acme Software Technologies Ltd.</companyName>
+	<city>Victoria</city>
+	<provinceState>BC</provinceState>
+	<country>Canada</country>
+	<industry>Software</industry>
+	<keyProblems>The Company operates in the global software publishing industry and, more specifically, in the business intelligence software segment.  This segment had revenues of US$36.5 billion in 2009 and is on track to reach $54.9 billion in 2013.  There is no end in sight:  corporations with sales above $10 million require these products to remain competitive.
+
+Business intelligence software provides insights into a variety of areas from manufacturing and operations to sales and marketing.  Increasingly, they provide integrated perspectives and do it in real-time.  Further, more sophisticated offerings gather and share information from across the supply chain.
+
+The best offerings marry massive data storage capacity with sophisticated analysis algorithms.  To date, these products are complex, require significant effort to configure and maintain, and are very expensive.  Demand is high, though, as they provide senior executives with critical decision support guidance.</keyProblems>
+	<addressProblems>The Company, anticipating these trends, filed a patent for 'longitudinal product deployment data gathering and management'.  It will now capitalize on this patent by creating a general purpose, SaaS-based software product, called V-Soft, for large, multi-national corporations.  Corporations will embed V-Soft into their current line of business software and will almost immediately benefit from its industry-leading insights.
+
+V-Soft will eliminate a significant development cost for these companies and considerably reduce their time to develop and deploy their own, comparable software.  This is a compelling combination which is quietly reinforced by our patent hurdle.</addressProblems>
+	<customersDescription>Our target customers are large (sales in excess of US$100 million), multi-national, and need to make real-time decisions based upon large volumes of data.  Companies in the financial, insurance and manufacturing sector are our primary market;  secondary markets include transport/logistics and airlines.  They will be attracted by V-Soft's ability to provide higher quality analysis at about one fifth the cost of the best competitive products.</customersDescription>
+	<competitorsDescription>Directly competing products are available from IBM, Oracle, SAP AG, and Microsoft.  While sophisticated, they are expensive and require significant effort to configure and install.  V-Soft, by comparison, uses it's patented technologies to halve the installation time, provide better decision insights, while costing 80% less than the best competitive offerings.</competitorsDescription>
+	<businessModelDescription>The Company will generate revenue three ways:
+- from initial license fees directly from customers;
+- from on-going maintenance fees directly from customers; and
+- from royalties paid by other software authors who wish to integrate our patented technology with their own offering.</businessModelDescription>
+	<expansionOptionsDescription>Although we will stay tightly focused on our core markets over the next 24 months, we are aware that V-Soft has broad appeal in several other markets.  We will deepen our understanding of these markets and evaluate their potential as our other markets mature.</expansionOptionsDescription>
+	<ultimateAspiration>We aspire to become the de facto global standard for enterprise-level business intelligence software.</ultimateAspiration>
+	<mediumTermStrategicGoal>In the medium-term (by December 31, 2013), we will create the first version of V-Soft and sell it to 15 financial, insurance and manufacturing firms and 5 transport/logistic and airline firms.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Create V-Soft</title>
+			<startDate>20120101</startDate>
+			<endDate>20120930</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly>65000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Mary Watlin</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>New product available</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Product available</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Startup and product design</action>
+							<startDate>20120101</startDate>
+							<endDate>20120215</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Watlin</responsible>
+						</activity>
+						<activity>
+							<action>Develop product</action>
+							<startDate>20120216</startDate>
+							<endDate>20120731</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Watlin</responsible>
+						</activity>
+						<activity>
+							<action>Test and polish</action>
+							<startDate>20120801</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Watlin</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Assemble development team</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff size</summary>
+							<targetDate>20120215</targetDate>
+							<targetValue>5</targetValue>
+							<successIndicator />
+							<measurements>
+								<measurement>
+									<date>20120515</date>
+									<value>12</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120615</date>
+									<value>14</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120715</date>
+									<value>17</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120815</date>
+									<value>16</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Staff size</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>6</order>
+									<uuid>93E34975-76C0-44B5-AA21-16ABA17E04E4</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Staff size</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>2</order>
+									<uuid>76C5B0B0-7F28-4DCE-B813-C567FF296081</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Staff size</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>4</order>
+									<uuid>A50A2052-602A-4CBE-96DC-C1114EE7CDF2</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Staff size</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>5</order>
+									<uuid>AE8A7C8A-01A4-4276-B1AA-3DE9AEC7FE8D</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Develop markets</title>
+			<startDate>20120701</startDate>
+			<endDate>20141231</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>180000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>50000</costsOneTime>
+			<costsMonthly>20000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Kelly Shideler</responsible>
+			<objectives>
+				<objective>
+					<order>6</order>
+					<summary>Increase customer satisfaction</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Customer surveys completed</summary>
+							<targetDate>20121201</targetDate>
+							<targetValue>100</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>Number of customers</summary>
+							<targetDate>20130701</targetDate>
+							<targetValue>15000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts>
+								<chart>
+									<title>Number of customers</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>81</order>
+									<uuid>907145D4-D174-43AC-AC55-B542707C510E</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Number of customers</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>85</order>
+									<uuid>BD238A0A-6964-4D61-97C0-E1A2DF8371BB</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Number of customers</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>11</order>
+									<uuid>CF7F0C00-E424-4D6B-A718-3958F4A87135</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>Avg. customer sat. score</summary>
+							<targetDate>20121215</targetDate>
+							<targetValue>9.5</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20110101</date>
+									<value>6.8</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110201</date>
+									<value>6.7</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110301</date>
+									<value>6.9</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110401</date>
+									<value>6.9</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110501</date>
+									<value>7.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110601</date>
+									<value>7.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110701</date>
+									<value>7.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110801</date>
+									<value>7.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110901</date>
+									<value>7.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111001</date>
+									<value>7.5</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111101</date>
+									<value>7.7</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111201</date>
+									<value>7.9</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120101</date>
+									<value>7.8</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120201</date>
+									<value>8.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120301</date>
+									<value>8.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120401</date>
+									<value>8.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120501</date>
+									<value>8.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120601</date>
+									<value>8.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120701</date>
+									<value>8.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120801</date>
+									<value>8.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120901</date>
+									<value>8.5</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121001</date>
+									<value>8.7</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>61</order>
+									<uuid>45E5F324-E367-4CDE-9ED8-E383C7A709CF</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>1</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>4</colorScheme>
+									<showTarget>0</showTarget>
+									<order />
+									<uuid>32AB865A-6C18-4F7A-88AF-08ED6F3A5F3E</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>28</order>
+									<uuid>EB0D1367-E2D9-4294-8BED-151D587AF152</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>37</order>
+									<uuid>C51F8358-B03E-44A2-9EBF-D31283E02541</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>39</order>
+									<uuid>0447CBE6-403A-4213-BE39-5F15A286529F</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>34</order>
+									<uuid>3BCDCBC1-B2A8-47F9-AF82-BBF7A4F17351</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>82</order>
+									<uuid>62C03EA6-D74F-4961-9B31-564CEFEF5D89</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>54</order>
+									<uuid>C042A6AA-10FB-4E5B-BC1C-AA84645C706E</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>75</order>
+									<uuid>8D93DF5C-6EB6-4D93-9128-48ACDEAC1650</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>17</order>
+									<uuid>77D9CDF5-8F55-4BE6-9923-DF5DA870D421</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>55</order>
+									<uuid>F62116AC-D697-4C1D-88EE-29C75A52E999</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>62</order>
+									<uuid>C3C18A87-2FD3-49BE-B119-95F372CBDE9B</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>20</order>
+									<uuid>2E0748B8-0585-41C9-8F25-5670377336C3</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>86</order>
+									<uuid>EFB1D86A-38CF-4880-B176-798F2E6AB1C0</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>73</order>
+									<uuid>BA1EA5A7-6285-470F-9AB2-6F66248BE207</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>72</order>
+									<uuid>A369F2BC-3171-417D-AC8C-1F62FF9ECABD</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>68</order>
+									<uuid>6F81E7D9-A86B-44AA-9331-8C274503B3F7</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>76</order>
+									<uuid>B25C7E47-F812-48E9-99AB-B3457D4DCC1B</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>23</order>
+									<uuid>62C6EA02-F157-44A3-84F7-1A72F8BCBFF6</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>78</order>
+									<uuid>DF9812FE-0AFC-4292-836A-50ED01C9834B</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>90</order>
+									<uuid>9886C804-113F-4B58-89AF-518063DF6293</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>57</order>
+									<uuid>F2944578-EB19-4677-8E29-6278E504657D</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>45</order>
+									<uuid>6BE4F529-2B38-4A78-BA6E-05EC4408429B</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>58</order>
+									<uuid>7A6CCB56-EEFE-411E-ABF3-0E963C788A48</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>66</order>
+									<uuid>03893C4D-CB9F-4EEC-BBCA-36B260A47C89</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>14</order>
+									<uuid>7385E801-FAC1-4132-BBB2-5C370DB97F59</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>65</order>
+									<uuid>311CCEC0-FC07-4318-A79C-822FF99B7A92</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>77</order>
+									<uuid>E98174C6-596A-4E1B-9662-F41A421190BA</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>0</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>0</showTarget>
+									<order />
+									<uuid>7035E512-B162-4C6E-B8F1-84494C7791A5</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>43</order>
+									<uuid>71B2A039-BE3F-484E-A1E7-241E39E231B8</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>67</order>
+									<uuid>1347187E-ACB9-4745-B333-D33E9D5A38BB</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>56</order>
+									<uuid>767D083E-F2BF-41A7-85A1-55D36CEC7C0B</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>74</order>
+									<uuid>C861C94A-1C60-41D8-850C-B02569F56534</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>51</order>
+									<uuid>C1230E85-D07C-452D-B28E-700DECE462A1</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>69</order>
+									<uuid>A0B6F426-F8C3-4A5E-A3F0-81FEC06B50F8</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>71</order>
+									<uuid>71D03FF0-FF8A-4372-B41F-CA9724A36DA7</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>70</order>
+									<uuid>4D2E48E3-9CBC-4192-BFC9-8ECE75079E34</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>49</order>
+									<uuid>46776A60-BA7F-489E-9688-6B95FD49BE6D</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Customer Satisfaction vs. Reported Bugs</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend />
+									<colorScheme>1</colorScheme>
+									<showTarget>1</showTarget>
+									<order>4</order>
+									<uuid>D8EE5339-C558-453B-8B97-76BDE7B70E29</uuid>
+									<overlay>7553BD7B-34F5-47F5-BD80-A3B889963C2A</overlay>
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>26</order>
+									<uuid>99FC09FF-3058-4AD0-B81D-C2F2D5D379BE</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. customer sat. score</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>31</order>
+									<uuid>323EB279-D3ED-458D-A39C-673414345C88</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Develop primary markets</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>First customer</summary>
+							<targetDate>20120901</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Sales/marketing/PR</action>
+							<startDate>20121001</startDate>
+							<endDate>20141231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Kelly Shideler</responsible>
+						</activity>
+						<activity>
+							<action>Pre-marketing</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Kelly Shideler</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>7</order>
+					<summary>Decrease product defects</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>No. of monthly bug reports</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20120130</date>
+									<value>17</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>14</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120330</date>
+									<value>23</value>
+									<comment>V2.0 released</comment>
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>18</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>0</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>2</colorScheme>
+									<showTarget>0</showTarget>
+									<order />
+									<uuid>7553BD7B-34F5-47F5-BD80-A3B889963C2A</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>No. of monthly bug reports</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>0</showTarget>
+									<order>89</order>
+									<uuid>87BF0AA5-4103-4166-9189-463F1F9DBAB5</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>No. of monthly bug reports</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>0</showTarget>
+									<order>92</order>
+									<uuid>4E4C0E0A-7181-4CD9-B0D6-3C0259CE182F</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Maintain employee enthusiasm</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Avg. employee satisfaction</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20120525</date>
+									<value>10</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Avg. employee satisfaction</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>0</showTarget>
+									<order>0</order>
+									<uuid>C1789C92-C082-44D0-BFE4-D3B8C7D4C574</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. employee satisfaction</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>0</showTarget>
+									<order>1</order>
+									<uuid>F939D14F-D666-484A-B21E-FE28A4FA04D0</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Avg. employee satisfaction</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>0</showTarget>
+									<order>3</order>
+									<uuid>1FC46F04-E524-4FAD-BE73-53CFC6CA5357</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>5</order>
+					<summary>Increase customer base</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of customers</summary>
+							<targetDate>20121215</targetDate>
+							<targetValue>1000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20110101</date>
+									<value>321</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110201</date>
+									<value>325</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110301</date>
+									<value>328</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110401</date>
+									<value>345</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110501</date>
+									<value>380</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110601</date>
+									<value>430</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110701</date>
+									<value>480</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110801</date>
+									<value>602</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110901</date>
+									<value>640</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111001</date>
+									<value>660</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111101</date>
+									<value>672</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111201</date>
+									<value>730</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120101</date>
+									<value>780</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120201</date>
+									<value>830</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120301</date>
+									<value>900</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120401</date>
+									<value>950</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120501</date>
+									<value>987</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120601</date>
+									<value>1003</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120701</date>
+									<value>1025</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120801</date>
+									<value>1042</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120901</date>
+									<value>1067</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121001</date>
+									<value>1086</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Customers: Number &amp; Satisfaction</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend />
+									<colorScheme>2</colorScheme>
+									<showTarget>1</showTarget>
+									<order>2</order>
+									<uuid>1F6D8976-43F7-4256-B91B-D2473676B4FC</uuid>
+									<overlay>32AB865A-6C18-4F7A-88AF-08ED6F3A5F3E</overlay>
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>1</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>2</colorScheme>
+									<showTarget>0</showTarget>
+									<order />
+									<uuid>967B5764-F11C-4754-A5BE-9753F0FA0302</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Evaluate secondary markets</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities>
+						<activity>
+							<action>Sales/marketing/PR</action>
+							<startDate>20130701</startDate>
+							<endDate>20131231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Kelly Shideler</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>Increase sales</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Revenue</summary>
+							<targetDate>20130630</targetDate>
+							<targetValue>$5500</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20110123</date>
+									<value>1000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110223</date>
+									<value>900</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110323</date>
+									<value>1100</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110423</date>
+									<value>1400</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110523</date>
+									<value>340</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110623</date>
+									<value>1000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110723</date>
+									<value>1000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110823</date>
+									<value>1400</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110923</date>
+									<value>1600</value>
+									<comment>New &quot;Smiling Baby&quot; campaign launched</comment>
+								</measurement>
+								<measurement>
+									<date>20111023</date>
+									<value>2500</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111223</date>
+									<value>3000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120124</date>
+									<value>2800</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120225</date>
+									<value>3100</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120317</date>
+									<value>3200</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120417</date>
+									<value>2550</value>
+									<comment>Normal spring break dip</comment>
+								</measurement>
+								<measurement>
+									<date>20120516</date>
+									<value>3500</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120717</date>
+									<value>4000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120817</date>
+									<value>3800</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120917</date>
+									<value>4100</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121017</date>
+									<value>4200</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121130</date>
+									<value>4500</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121227</date>
+									<value>4300.28</value>
+									<comment>Start of &quot;Dancing Kittens&quot; campaign</comment>
+								</measurement>
+								<measurement>
+									<date>20130119</date>
+									<value>4600</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>21</order>
+									<uuid>2E0F20BD-66F8-4A54-88FA-B20624B51AFF</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>18</order>
+									<uuid>F98A93AD-A3E0-4FCA-909C-37EBC6774368</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>33</order>
+									<uuid>85B59565-F12E-4DF4-AA0E-ADEE1334C9B8</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>84</order>
+									<uuid>2F6D9A97-D6FB-45EB-A4A2-2D6FB47C4769</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>9</order>
+									<uuid>17B29768-BC70-475E-BEA7-C4D4D35A0469</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>47</order>
+									<uuid>59427DB8-8C73-40CF-9F80-CF5BCA89EFCB</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>15</order>
+									<uuid>9298FAEF-8785-4037-A398-78FC9B9482F0</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>93</order>
+									<uuid>92FD1F6F-49C6-4788-9202-B70977121CA1</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>48</order>
+									<uuid>4389908B-6E50-402A-8429-3827BB8101B2</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>88</order>
+									<uuid>54098933-747E-431B-A2B6-6F849E0EC683</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>42</order>
+									<uuid>B7A1682A-D300-4E5A-9C23-AE97CD911001</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>30</order>
+									<uuid>2057CC42-F248-479C-860E-6C80F2017A67</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>36</order>
+									<uuid>B116D3B8-F933-41BB-BCCC-09B576E89B0A</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue Chart</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>7</colorScheme>
+									<showTarget>1</showTarget>
+									<order>3</order>
+									<uuid>5F422F34-707C-4CDF-9775-D93C5103DFD4</uuid>
+									<overlay>0FCC56A9-C2EA-46CD-9210-28CAEBDF501E</overlay>
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>12</order>
+									<uuid>6A8DE529-4E16-44B6-9EC3-8C0C5A771673</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>7</order>
+									<uuid>443F0040-6FA4-40C1-8677-050D91157280</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>6</order>
+									<uuid>D1098D04-B4AB-433F-A3D5-E0DF105B820B</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>80</order>
+									<uuid>C1A9CC82-0016-47CD-88BF-4341116E20F7</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>24</order>
+									<uuid>D1A13B66-2DA2-40CE-A9EB-CBBBEA5B126A</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>8</order>
+									<uuid>2AF77A08-DD45-4BA3-926A-653775971ED2</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>41</order>
+									<uuid>90037A7C-AECD-4BFE-99C5-44E29BD98592</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>53</order>
+									<uuid>948D602C-14F3-430E-97FA-1F2291D3AA05</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>0</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>0FCC56A9-C2EA-46CD-9210-28CAEBDF501E</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Revenue</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>27</order>
+									<uuid>15308776-68CA-4D18-A7DB-B489F9FC07CC</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Positive cashflow</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Achieve positive cashflow</summary>
+							<targetDate>20120831</targetDate>
+							<targetValue>1000</targetValue>
+							<successIndicator />
+							<measurements>
+								<measurement>
+									<date>20120229</date>
+									<value>48</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120330</date>
+									<value>74</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>24</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>4</order>
+					<summary>Decrease COGS</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Cost of goods sold %</summary>
+							<targetDate>20121215</targetDate>
+							<targetValue>25</targetValue>
+							<successIndicator>1</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20110101</date>
+									<value>48.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110201</date>
+									<value>50.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110301</date>
+									<value>47.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110401</date>
+									<value>44.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110501</date>
+									<value>45.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110601</date>
+									<value>38.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110701</date>
+									<value>46.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110801</date>
+									<value>40.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110901</date>
+									<value>38.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111001</date>
+									<value>39.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111101</date>
+									<value>36.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111201</date>
+									<value>37.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120101</date>
+									<value>40.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120201</date>
+									<value>35.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120301</date>
+									<value>33.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120401</date>
+									<value>32.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120501</date>
+									<value>31.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120601</date>
+									<value>30.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120701</date>
+									<value>28.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120801</date>
+									<value>27.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120901</date>
+									<value>25.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121001</date>
+									<value>24.8</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>16</order>
+									<uuid>7F19B9CF-2CA6-436A-8788-C516B6B45391</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>60</order>
+									<uuid>1ABCFBBF-B84B-4550-818D-31B8515A969F</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>13</order>
+									<uuid>7E0824F5-DDD6-4A82-A219-2A8E722AF91C</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>50</order>
+									<uuid>C918917A-F4F4-44AE-B1DB-00C421EA7DBB</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>64</order>
+									<uuid>E6679D4B-AACD-494F-B129-B8364AA5CE16</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>91</order>
+									<uuid>2C8CC35D-86E2-4627-9F72-B3BD91F9699C</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>10</order>
+									<uuid>D94D2AE3-0080-4AF1-BBE2-51F42CD86693</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>32</order>
+									<uuid>4741A5CA-99FA-4BF8-87B0-BD78E3740566</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>29</order>
+									<uuid>42D2DE36-9B65-44F8-9A07-156740D7CDAD</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>59</order>
+									<uuid>AA53CE1F-18C9-41EB-A927-163F3E721185</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>COGS and No. Of Customers</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>5</order>
+									<uuid>DEF61FA4-094B-4FFB-9DA9-EA453F842AB1</uuid>
+									<overlay>967B5764-F11C-4754-A5BE-9753F0FA0302</overlay>
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>25</order>
+									<uuid>579D3497-97CB-498B-8367-557833746D59</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>83</order>
+									<uuid>62FFC5DE-E150-4BF0-8368-5E970E544FA1</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>87</order>
+									<uuid>B1C3AFF3-5035-41DC-AC0B-A4E15FA3BDF6</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>44</order>
+									<uuid>80EB5262-8AA3-4505-B109-D3C2C29217CC</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>79</order>
+									<uuid>02D76599-E658-4CE4-84B3-E6ABAE3633BC</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>46</order>
+									<uuid>81809E68-9410-4289-BC7F-F37D9669EA0D</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>22</order>
+									<uuid>ED8C888D-1B34-4DF9-BDDC-BC1B07EEF6B6</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>63</order>
+									<uuid>7064D9A1-1DD3-4B04-978B-85531B0B1C3C</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>38</order>
+									<uuid>3D9F9102-5DF3-4FF3-A4D5-EA38C553CEE6</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of Goods Sold</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order>1</order>
+									<uuid>69925F1B-EB6E-4F71-8B0A-10A23AE94B1A</uuid>
+									<overlay>7035E512-B162-4C6E-B8F1-84494C7791A5</overlay>
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>40</order>
+									<uuid>CD370360-AC50-4D66-9395-3ACA9176768A</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>19</order>
+									<uuid>9B9C9078-8868-4F16-9720-25C40CCD763E</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>35</order>
+									<uuid>C83081A7-E244-4AC4-B6C9-8C5A21EDD060</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Cost of goods sold %</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>52</order>
+									<uuid>5A1D5D11-BE07-45A1-9241-ECABFC27CF4B</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

@@ -1,0 +1,26 @@
+.column {
+    width: 40%;
+}
+
+#strategy-pyramid {
+    position: absolute; 
+    top: 170px; 
+    left: 360px;
+    width: 500px;
+}
+
+#strategy-pyramid-highlight {
+    position: absolute; 
+    top: 412px; 
+    left: 0px;
+    height: 90px;
+    width: 878px;
+}
+
+#scorecard-statement {
+    position: absolute; 
+    top: 404px; 
+    left: 30px; 
+    width: 325px;
+}
+

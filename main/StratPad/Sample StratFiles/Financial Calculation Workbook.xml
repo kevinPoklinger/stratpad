@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111105T21:22:09-0600</dateCreated>
+	<dateLastAccessed>20111105T21:31:52-0600</dateLastAccessed>
+	<dateModified>20111105T21:30:29-0600</dateModified>
+	<name>Financial Calculation Workbook</name>
+	<companyName>My Company</companyName>
+	<city />
+	<provinceState />
+	<country />
+	<industry />
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal />
+	<themes>
+		<theme>
+			<title>Theme 1</title>
+			<startDate>20110301T00:00:00+0000</startDate>
+			<endDate>20110930T00:00:00+0000</endDate>
+			<expensesMonthly>30</expensesMonthly>
+			<mandatory>0</mandatory>
+			<expensesOneTime>3</expensesOneTime>
+			<revenueAnnually>1000</revenueAnnually>
+			<revenueQuarterly>100</revenueQuarterly>
+			<expensesAnnually>3000</expensesAnnually>
+			<cogsMonthly>20</cogsMonthly>
+			<costsAnnually>4000</costsAnnually>
+			<costsQuarterly>400</costsQuarterly>
+			<revenueOneTime>1</revenueOneTime>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<costsMonthly>40</costsMonthly>
+			<cogsQuarterly>200</cogsQuarterly>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime>4</costsOneTime>
+			<cogsAnnually>2000</cogsAnnually>
+			<order>0</order>
+			<cogsOneTime>2</cogsOneTime>
+			<expensesQuarterly>300</expensesQuarterly>
+			<revenueMonthly>10</revenueMonthly>
+			<responsible />
+			<objectives />
+		</theme>
+		<theme>
+			<title>Theme 2</title>
+			<startDate>20110101T00:00:00+0000</startDate>
+			<endDate>20120229T00:00:00+0000</endDate>
+			<expensesMonthly>70</expensesMonthly>
+			<mandatory>0</mandatory>
+			<expensesOneTime>7</expensesOneTime>
+			<revenueAnnually>5000</revenueAnnually>
+			<revenueQuarterly>500</revenueQuarterly>
+			<expensesAnnually>7000</expensesAnnually>
+			<cogsMonthly>60</cogsMonthly>
+			<costsAnnually>8000</costsAnnually>
+			<costsQuarterly>800</costsQuarterly>
+			<revenueOneTime>5</revenueOneTime>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<costsMonthly>80</costsMonthly>
+			<cogsQuarterly>600</cogsQuarterly>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime>8</costsOneTime>
+			<cogsAnnually>6000</cogsAnnually>
+			<order>1</order>
+			<cogsOneTime>6</cogsOneTime>
+			<expensesQuarterly>700</expensesQuarterly>
+			<revenueMonthly>50</revenueMonthly>
+			<responsible />
+			<objectives />
+		</theme>
+		<theme>
+			<title>Theme 3</title>
+			<startDate>20110701T00:00:00+0000</startDate>
+			<endDate>20131031T00:00:00+0000</endDate>
+			<expensesMonthly>320</expensesMonthly>
+			<mandatory>0</mandatory>
+			<expensesOneTime>32</expensesOneTime>
+			<revenueAnnually>128000</revenueAnnually>
+			<revenueQuarterly>12800</revenueQuarterly>
+			<expensesAnnually>32000</expensesAnnually>
+			<cogsMonthly>640</cogsMonthly>
+			<costsAnnually>16000</costsAnnually>
+			<costsQuarterly>1600</costsQuarterly>
+			<revenueOneTime>128</revenueOneTime>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<costsMonthly>160</costsMonthly>
+			<cogsQuarterly>6400</cogsQuarterly>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime>16</costsOneTime>
+			<cogsAnnually>64000</cogsAnnually>
+			<order>2</order>
+			<cogsOneTime>64</cogsOneTime>
+			<expensesQuarterly>3200</expensesQuarterly>
+			<revenueMonthly>1280</revenueMonthly>
+			<responsible />
+			<objectives />
+		</theme>
+	</themes>
+</stratfile>

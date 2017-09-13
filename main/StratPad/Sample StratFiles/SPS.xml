@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111115T11:22:08-0800</dateCreated>
+	<dateLastAccessed>20120519T08:00:19-0700</dateLastAccessed>
+	<dateModified>20120519T07:58:58-0700</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.2 (668)</model>
+	<name>SPS</name>
+	<companyName>Spring Point Solutions</companyName>
+	<city>Windham</city>
+	<provinceState>ME</provinceState>
+	<country>USA</country>
+	<industry>Specialized Accounting Software</industry>
+	<keyProblems>Our customers are often small companies that are performing services for much larger, industrial companies. The often struggle with appearing to keep current with technology to satisfy their customers, who have deeper pockets and have more resources at their disposal, and typically expect more from their vendors. Our customers generally do not have an in-house IT staff or the resources to spend much time on non-core processes, including developing their own software solutions.
+
+The electromechanical repair industry generally consist of companies with 10-25 employees, but also contains companies with as few as 3 employees and as many as 250 employees in 10 locations across 4 states. Our customers' clientele consists of mostly larger, industrial companies, like those in utilities, and manufacturing.</keyProblems>
+	<addressProblems>We give our customers access to cutting-edge software that they can then use to better compete for business in their target market. Our software is Windows-based and user-friendly, which enables employees with even basic knowledge of computers to easily operate the software. The software does not require exotic hardware and can operate over the simplest of networks, which greatly reduces startup and maintenance costs.
+
+Our software is easily scaled, so it can provide small and large companies the same benefits. Our hosted solution can virtually remove any hardware or IT concerns and provide our customers greatly expanded accessibility to their data and removes the headaches associated with backup and network maintenance. It helps even the smallest company appear competent and modern when competing for business.
+
+Analysis tools</addressProblems>
+	<customersDescription>Our customers are small-to-medium sized businesses and are often family owned and operated. As is typicaly in small businesses, employees will wear many hats and the companies usually do not have the resources needed for computer specialists. They generally highly value reliability, trustworthiness and stability. Our customers are very contientious and hands-on in their fields of expertise but that expertise rarely extends to computer technology.
+
+Our customers are typically trying to sell their products and services to much larger, industrial companies who do have employees specializing in IT and computer technology. Our software enables our customers to appear larger, and more technologically-saavy. Very often, our software will have features that impress our customers' customers and can be used as an excellent selling point. The idea that data will be readily available on a real-time basis from virtually anywhere resonates very strongly for our customers and their customers.</customersDescription>
+	<competitorsDescription>There is only one real competitor to our product in the electromechanical repair software industry. ACS (Application Computer Systems, Inc) has approximately 15 employees and has been in business since the early 1980's. They provide both a Unix-based and Windows-based software package that is primarily text-based and not truly point-and-click. Because they have been around for 30 years, they have a larger customer base and more experience in the industry. However, because their software is essentially 30 years old, it lacks the ability to make use of more current computer technology. They software is also a modified version of a larger, more general accounting package, so they are firmly tied to that larger company. This reduces their ability to innovate and improve their product offering.
+
+Our software holds many advantages over our competitor's package. We are truly Windows-based and can take advantage of the underlying Windows technology. As Microsoft expands and improves the flexibility of Windows, we can quickly and easily take advantage of those improvements. Our software is easier to use, is more intuitive, and more feature-rich. We are the authors of the entire software package, so we can more quickly improve and add features to the software.
+
+Accounting Software
+No Decision (Economic Climate)</competitorsDescription>
+	<businessModelDescription>- We sell a client-server based software package with pricing based on the number of users and customer locations. We charge both for the software and for the training associated with the software.
+
+-We sell the same software package in a hosted model where we charge per month based on the number of users.
+
+-We charge for customizations and customer-specific modifications to our software.
+
+-We sell a Windows-based motor frame comparison program. We sell both single and network licenses to the software.
+
+-We run a website where people can buy and sell surplus motor inventory.</businessModelDescription>
+	<expansionOptionsDescription>At the current time, we have sold primarily the client-server version of our software. However, as hosted solutions become more prominent in software sales, we plan to sell many more subscription-based hosted versions of our software and to move many of our existing customers over to the hosted version. This will provide recurring revenue.
+
+We plan to offer business consulting services to our customer base. Many of our customers are smaller businesses and even the owners of these companies do not have the time or expertise necessary to maximize their profit. Using our software, we can analyze their accounting data and assist them in how to run their companies more efficiently. We can show them how to use certain reports and data sets to indentify which customers, types of jobs, and employees are creating the most profitable conditions for their company.
+
+Once our customer base is large enough, we plan on gathering anonymous sales data from our current customers that we can sell to industry-related manufactures and vendors. This will provide them with actual geographic data about how many and for what prices their products and their competitors' products sell for around the country.
+
+Once we have dominated our industry, we plan on expanding our potential client base to other, repair-intensive industries. We have not been able to locate another product that compares to ours in their industries.</expansionOptionsDescription>
+	<ultimateAspiration>We would like to grow to the point where we can offer cutting-edge software solutions to small, medium, and large companies specializing in repair and sales outside of our current industry. We would like to also provide ancillary services, such as business consulting and data mining. Ultimately, we would not need to be dependent on continuing, new sales, but would provide recurring income from an existing customer base.</ultimateAspiration>
+	<mediumTermStrategicGoal>In the next year, we would like to hire at least 5 new employees that would enable us to quickly expand our customer base and begin to offer new services to our customers. We would also like to port our software products to a more modern software language that can better take advantage of new technologies and make our software even more scalable.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Convert backend database to MySQL</title>
+			<startDate>20130519</startDate>
+			<endDate />
+			<mandatory>0</mandatory>
+			<order>3</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly>-750</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Jamie Stultz</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Develop Business Consulting Service.</title>
+			<startDate>20120701</startDate>
+			<endDate />
+			<mandatory>0</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>3500</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>12500</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>350</costsOneTime>
+			<costsMonthly>100</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Troy D Locke</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Port our software into a thin client/web based platform.</title>
+			<startDate>20120701</startDate>
+			<endDate>20121102</endDate>
+			<mandatory>0</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>300</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>11250</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly>8000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Jamie Stultz</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Provide customer accessibility to data.</title>
+			<startDate>20121119</startDate>
+			<endDate />
+			<mandatory>1</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>5000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Jamie Stultz</responsible>
+			<objectives />
+		</theme>
+	</themes>
+</stratfile>

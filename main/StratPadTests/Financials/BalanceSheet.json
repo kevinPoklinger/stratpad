@@ -1,0 +1,19 @@
+{
+	"startDate": 201201,
+	"assets": {
+		"cash":[0, -85000, -145000, -220000, -210000, -200000, -170000, -160000, -160000, null, null, null, null, null],
+		"ar":[0, 60000, 60000, 60000, 60000, 60000, 60000, null, null, null, null, null, null, null],
+		"subtotals":[0, -25000, -85000, -160000, -150000, -140000, -110000, -160000, -160000, null, null, null, null, null]
+	},
+	"liabilities": {
+		"ap":[85000, 120000, 135000, 50000, 50000, 50000, 50000, null, null, null, null, null, null, null],
+		"subtotals":[85000, 120000, 135000, 50000, 50000, 50000, 50000, null, null, null, null, null, null, null]
+	},
+	"equity": {
+		"retainedEarnings":[-85000, -145000, -220000, -210000, -200000, -190000, -160000, -160000, -160000, null, null, null, null, null],
+		"subtotals":[-85000, -145000, -220000, -210000, -200000, -190000, -160000, -160000, -160000, null, null, null, null, null]
+	},
+	"totalLiabilitiesAndEquity": {
+		"totals":[0, -25000, -85000, -160000, -150000, -140000, -110000, -160000, -160000, null, null, null, null, null]
+	}
+}

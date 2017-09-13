@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20110910T18:02:59-0600</dateCreated>
+	<dateLastAccessed>20110910T18:02:59-0600</dateLastAccessed>
+	<dateModified>20110910T18:02:59-0600</dateModified>
+	<name>Business Plan</name>
+	<companyName>ACME Cool Co.</companyName>
+	<city>Calgary</city>
+	<provinceState>AB</provinceState>
+	<country>Canada</country>
+	<industry>Manufacturing</industry>
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal>This is one heck of a great strategic goal to have.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Yet another really long theme to see what happens in the stratmap.</title>
+			<startDate />
+			<endDate />
+			<expensesMonthly />
+			<mandatory>0</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly />
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<costsMonthly />
+			<cogsQuarterly />
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime />
+			<cogsAnnually />
+			<order>2</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly />
+			<responsible />
+			<objectives>
+				<objective>
+					<order>3</order>
+					<summary>Teach Fortran</summary>
+					<objectiveType>1</objectiveType>
+                    <reviewFrequency />
+                    <metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Fire Laziness</summary>
+					<objectiveType>2</objectiveType>
+                    <reviewFrequency />
+                    <metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Fire Ineffectiveness</summary>
+					<objectiveType>2</objectiveType>
+                    <reviewFrequency />
+                    <metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Fire Incompetence</summary>
+					<objectiveType>2</objectiveType>
+                    <reviewFrequency />
+                    <metrics />
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Another much more sophisticated theme</title>
+			<startDate />
+			<endDate />
+			<expensesMonthly />
+			<mandatory>0</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly />
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<costsMonthly />
+			<cogsQuarterly />
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime />
+			<cogsAnnually />
+			<order>1</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly />
+			<responsible />
+			<objectives>
+				<objective>
+					<order>1</order>
+					<summary>Hire Fairies</summary>
+					<objectiveType>3</objectiveType>
+                    <reviewFrequency />
+                    <metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Teach Fortran</summary>
+					<objectiveType>1</objectiveType>
+                    <reviewFrequency />
+                    <metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Hire Dwarves</summary>
+					<objectiveType>3</objectiveType>
+                    <reviewFrequency />
+                    <metrics />
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Grow the business</title>
+			<startDate />
+			<endDate />
+			<expensesMonthly />
+			<mandatory>0</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly />
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<costsMonthly />
+			<cogsQuarterly />
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime />
+			<cogsAnnually />
+			<order>0</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly />
+			<responsible />
+			<objectives>
+				<objective>
+					<order>2</order>
+					<summary>Hire Elves</summary>
+					<objectiveType>3</objectiveType>
+                    <reviewFrequency>5</reviewFrequency>
+                    <metrics>
+                        <metric>
+                            <summary>Expense</summary>
+                            <targetDate>20110910T00:00:00+0000</targetDate>
+                            <targetValue>-$99,999,999</targetValue>
+                        </metric>
+                    </metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increase machine capacity</summary>
+					<objectiveType>0</objectiveType>
+                    <reviewFrequency>6</reviewFrequency>
+                    <metrics>
+                        <metric>
+                            <summary>Revenue</summary>
+                            <targetDate>20110910T00:00:00+0000</targetDate>
+                            <targetValue>$100,000,000</targetValue>
+                        </metric>
+                    </metrics>
+					<activities>
+						<activity>
+							<action>Get vendor bids</action>
+							<startDate>20110910T00:00:00+0000</startDate>
+							<endDate>20110910T00:00:00+0000</endDate>
+							<upfrontCost>99999999</upfrontCost>
+							<ongoingCost>500</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Hans Solo</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Cheap Office Space</summary>
+					<objectiveType>0</objectiveType>
+                    <reviewFrequency>2</reviewFrequency>
+                    <metrics>
+                        <metric>
+                            <summary>Expense</summary>
+                            <targetDate>20110910T00:00:00+0000</targetDate>
+                            <targetValue>-$100,000</targetValue>
+                        </metric>
+                    </metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

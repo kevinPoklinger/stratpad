@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20121104T11:37:03+0100</dateCreated>
+	<dateLastAccessed>20121104T16:10:13+0100</dateLastAccessed>
+	<dateModified>20121104T16:10:01+0100</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.4 (918)</model>
+	<name>Produktutveckling Av Växel</name>
+	<companyName>Idéus Konsulteknik</companyName>
+	<city>Stockholm</city>
+	<provinceState />
+	<country>Sverige</country>
+	<industry>Rälsburen Industri</industry>
+	<keyProblems>Minimerar risken för att is- och snö fastnar i växeln och hindrar den från att slå om.</keyProblems>
+	<addressProblems>Vår produkt är patenterade och bygger på en ny växeldesign. Designen skapar ett nytt utrymme där en gummiläpp kan gå in och ut då växeln slår om. Gummiläppen skapar ett skydd mellan makadamen och läppen som är 100mm i höjd och som gör att snö eller is inte kan fylla upp utrymmet mellan växelns rörliga delar och spåret.</addressProblems>
+	<customersDescription>Huvudkund i Sverige är Trafikverket. Trafikverket ansvarar för rälsarna i Sverige. Deras kunder är sj, sl etc och genom att växlarna är is- och snöfria så kan deras kunder spara mycket pengar.</customersDescription>
+	<competitorsDescription>Vår största konkurrent är?</competitorsDescription>
+	<businessModelDescription>.</businessModelDescription>
+	<expansionOptionsDescription>?</expansionOptionsDescription>
+	<ultimateAspiration>Vi vill skapa en hållbar infrastruktur</ultimateAspiration>
+	<mediumTermStrategicGoal>Utvecklingsprojekt av järnvägsväxel</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Spika designen</title>
+			<startDate>20120731</startDate>
+			<endDate>20120929</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly>100000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Gustav Barck</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Bygg prototyp och utföra tester i vinterklimat</title>
+			<startDate />
+			<endDate />
+			<mandatory>1</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives />
+		</theme>
+		<theme>
+			<title>Simuleringar för att säkerställa hållfasthet </title>
+			<startDate>20120131</startDate>
+			<endDate>20120730</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly>100000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Gustav Barck</responsible>
+			<objectives />
+		</theme>
+	</themes>
+</stratfile>

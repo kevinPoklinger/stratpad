@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html><head>
+<title>Financial Summary Tables</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<style>
+/* shared table styles */
+
+.reportTable,
+.tableRowHeaders,
+.fullReportTable {font-family: helvetica, arial, sans-serif; font-size: 9px;border-collapse: collapse; border-spacing: 0;}
+
+/* summary table styles */
+
+.viewport {width:858px; height:536px; padding: 20px 0 20px 20px; overflow-y:auto; overflow-x:hidden; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
+
+.reportTable {font-size:9px; width:100%; table-layout:fixed;}
+
+.reportTable tr.rowDivider1 td,
+.reportTable tr.rowDivider1 th {border-top:1px solid;}
+.reportTable tr.rowDivider2 td,
+.reportTable tr.rowDivider2 th {border-bottom:2px solid;}
+.reportTable tr.rowDivider3 td,
+.reportTable tr.rowDivider3 th {border-bottom:3px double;}
+.reportTable tr.totals td,
+.reportTable tr.totals th {padding-bottom:20px;}
+
+.reportTable tr th {text-align:right; padding:4px 0 4px;}
+.reportTable tr td {text-align:right; vertical-align:top; padding:4px 0 4px;}
+.reportTable tr td:first-child,
+.reportTable tr th:first-child {font-weight:bold; border-top-color:transparent !important; border-bottom-color:transparent !important; text-align:left; width:150px;}
+
+.reportTable tr td.rowLevel2 {padding-left:5px;}
+.reportTable tr td.rowLevel3 {padding-left:10px;}
+.reportTable tr td.rowLevel4 {padding-left:15px;}
+
+/* detail table styles */
+
+.container { width: 878px; height: 516px; position: relative; padding: 20px 0 20px 20px; overflow-y: scroll; -webkit-overflow-scrolling: touch; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.container:after {content: ""; display: table; clear: both;}
+
+.headerWrapper { width: 150px; float: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.tableWrapper { width: 688px; float: left; padding-bottom:12px; overflow-x: scroll; -webkit-overflow-scrolling: touch; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+.tableRowHeaders tr td,
+.tableRowHeaders tr th {font-weight: bold; border-color:transparent !important;}
+
+.fullReportTable {table-layout: fixed; margin-left: -159px; width: 6300px; }
+
+.tableRowHeaders thead th,
+.fullReportTable thead th { height: 12px; }
+
+.tableRowHeaders tr.rowDivider1 td,
+.tableRowHeaders tr.rowDivider1 th,
+.fullReportTable tr.rowDivider1 td,
+.fullReportTable tr.rowDivider1 th { border-top: 1px solid; }
+.tableRowHeaders tr.rowDivider2 td,
+.tableRowHeaders tr.rowDivider2 th,
+.fullReportTable tr.rowDivider2 td,
+.fullReportTable tr.rowDivider2 th { border-bottom: 2px solid; }
+.tableRowHeaders tr.rowDivider3 td,
+.tableRowHeaders tr.rowDivider3 th,
+.fullReportTable tr.rowDivider3 td,
+.fullReportTable tr.rowDivider3 th { border-bottom: 3px double; }
+.tableRowHeaders tr.totals td,
+.tableRowHeaders tr.totals th,
+.fullReportTable tr.totals td,
+.fullReportTable tr.totals th { padding-bottom: 20px; }
+
+/* 
+.fullReportTable thead tr td:nth-of-type(even),
+.fullReportTable tbody tr td:nth-of-type(odd) {
+	background: -webkit-linear-gradient(right, rgba(255, 255, 255, 0.3) 0%, rgba(210, 210, 210, 0) 100%);
+	background: linear-gradient(to left, rgba(255, 255, 255, 0.3) 0%, rgba(210, 210, 210, 0) 100%);
+	border-right: 1px solid rgba(210, 210, 210, 0.3)
+}
+*/
+
+.tableRowHeaders tr th { padding: 4px; }
+.tableRowHeaders tr td { vertical-align: top; padding: 4px 0; }
+.fullReportTable tr th { text-align: right; padding: 4px; }
+.fullReportTable tr td { text-align: right; vertical-align: top; padding: 4px; }
+
+.tableRowHeaders tr td.rowLevel2,
+.fullReportTable tr td.rowLevel2 { padding-left: 5px; }
+.tableRowHeaders tr td.rowLevel3,
+.fullReportTable tr td.rowLevel3 { padding-left: 10px; }
+.tableRowHeaders tr td.rowLevel4,
+.fullReportTable tr td.rowLevel4 { padding-left: 15px; }
+
+.fullReportTable tr td:first-child,
+.fullReportTable tr th:first-child { font-weight: bold; color: transparent; width: 150px !important; }
+</style>
+</head>
+<body style="">
+	<div class="viewport">
+		<table id="reportTable" class="reportTable" style="color: black; border-color: black; ">
+			<thead><tr class="rowDivider2"><th>&nbsp;</th><td>Jan 2012</td><td>Feb 2012</td><td>Mar 2012</td><td>Apr 2012</td><td>May 2012</td><td>Jun 2012</td><td>Q3 2012</td><td>Q4 2012</td><td>Q1 2013</td><td>Q2 2013</td><td>2013</td><td>2014</td><td>2015</td><td>2016</td></tr></thead>
+			<tbody><tr><td class="rowLevel1">Assets</td><td>&nbsp;</td></tr><tr><td class="rowLevel2">Current Assets</td><td>&nbsp;</td></tr><tr><td class="rowLevel3">Cash</td><td>21,989</td><td>(35,507)</td><td>(91,626)</td><td>(188,615)</td><td>(168,615)</td><td>(171,615)</td><td>(143,117)</td><td>(166,003)</td><td>(167,505)</td><td>(169,006)</td><td>(172,010)</td><td>(175,013)</td><td>(175,013)</td><td>(175,013)</td></tr><tr><td class="rowLevel3">Accounts Receivable</td><td>0</td><td>43,050</td><td>43,050</td><td>43,050</td><td>43,050</td><td>43,050</td><td>43,050</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr class="rowDivider1"><td class="rowLevel1">&nbsp;</td><td>21,989</td><td>7,543</td><td>(48,576)</td><td>(145,565)</td><td>(125,565)</td><td>(128,565)</td><td>(100,067)</td><td>(166,003)</td><td>(167,505)</td><td>(169,006)</td><td>(172,010)</td><td>(175,013)</td><td>(175,013)</td><td>(175,013)</td></tr><tr><td class="rowLevel2">Long Term Assets</td><td>&nbsp;</td></tr><tr><td class="rowLevel3">BMW</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>24,000</td><td>24,000</td><td>24,000</td><td>24,000</td><td>24,000</td><td>24,000</td><td>24,000</td><td>24,000</td><td>24,000</td></tr><tr><td class="rowLevel3">Less: Accumulated Depreciation</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>238</td><td>952</td><td>1,667</td><td>2,381</td><td>3,095</td><td>4,524</td><td>7,381</td><td>10,238</td><td>13,095</td></tr><tr class="rowDivider1"><td class="rowLevel1">&nbsp;</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>23,762</td><td>23,048</td><td>22,333</td><td>21,619</td><td>20,905</td><td>19,476</td><td>16,619</td><td>13,762</td><td>10,905</td></tr><tr class="rowDivider1 rowDivider3"><td class="rowLevel1">&nbsp;</td><td>21,989</td><td>7,543</td><td>(48,576)</td><td>(145,565)</td><td>(125,565)</td><td>(104,803)</td><td>(77,019)</td><td>(143,670)</td><td>(145,886)</td><td>(148,102)</td><td>(152,533)</td><td>(158,394)</td><td>(161,251)</td><td>(164,108)</td></tr><tr><td class="rowLevel1">&nbsp;</td><td>&nbsp;</td></tr><tr><td class="rowLevel1">Liabilities</td><td>&nbsp;</td></tr><tr><td class="rowLevel2">Current Liabilities</td><td>&nbsp;</td></tr><tr><td class="rowLevel3">Accounts Payable</td><td>85,000</td><td>120,000</td><td>135,000</td><td>50,000</td><td>50,000</td><td>50,000</td><td>50,000</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td class="rowLevel3">Current Portion of LTD</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5,500</td><td>5,282</td><td>5,388</td><td>5,496</td><td>5,606</td><td>4,330</td><td>0</td><td>0</td><td>0</td></tr><tr><td class="rowLevel3">Employee Deductions</td><td>21,989</td><td>31,043</td><td>34,924</td><td>12,935</td><td>12,935</td><td>12,935</td><td>12,935</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr class="rowDivider1"><td class="rowLevel1">&nbsp;</td><td>106,989</td><td>152,543</td><td>171,424</td><td>64,435</td><td>64,435</td><td>69,935</td><td>69,717</td><td>5,388</td><td>5,496</td><td>5,606</td><td>4,330</td><td>0</td><td>0</td><td>0</td></tr><tr><td class="rowLevel2">Long Term Liabilities</td><td>&nbsp;</td></tr><tr><td class="rowLevel3">Car</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5,500</td><td>4,436</td><td>3,023</td><td>1,582</td><td>112</td><td>(1,415)</td><td>0</td><td>0</td><td>0</td></tr><tr class="rowDivider1"><td class="rowLevel1">&nbsp;</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5,500</td><td>4,436</td><td>3,023</td><td>1,582</td><td>112</td><td>(1,415)</td><td>0</td><td>0</td><td>0</td></tr><tr class="rowDivider1 totals"><td class="rowLevel1">&nbsp;</td><td>106,989</td><td>152,543</td><td>171,424</td><td>64,435</td><td>64,435</td><td>75,435</td><td>74,153</td><td>8,411</td><td>7,078</td><td>5,718</td><td>2,915</td><td>0</td><td>0</td><td>0</td></tr><tr><td class="rowLevel1">Equity</td><td>&nbsp;</td></tr><tr><td class="rowLevel2">Retained Earnings</td><td>(85,000)</td><td>(145,000)</td><td>(220,000)</td><td>(210,000)</td><td>(200,000)</td><td>(190,238)</td><td>(161,172)</td><td>(162,081)</td><td>(162,964)</td><td>(163,819)</td><td>(165,449)</td><td>(168,394)</td><td>(171,251)</td><td>(174,108)</td></tr><tr><td class="rowLevel2">Capital Stock</td><td>0</td><td>0</td><td>0</td><td>0</td><td>10,000</td><td>10,000</td><td>10,000</td><td>10,000</td><td>10,000</td><td>10,000</td><td>10,000</td><td>10,000</td><td>10,000</td><td>10,000</td></tr><tr class="rowDivider1"><td class="rowLevel1">&nbsp;</td><td>(85,000)</td><td>(145,000)</td><td>(220,000)</td><td>(210,000)</td><td>(190,000)</td><td>(180,238)</td><td>(151,172)</td><td>(152,081)</td><td>(152,964)</td><td>(153,819)</td><td>(155,449)</td><td>(158,394)</td><td>(161,251)</td><td>(164,108)</td></tr><tr class="rowDivider1 rowDivider3"><td class="rowLevel1">&nbsp;</td><td>21,989</td><td>7,543</td><td>(48,576)</td><td>(145,565)</td><td>(125,565)</td><td>(104,803)</td><td>(77,019)</td><td>(143,670)</td><td>(145,886)</td><td>(148,102)</td><td>(152,533)</td><td>(158,394)</td><td>(161,251)</td><td>(164,108)</td></tr></tbody>
+		</table>
+	</div>
+</body>
+</html>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SECTION_3_BACKGROUND_IMAGE</key>
+	<dict>
+		<key>Comment</key>
+		<string>Name of the background image for section 3.  e.g., some-image.jpg</string>
+		<key>Value</key>
+		<string>content-background-paper.png</string>
+	</dict>
+	<key>SECTION_3_HEADER_IMAGE</key>
+	<dict>
+		<key>Comment</key>
+		<string>Name of the header image for section 3.  e.g., some-image.jpg</string>
+		<key>Value</key>
+		<string>content-background-header.png</string>
+	</dict>
+	<key>SECTION_3_FONT_NAME</key>
+	<dict>
+		<key>Comment</key>
+		<string>Font name for regular text in in section 3.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+		<key>Value</key>
+		<string>Helvetica</string>
+	</dict>
+	<key>SECTION_3_BOLD_FONT_NAME</key>
+	<dict>
+		<key>Comment</key>
+		<string>Font name for bold text in in section 3.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+		<key>Value</key>
+		<string>Helvetica-Bold</string>
+	</dict>
+	<key>SECTION_3_ITALIC_FONT_NAME</key>
+	<dict>
+		<key>Comment</key>
+		<string>Font name for italic text in in section 3.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+		<key>Value</key>
+		<string>Helvetica-Oblique</string>
+	</dict>
+	<key>SECTION_3_REPORT_TITLE_FONT_SIZE</key>
+	<dict>
+		<key>Comment</key>
+		<string>The size in points of title text in report headings in section 3.  e.g., 14</string>
+		<key>Value</key>
+		<string>36</string>
+	</dict>
+	<key>SECTION_3_REPORT_TITLE_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of title text in report headers in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>FFFFFF</string>
+	</dict>
+	<key>SECTION_3_REPORT_SUBTITLE_FONT_SIZE</key>
+	<dict>
+		<key>Comment</key>
+		<string>The size in points of subtitle text in report headings in section 3.  e.g., 14</string>
+		<key>Value</key>
+		<string>12</string>
+	</dict>
+	<key>SECTION_3_REPORT_SUBTITLE_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of subtitle text in report headers in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>000000</string>
+	</dict>
+	<key>SECTION_3_REPORT_DESCRIPTION_FONT_SIZE</key>
+	<dict>
+		<key>Comment</key>
+		<string>The size in points of description text in report headings in section 3.  e.g., 14</string>
+		<key>Value</key>
+		<string>10</string>
+	</dict>
+	<key>SECTION_3_REPORT_DESCRIPTION_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of description text in report headers in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>000000</string>
+	</dict>
+	<key>SECTION_3_CHART_LINE_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the lines in the charts in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>D9D9D9</string>
+	</dict>
+	<key>SECTION_3_CHART_ALTERNATING_ROW_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of alternating rows in charts in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>F2F2F2</string>
+	</dict>
+	<key>SECTION_3_CHART_HEADING_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the heading font in the charts in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>000000</string>
+	</dict>
+	<key>SECTION_3_CHART_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the font in the charts in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>000000</string>
+	</dict>
+	<key>SECTION_3_REPORT_HEADER_TITLE_FONT_SIZE</key>
+	<dict>
+		<key>Comment</key>
+		<string>The size in points of report header text in R2, R3, R4, and R5.  e.g., 14</string>
+		<key>Value</key>
+		<string>9</string>
+	</dict>
+	<key>SECTION_3_SECTION_HEADING_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the font for section headings in reports  in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>000000</string>
+	</dict>
+	<key>SECTION_3_FONT_SIZE</key>
+	<dict>
+		<key>Comment</key>
+		<string>The size in points of text in reports R1, R6 - R9 for section 3.  e.g., 14</string>
+		<key>Value</key>
+		<string>10</string>
+	</dict>
+	<key>SECTION_3_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the font for regular text in reports  in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>000000</string>
+	</dict>
+	<key>SECTION_3_FINANCIAL_ANALYSIS_FONT_SIZE</key>
+	<dict>
+		<key>Comment</key>
+		<string>The size in points of text in R2, R3, R4, and R5.  e.g., 14</string>
+		<key>Value</key>
+		<string>8</string>
+	</dict>
+	<key>SECTION_3_HEADING_BOX_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the heading boxes in R5 for section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>2b2113</string>
+	</dict>
+	<key>SECTION_3_HEADING_BOX_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the font in heading boxes in R5 for section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>FFFFFF</string>
+	</dict>
+	<key>SECTION_3_LARGE_ARROW_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the large arrows in the Gantt chart in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>5FA736</string>
+	</dict>
+	<key>SECTION_3_SMALL_ARROW_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the small arrows in the Gantt chart in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>818181</string>
+	</dict>
+	<key>SECTION_3_DIAMOND_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the diamonds in the Gantt chart in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>1D648F</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_FONT_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the color of the font in the Strategy Map in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>000000</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_OBJECTIVE_FONT_SIZE</key>
+	<dict>
+		<key>Comment</key>
+		<string>The size in points of text in the objective boxes in R1.  Other text uses SECTION_3_FONT_SIZE.  e.g., 14</string>
+		<key>Value</key>
+		<string>8</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_STRATEGY_STATEMENT_LINE_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the line color of strategy statement in R1 in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>ACACAC</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_STRATEGY_STATEMENT_FILL_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the fill color of strategy statement in R1 in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>F3F3F3</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_THEME_BOX_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the fill color of theme boxes in R1 in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>D6D6D6</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_FINANCIAL_OBJECTIVE_BOX_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the fill color of financial objective boxes in R1 in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>D3FB8B</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_CUSTOMER_OBJECTIVE_BOX_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the fill color of customer objective boxes in R1 in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>71FCD8</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_PROCESS_OBJECTIVE_BOX_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the fill color of process objective boxes in R1 in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>FFD486</string>
+	</dict>
+	<key>SECTION_3_STRATEGY_MAP_STAFF_OBJECTIVE_BOX_COLOR</key>
+	<dict>
+		<key>Comment</key>
+		<string>8-bit hex string representing the fill color of staff objective boxes in R1 in section 3.  e.g., 4C4D4E</string>
+		<key>Value</key>
+		<string>FFBDBD</string>
+	</dict>
+	<key>kSkinSection4FontColor</key>
+	<dict>
+		<key>Value</key>
+		<string>000000</string>
+	</dict>
+	<key>kSkinSection4FontSize</key>
+	<dict>
+		<key>Value</key>
+		<string>12</string>
+	</dict>
+	<key>kSkinSection4GridColor</key>
+	<dict>
+		<key>Value</key>
+		<string>dddddd</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,82 @@
+/* shared table styles */
+
+body {font-family: helvetica, arial, sans-serif;}
+
+.reportTable,
+.tableRowHeaders,
+.fullReportTable {font-size: 9px;border-collapse: collapse; border-spacing: 0;}
+
+/* summary table styles */
+
+.viewport {width:858px; height:536px; padding: 20px 0 20px 20px; overflow-y:auto; overflow-x:hidden; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
+
+.reportTable {font-size:9px; width:100%; table-layout:fixed;}
+
+.reportTable tr.rowDivider1 td,
+.reportTable tr.rowDivider1 th {border-top:1px solid;}
+.reportTable tr.rowDivider2 td,
+.reportTable tr.rowDivider2 th {border-bottom:2px solid;}
+.reportTable tr.rowDivider3 td,
+.reportTable tr.rowDivider3 th {border-bottom:3px double;}
+
+.reportTable tr th {text-align:right; padding:4px 0 4px;}
+.reportTable tr td {text-align:right; vertical-align:top; padding:4px 0 4px;}
+.reportTable tr td:first-child,
+.reportTable tr th:first-child {font-weight:bold; border-top-color:transparent !important; border-bottom-color:transparent !important; text-align:left; width:150px;}
+
+.reportTable tr td.rowLevel2 {padding-left:5px;}
+.reportTable tr td.rowLevel3 {padding-left:10px;}
+.reportTable tr td.rowLevel4 {padding-left:15px;}
+
+/* detail table styles */
+
+.container { width: 878px; height: 516px; position: relative; padding: 20px 0 20px 20px; overflow-y: scroll; -webkit-overflow-scrolling: touch; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.container:after {content: ""; display: table; clear: both;}
+
+.headerWrapper { width: 150px; float: left; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.tableWrapper { width: 688px; float: left; padding-bottom:12px; overflow-x: scroll; -webkit-overflow-scrolling: touch; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+.tableRowHeaders tr td,
+.tableRowHeaders tr th {font-weight: bold; border-color:transparent !important;}
+
+.fullReportTable {table-layout: fixed; margin-left: -159px; width: 6300px; }
+
+.tableRowHeaders thead th,
+.fullReportTable thead th { height: 12px; }
+
+.tableRowHeaders tr.rowDivider1 td,
+.tableRowHeaders tr.rowDivider1 th,
+.fullReportTable tr.rowDivider1 td,
+.fullReportTable tr.rowDivider1 th { border-top: 1px solid; }
+.tableRowHeaders tr.rowDivider2 td,
+.tableRowHeaders tr.rowDivider2 th,
+.fullReportTable tr.rowDivider2 td,
+.fullReportTable tr.rowDivider2 th { border-bottom: 2px solid; }
+.tableRowHeaders tr.rowDivider3 td,
+.tableRowHeaders tr.rowDivider3 th,
+.fullReportTable tr.rowDivider3 td,
+.fullReportTable tr.rowDivider3 th { border-bottom: 3px double; }
+
+/* 
+.fullReportTable thead tr td:nth-of-type(even),
+.fullReportTable tbody tr td:nth-of-type(odd) {
+	background: -webkit-linear-gradient(right, rgba(255, 255, 255, 0.3) 0%, rgba(210, 210, 210, 0) 100%);
+	background: linear-gradient(to left, rgba(255, 255, 255, 0.3) 0%, rgba(210, 210, 210, 0) 100%);
+	border-right: 1px solid rgba(210, 210, 210, 0.3)
+}
+*/
+
+.tableRowHeaders tr th { padding: 4px; }
+.tableRowHeaders tr td { vertical-align: top; padding: 4px 0; }
+.fullReportTable tr th { text-align: right; padding: 4px; }
+.fullReportTable tr td { text-align: right; vertical-align: top; padding: 4px; }
+
+.tableRowHeaders tr td.rowLevel2,
+.fullReportTable tr td.rowLevel2 { padding-left: 5px; }
+.tableRowHeaders tr td.rowLevel3,
+.fullReportTable tr td.rowLevel3 { padding-left: 10px; }
+.tableRowHeaders tr td.rowLevel4,
+.fullReportTable tr td.rowLevel4 { padding-left: 15px; }
+
+.fullReportTable tr td:first-child,
+.fullReportTable tr th:first-child { font-weight: bold; color: transparent; width: 150px !important; }

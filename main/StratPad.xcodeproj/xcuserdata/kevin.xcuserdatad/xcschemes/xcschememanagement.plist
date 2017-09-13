@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>StratPad Free Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>StratPad Free.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>StratPad Platinum Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>StratPad Platinum.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>StratPad Plus Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>StratPad Plus.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>StratPad Premium Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>StratPad Premium.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>07F331F013DDF353007AEA80</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>07F3321C13DDF353007AEA80</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE48102314AE8C860096B8CD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE48122D14B27A6F0096B8CD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE5B8DCD14B29A7800CB980C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE7C0C0C148E9A2E004F4E9D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE8C56C915A3DE7A00067A07</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FEE371A415A76BC400A5E503</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

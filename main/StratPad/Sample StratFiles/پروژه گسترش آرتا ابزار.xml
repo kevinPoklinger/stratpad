@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111109T18:40:45-0700</dateCreated>
+	<dateLastAccessed>20140203T17:28:26-0700</dateLastAccessed>
+	<dateModified>20140203T17:28:11-0700</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.6 (1090)</model>
+	<uuid>3A34DAE7-5657-4D41-A353-F3105DD66CFE</uuid>
+	<name>پروژه گسترش آرتا ابزار</name>
+	<companyName>آرتا ابزار سپهر</companyName>
+	<city>شیراز</city>
+	<provinceState>فارس</provinceState>
+	<country>ایران</country>
+	<industry>درب و پنجره</industry>
+	<keyProblems>تولید کنندگان پروفیل میخواهند که کالای خود را با ارزش افزوده بیشتر و کاملتر به دست مشتری خود برسانند. با استفاده از گسکت های معروف به دو جزیی و پروفیل مقاومتی غیر فلزی معروف به سی آر پی این کار امکان پذیر است. همچنین بسیاری از تولید کنندگان تمایل زیادی به فروش و پیشنهاد دیگر کالاها بعنوان یک سبد پیشنهادی کامل دارند. اما گسکت های دو جزیی و سی آر پی کیفیت و قیمت مناسبی ندارند.
+
+تولیدکنندگان درب و پنجره نیازمند سبدی از کالاها هستند که هم کیفیت مناسبی داشته باشد هم در دسترس باشد و هم قیمت مناسبی داشته باشند. برخی از کالاها مانند پروفیل های گسکت سرخود و پروفیل مقاومتی که همراه با پروفیل اصلی بریده می شوند میتوانند سرعت تولید را به گونه ای محسوس بالا ببرند و قیمت نهایی تولید را کاهش دهند. بیشینه ی این تولید کنندگان سنتی هستند و در موارد حقوقی ، تبلیغات و مالی دچار مشکل هستند.
+
+فضای کسب و کار در ایران به فعالان آن حق انتخاب زیادی نمی دهد و پارامتر قیمت و شیوه ی پرداخت مدت دار بازیگرهای کلیدی این فضا می باشند. یکی از پارامترهای مهم هزینه ، حمل و نقل است پس تولیدکنندگان درب و پنجره تمایل زیادی به خرید تمام کالاهای مورد نیاز بعنوان یک سبد کامل کالایی دارند و تولید کنندگان پروفیل هم این را درک کرده اند. بازار مدتی است که به ایننیاز پاسخ داده و استفاده  تولید کنندگان پروفیل از  گسکت دوجزیی و فروش دیگر کالاها نشانه این جهتگیری است.
+
+</keyProblems>
+	<addressProblems>تولیدکنندگان پروفیل: ما در تلاش هستیم که گسکتی تک جزیی با قیمت و کیفیت مناسبتر را پیشنهاد دهیم. همچنین در تلاش هستیم که جایگزین مناسبی برای پروفیل مقاومتی گالوانیزه پیدا کنیم که قابلیت برش همرا با پروفیل را داشته باشد و قیمت مناسبی هم داشته باشد. همچنین با پیشنهاد راهکارهای نوین مرتبط با فناوری نانو ویژگیهای مناسبی را به محصولات آنها اضافه خواهیم کرد. 
+
+تولید کنندگان درب و پنجره: ما سبد کالای کاملی خواهیم داشت و ابزارهای مالی مناسبی در اختیار آنها قرار خواهیم داد. همچنین آنها نیازمند ابزارهای مالی و تبلیغاتی و حقوقی هستند که ما می توانیم در اختیار آنها قرار دهیم.
+
+پروژه بگیریم بدهیم به آنها.</addressProblems>
+	<customersDescription>مشتریان شرکت دو دسته مهم هستند شامل تولید کنندگان پروفیل یو پی وی سی و آلومینیوم و تولید کنندگان درب و پنجره دوجداره. تولیدکنندگان درب و پنجره ، مشتریان کلیدی تولیدکنندگان پروفیل هستند. کالاهای پیشنهادی ما به تولیدکنندگان پروفیل کمک میکند تا پروفیل با ترکیب مناسبتری را تولید کنند که سرعت  تولید و کیفیت کار مشتریان  شان را افزایش می دهد و هزینه حمل ایشان را کاهش می دهد.  خانه سازان ، مشتریان تولیدکنندگان درب و پنجره هستند. سبد کالاها و خدماتی که به تولید کنندگان درب و پنجره پیشنهاد می دهیم سبب کاهش هزینه های تولید و بالاتر رفتن کیفیت می شود و مشتریان آنها راضی تر خواهند بود پس ایشان از مزیت رقابتی بیشتری برخوردار خواهند شد.
+</customersDescription>
+	<competitorsDescription>بازار دچار اشباع تامین کنندگان یراق آلات شده و این بدین معنی است که ما صدها رقیب داریم که از نظر مالی بسیار از ما پر توان تر هستند. این تامین کنندگان به دو گروه تولیدکنندگان و گروه پخش کنندگان تقسیم می شوند.
+
+گروه پخش کنندگان:
+شامل نماینگان تولیدی ها و خرد فروشان می شود و تنها تمایز ما نسبت به آنها گسکت تک جزیی ما می باشد.
+
+گروه تولیدکنندگان:
+این گروه از نظر قیمت دارای مزیت رقابتی هستند اما نمی توانند ابزارهای مالی و سبد کاملی در اختیار مشتری قرار دهند. تفاوت ما نسبت به آنها دسترسی پذیری بهتر و سبد کالایی مناسبتر میباشد.
+
+ورود توليد كنندگان پروفيل به بازار تامين يراق آلات كسب و كار را براي پخش كنندگان بسيار پيچيده كرده است. چراكه آنها توليد كننده كالاي اصلي در اين صنعت هستند و با پيشنهاد ديگر كالاهاي ديگر همراه با پروفيل (گسكت دو جزيي ) يا در كنار پروفيل ( يراق آلات) مي توانند مشتريان را به سمت خود جذب كنند. مشتريان در اين روش هزينه هاي زماني ، عملياتي و حمل و نقل كمتري خواهند داد.
+ورود تولیدکنندگان پروفیل به بازار تامین یراق آلات ، بازار کسب و کار را برای پخش کنندگان بسیار پیچیده کرده است. چراکه آنها تولید کننده کالای اصلی در این صنعت هستند و با پیشنهاد دیگر کالاهی دیگر همراه با پروفیل ( گسکت دوجزیی) یا در کنار پروفل ( یراق آلات) می توانند مشتریان را به سمت خود جذب کنند. مشتریان در این روش هزینه های زمانی ، عملیاتی و حمل و نقل کمتری خواهند داد. </competitorsDescription>
+	<businessModelDescription>شیوه فروش ما سنتی است و شیوه ی بازاریابی ما تا به امروز تماس تلفنی و ارسال نمونه بوده است. 
+شرکت آرتا ابزار از فروش یراق آلات درب و پنجره و گسکت کسب درآمد میکند. بیشترین درآمد شرکت از فروش گسکت به تولیدکنندگان پروفیل و تولیدکنندگان درب و پنجره می باشد. تامین کننده گسکت شرکت آرتا ابزار ، کارخانه ای در تهران است که کالای مورد نیاز شرکت آرتا ابزار را تولید و به شیو پرداخت مدت دار به شرکت می فروشد.
+در مورد یرا نیز ما با تامن کنندگانی در تبریز و تهران کار میکنیم بگونه ای که یراق آلات را با تخفیف میخریم و به مشتری هایمان با کمی ارزش افزوده میفروشیم.
+</businessModelDescription>
+	<expansionOptionsDescription>فرصت های کسب درآمد زیادی  وجود دارد که بترتیب عبارتند از: 
+تهیه گسکت ویژه تولیدکنندگان پروفیل ، بسیاری از تولیدکنندگان پروفیل خود را با گسکت سرخود تولید میکنند و مشتریان آنها نیز این را بیشتر می پسندند.
+
+فروش پروفیل یو پی وی سی ، این بسیار پر اهمیت است چراکه استراتژیک ترین کالا در صنعت تولید درب و پنجره یو پی وی سی این کالا می باشد و این صنعت بشدت در حال رشد در بازار می باشد.
+فروش پروفیل و یراق آلات مورد نیاز صنعت آلومینیوم ، این بدلیل هم پوشانی بسیاری که با فعالیت کنونی ما دارد دارای اهمیت می باشد.
+تهیه گسکت برای دیگر صنایع ، این میتواند ریسک درآمدی را کاهش دهد و بدلیل هزینه ی بسیار پایین تهیه قالب فشار زیادی به تولید کننده نمی آورد.
+تهیه و فروش دستگاه های تولید درب و پنجره ، افزون بر بالا رفتن شمار مشتریان ما ، ارزش افزوده مناسبی بدست می آوریم.
+فروش انواع دیگر درب ، مشتریان ما در کنار فروش درب و پنجره های  تولیدی خود می توانند دیگر انواع درب را نیز به مشتریان خود پیشنهاد دهند پس تمایل زیادی دارند تا به شیوه بازاریابی ( پیشنهاد مشتری به شرکت ما) یا شیوه فروش مستقیم (خرید از ما و فروش به مشتری) کسب درآمد کنند.
+
+خدمات نصب درب و پنجره: هم افزایی در فروش دیگر انواع درب و همچنین وابستگی بیشتر مشتریان به شرکت.
+خدمات بازاریابی درب و پنجره ، سبب کسب درآمد می شود و همچنین با سپردن کار تولید به مشتریانمان سبب وفاداری و وابستگی آنها می شود.
+
+فروش مکمل های جایگزین و مواد مفید با فناوری های نوین: برندینگ و خوشنامی بعنوان شرکت پیشرو. کرایه یک انبار بزرگ برای ارایه خدمات لجستیک ذخیره به صاحبان کالا و برند. این سبب می شود که ما کانون لجستیکی برای تمام کالاهای استراتژیک این صنعت بشویم و بتوانیم در کنار آن بالاترین مزیت های رقابتی را به مشتریان خود بدهیم. و از طرفی از اینکار کسب درآمد مستقیم کنیم.
+
+انبار لجستیک برای تمام کالاهای مرتبط با درب و پنجره.</expansionOptionsDescription>
+	<ultimateAspiration>ما می خواهیم بزرگترین و سازمان یافته ترین شرکت پخش یراق آلات درب و پنجره در ایران باشیم.</ultimateAspiration>
+	<mediumTermStrategicGoal>تا سیم اسفند نود و سه شمار مشتریان وفادار شرکت بطور مستقیم و غیر مستیم کمینه دویست عدد خواهد شد.</mediumTermStrategicGoal>
+	<financials>
+		<accountsReceivableTerm>30</accountsReceivableTerm>
+		<accountsPayableTerm>30</accountsPayableTerm>
+		<percentCogsIsInventory>10</percentCogsIsInventory>
+		<inventoryLeadTime>0</inventoryLeadTime>
+		<loans />
+		<assets />
+		<equities />
+		<employeeDeductions>
+			<percentCogsAreWages>0</percentCogsAreWages>
+			<percentGandAAreWages>0</percentGandAAreWages>
+			<percentRandDAreWages>0</percentRandDAreWages>
+			<percentSandMAreWages>0</percentSandMAreWages>
+			<employeeContributionPercentage>20</employeeContributionPercentage>
+			<employerContributionPercentage>15</employerContributionPercentage>
+			<dueDate>0</dueDate>
+		</employeeDeductions>
+		<salesTax>
+			<percentRevenuesIsTaxable>50</percentRevenuesIsTaxable>
+			<rate>5</rate>
+			<remittanceFrequency>3</remittanceFrequency>
+			<remittanceMonth>0</remittanceMonth>
+		</salesTax>
+		<incomeTax>
+			<rate1>20</rate1>
+			<rate2>25</rate2>
+			<rate3>30</rate3>
+			<salaryLimit1>30000</salaryLimit1>
+			<salaryLimit2>65000</salaryLimit2>
+			<yearsCarryLossesForward>5</yearsCarryLossesForward>
+			<remittanceFrequency>3</remittanceFrequency>
+			<remittanceMonth>0</remittanceMonth>
+		</incomeTax>
+		<openingBalances>
+			<cash>0</cash>
+			<accountsReceivable>0</accountsReceivable>
+			<inventory>0</inventory>
+			<prepaidExpenses>0</prepaidExpenses>
+			<longTermAssets>0</longTermAssets>
+			<otherAssets>0</otherAssets>
+			<accountsPayable>0</accountsPayable>
+			<employeeDeductionsPayable>0</employeeDeductionsPayable>
+			<salesTaxPayable>0</salesTaxPayable>
+			<incomeTaxesPayable>0</incomeTaxesPayable>
+			<shortTermLoan>0</shortTermLoan>
+			<currentPortionofLTD>0</currentPortionofLTD>
+			<longTermLoan>0</longTermLoan>
+			<prepaidPurchases>0</prepaidPurchases>
+			<otherLiabilities>0</otherLiabilities>
+			<loansFromShareholders>0</loansFromShareholders>
+			<capitalStock>0</capitalStock>
+			<retainedEarnings>0</retainedEarnings>
+		</openingBalances>
+	</financials>
+	<themes>
+		<theme>
+			<title>راه اندازی کسب و کار فروش درب</title>
+			<startDate>20140201</startDate>
+			<endDate>20140922</endDate>
+			<mandatory>0</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<researchAndDevelopmentOneTime>70</researchAndDevelopmentOneTime>
+			<researchAndDevelopmentMonthly />
+			<researchAndDevelopmentQuarterly />
+			<researchAndDevelopmentAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly>285</revenueQuarterly>
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<generalAndAdminOneTime />
+			<generalAndAdminMonthly>10</generalAndAdminMonthly>
+			<generalAndAdminQuarterly />
+			<generalAndAdminAnnually />
+			<salesAndMarketingOneTime />
+			<salesAndMarketingMonthly>10</salesAndMarketingMonthly>
+			<salesAndMarketingQuarterly />
+			<salesAndMarketingAnnually />
+			<researchAndDevelopmentMonthlyAdjustment />
+			<researchAndDevelopmentQuarterlyAdjustment />
+			<researchAndDevelopmentAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment>5</revenueQuarterlyAdjustment>
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<generalAndAdminMonthlyAdjustment />
+			<generalAndAdminQuarterlyAdjustment />
+			<generalAndAdminAnnuallyAdjustment />
+			<salesAndMarketingMonthlyAdjustment />
+			<salesAndMarketingQuarterlyAdjustment />
+			<salesAndMarketingAnnuallyAdjustment />
+			<numberOfEmployeesAtThemeStart />
+			<numberOfEmployeesAtThemeEnd />
+			<percentCogsIsPayroll />
+			<percentResearchAndDevelopmentIsPayroll />
+			<percentGeneralAndAdminIsPayroll />
+			<percentSalesAndMarketingIsPayroll />
+			<responsible>علی نکویی فرد</responsible>
+			<objectives>
+				<objective>
+					<order>2</order>
+					<summary>افزایش کارمندان بازاریابی و فروش</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار بازاریابان پورسانتی</summary>
+							<targetDate>20140721</targetDate>
+							<targetValue>3</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار کارمندان فروش</summary>
+							<targetDate>20140721</targetDate>
+							<targetValue>1</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>درآمد فروش درب</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>درآمد ماهیانه از فروش درب داخلی</summary>
+							<targetDate>20140620</targetDate>
+							<targetValue>40</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20140128</date>
+									<value>1</value>
+									<comment>درآمد فروش درب داخلی</comment>
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>فروش درب داخلی</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>6CEBB32D-FD8F-43F0-A8F6-6019B1A466C5</uuid>
+									<overlay>FE2EF678-ABF5-412D-B957-E1A4E29D80EC</overlay>
+									<yAxisMax>100</yAxisMax>
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>درآمد ماهیانه از فروش درب ضد سرقت</summary>
+							<targetDate>20140620</targetDate>
+							<targetValue>50</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20140201</date>
+									<value>1</value>
+									<comment>درآمد آغازین</comment>
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>فروش درب ضد سرقت</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>1</order>
+									<uuid>0FFF06D6-09AD-478A-A115-A8784840F7E2</uuid>
+									<overlay>4AEACD3B-8884-4ED1-9A4D-8B6C3056606B</overlay>
+									<yAxisMax />
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>1</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order />
+									<uuid>2F777BFC-6932-42A6-884C-C543D9887217</uuid>
+									<overlay />
+									<yAxisMax />
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>درآمد ماهیانه از نصب درب</summary>
+							<targetDate>20140620</targetDate>
+							<targetValue>5</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20140201</date>
+									<value>1</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>درآمد ماهیانه از نصب درب</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order>2</order>
+									<uuid>5C92C378-8AF9-4AB8-9FAB-11CC877F3140</uuid>
+									<overlay />
+									<yAxisMax />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>افزایش شمار فروش ها به مشتری</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار تماس ورودی مشتری در روز</summary>
+							<targetDate>20140520</targetDate>
+							<targetValue>5</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>1</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order />
+									<uuid>32A56678-A0AB-41D3-AD2A-17D71B9F98E3</uuid>
+									<overlay />
+									<yAxisMax />
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>شمار پیامک هدفمند در هفته</summary>
+							<targetDate>20140520</targetDate>
+							<targetValue>30</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>گسترش شمار رکوردهای بانک اطلاعاتی </summary>
+							<targetDate>20140419</targetDate>
+							<targetValue>1000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار ویزیت ها در هفته </summary>
+							<targetDate>20140520</targetDate>
+							<targetValue>30</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>3</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order />
+									<uuid>FE2EF678-ABF5-412D-B957-E1A4E29D80EC</uuid>
+									<overlay />
+									<yAxisMax>60</yAxisMax>
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>1</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order />
+									<uuid>4AEACD3B-8884-4ED1-9A4D-8B6C3056606B</uuid>
+									<overlay />
+									<yAxisMax />
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>ارسال پیام های تبلیغاتی در ماه</summary>
+							<targetDate>20140520</targetDate>
+							<targetValue>1000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20140201</date>
+									<value>10</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>پیام های تبلیغاتی</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>E0F34C80-7ABE-4536-A2FB-58D69330D3E2</uuid>
+									<overlay>32A56678-A0AB-41D3-AD2A-17D71B9F98E3</overlay>
+									<yAxisMax />
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>شمار وبسایت های میزبان</summary>
+							<targetDate>20140224</targetDate>
+							<targetValue>20</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>گسترش شبکه فروش</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار کارگذاران </summary>
+							<targetDate>20140924</targetDate>
+							<targetValue>50</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20140201</date>
+									<value>1</value>
+									<comment>شمار کارگذاران</comment>
+								</measurement>
+								<measurement>
+									<date>20140201</date>
+									<value>1</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>شمار کارگذاران </title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>96E2449E-729F-4F0C-8BF7-51BF3B652F45</uuid>
+									<overlay>2F777BFC-6932-42A6-884C-C543D9887217</overlay>
+									<yAxisMax />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>برآوردن پیش نیازها</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>کاتالوگ درب </summary>
+							<targetDate>20140305</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>نمایشگاه داخلی شرکت</summary>
+							<targetDate>20140218</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>وبسایت برای فروش درب</summary>
+							<targetDate>20140213</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>قرارداد و شیوه نامه</summary>
+							<targetDate>20140208</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شماره تلفن و شماره و گوشی موبایل ویژه درب</summary>
+							<targetDate>20140213</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>راه اندازی نرم افزار مدیریت ارتباط با مشتری</summary>
+							<targetDate>20140208</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>انتخاب طرف های خرید و خدمات</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار نصاب های درب</summary>
+							<targetDate>20140314</targetDate>
+							<targetValue>10</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>تامین کننده درب داخلی، ضد سرقت</summary>
+							<targetDate>20140203</targetDate>
+							<targetValue>6</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>بودجه پژوهش و گسترش</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>بودجه پژوهش و راه اندازی</summary>
+							<targetDate>20140320</targetDate>
+							<targetValue>70</targetValue>
+							<successIndicator>1</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>بودجه تبلیغات</summary>
+							<targetDate>20140620</targetDate>
+							<targetValue>10</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>بودجه ثبت و جداسازی شرکت آرتا درب</summary>
+							<targetDate>20140821</targetDate>
+							<targetValue>200</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>تامین بودجه برای جداسازی شرکت آرتا درب</action>
+							<startDate>20140621</startDate>
+							<endDate>20140821</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>بانو طیبه زارع</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>ثبت شرکت آرتا درب</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>ثبت شرکت آرتا درب</summary>
+							<targetDate>20140921</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>گسترش فروش گسکت و یراق آلات</title>
+			<startDate>20131229</startDate>
+			<endDate>20150314</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<researchAndDevelopmentOneTime />
+			<researchAndDevelopmentMonthly />
+			<researchAndDevelopmentQuarterly />
+			<researchAndDevelopmentAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<generalAndAdminOneTime />
+			<generalAndAdminMonthly />
+			<generalAndAdminQuarterly />
+			<generalAndAdminAnnually />
+			<salesAndMarketingOneTime />
+			<salesAndMarketingMonthly />
+			<salesAndMarketingQuarterly />
+			<salesAndMarketingAnnually />
+			<researchAndDevelopmentMonthlyAdjustment />
+			<researchAndDevelopmentQuarterlyAdjustment />
+			<researchAndDevelopmentAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<generalAndAdminMonthlyAdjustment />
+			<generalAndAdminQuarterlyAdjustment />
+			<generalAndAdminAnnuallyAdjustment />
+			<salesAndMarketingMonthlyAdjustment />
+			<salesAndMarketingQuarterlyAdjustment />
+			<salesAndMarketingAnnuallyAdjustment />
+			<numberOfEmployeesAtThemeStart />
+			<numberOfEmployeesAtThemeEnd />
+			<percentCogsIsPayroll />
+			<percentResearchAndDevelopmentIsPayroll />
+			<percentGeneralAndAdminIsPayroll />
+			<percentSalesAndMarketingIsPayroll />
+			<responsible>بانو صفیه حیاتی</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>گسترش و آموزش بازاریاب ها و فروشندگان</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار فروشنده های آموزش دیده</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار بازاریاب ها</summary>
+							<targetDate />
+							<targetValue>100</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>استخدام سر بازاریاب</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>ارتباط روزانه با بیست نفر از بازاریابان و عاملان فروش توسط سربازاریاب</action>
+							<startDate>20131229</startDate>
+							<endDate>20150313</endDate>
+							<upfrontCost />
+							<ongoingCost>1</ongoingCost>
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>افزایش  درآمد</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>درآمد ماهیانه از فروش یراق آلات</summary>
+							<targetDate>20140302</targetDate>
+							<targetValue>30</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>درآمد ماهیانه از گسکت لاستیکی برای آلومینیوم</summary>
+							<targetDate>20140303</targetDate>
+							<targetValue>30</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>درآمد ماهیانه از فروش پروفیل مقاومتی گالوانیزه</summary>
+							<targetDate />
+							<targetValue>40</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>درآمد ماهیانه از فروش یراق آلات شیشه</summary>
+							<targetDate>20140402</targetDate>
+							<targetValue>20</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>درآمد ماهیانه از فروش گسکت لاستیکی</summary>
+							<targetDate>20140402</targetDate>
+							<targetValue>50</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>درآمد ماهیانه از فروش گسکت نرم</summary>
+							<targetDate>20140502</targetDate>
+							<targetValue>30</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>افزایش رضایتمندی مشتری</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>خدمات IT</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>خدمات تبلیغات</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>خدمات حقوقی</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>کاهش زمان پاسخ به سفارش مشتری</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>پرداخت وام قرض الحسنه</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>مشاوره مالی و دارایی</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>فروش اعتباری</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>گسترش شمار تماس مشتری</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار تماس ورودی در روز</summary>
+							<targetDate>20140504</targetDate>
+							<targetValue>20</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار پیامک هدفمند در روز</summary>
+							<targetDate />
+							<targetValue>30</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار وبسایت های میزبان</summary>
+							<targetDate />
+							<targetValue>20</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>افزایش لیست کالاهای فروش</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>فروش شیشه</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>فروش گسکت نرم</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>فروش گسکت لاستیکی برای آلومینیوم</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>فروش پروفیل مقاومتی جایگزین گالوانیزه</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>فروش یراق آلات شیشه</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>ترغیب مشتریان به استفاده از گسکت لاستیکی بجای گسگت دو جزیی</action>
+							<startDate>20140103</startDate>
+							<endDate>20140304</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>بانو الهه عباسفرد</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>گسترش شمار مشتریان </summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار مشتریان گالوانیزه بیرون از صنعت درب و پنجره</summary>
+							<targetDate />
+							<targetValue>5</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار مشتریان گسکت بیرون از صنعت درب و پنجره</summary>
+							<targetDate />
+							<targetValue>5</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>بودجه پژوهش و گسترش</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>سرمایه ذخیره</summary>
+							<targetDate>20140112</targetDate>
+							<targetValue>150</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>نقدینگی برای تسویه نهایی وام رضوان سداد</summary>
+							<targetDate>20140626</targetDate>
+							<targetValue>230</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>سرمایه ذخیره</summary>
+							<targetDate>20140412</targetDate>
+							<targetValue>100</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>گسترش نمایندگان و سرمایه گذاران</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار نمایندگان</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>گسترش قلمرو جغرافیایی</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>قرارداد و شیوه نامه واگذاری  نمایندگی</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار  سرمایه گذاران</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>جستجو و  گزینش نماینده استان خراسان جنوبی و شمالی</action>
+							<startDate>20140108</startDate>
+							<endDate>20140627</endDate>
+							<upfrontCost>20</upfrontCost>
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>محمد نکویی فرد</responsible>
+						</activity>
+						<activity>
+							<action>جستجو و گزینش نماینده  استان بوشهر و خوزستان</action>
+							<startDate>20140129</startDate>
+							<endDate>20140227</endDate>
+							<upfrontCost>20</upfrontCost>
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>محمد نکویی فرد</responsible>
+						</activity>
+						<activity>
+							<action>چانه زنی با اسکندری برای گرفتن نمایندگی فروش تمام کشور</action>
+							<startDate>20140203</startDate>
+							<endDate>20140304</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>برندسازی و تبلیغات</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار کالاها با برند آرتا</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>برچسب و بسته بندی آرتا</summary>
+							<targetDate>20140129</targetDate>
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شرکت در نمایشگاه </summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>راه اندازی کسب و کار فروش درب و پنجره آلومینیوم و یو پی وی سی</title>
+			<startDate>20140102</startDate>
+			<endDate>20140402</endDate>
+			<mandatory>1</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<researchAndDevelopmentOneTime />
+			<researchAndDevelopmentMonthly />
+			<researchAndDevelopmentQuarterly />
+			<researchAndDevelopmentAnnually />
+			<revenueMonthly>40</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<generalAndAdminOneTime />
+			<generalAndAdminMonthly>10</generalAndAdminMonthly>
+			<generalAndAdminQuarterly />
+			<generalAndAdminAnnually />
+			<salesAndMarketingOneTime>20</salesAndMarketingOneTime>
+			<salesAndMarketingMonthly>3</salesAndMarketingMonthly>
+			<salesAndMarketingQuarterly />
+			<salesAndMarketingAnnually />
+			<researchAndDevelopmentMonthlyAdjustment />
+			<researchAndDevelopmentQuarterlyAdjustment />
+			<researchAndDevelopmentAnnuallyAdjustment />
+			<revenueMonthlyAdjustment>20</revenueMonthlyAdjustment>
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<generalAndAdminMonthlyAdjustment />
+			<generalAndAdminQuarterlyAdjustment />
+			<generalAndAdminAnnuallyAdjustment />
+			<salesAndMarketingMonthlyAdjustment>4</salesAndMarketingMonthlyAdjustment>
+			<salesAndMarketingQuarterlyAdjustment />
+			<salesAndMarketingAnnuallyAdjustment />
+			<numberOfEmployeesAtThemeStart />
+			<numberOfEmployeesAtThemeEnd />
+			<percentCogsIsPayroll />
+			<percentResearchAndDevelopmentIsPayroll />
+			<percentGeneralAndAdminIsPayroll />
+			<percentSalesAndMarketingIsPayroll />
+			<responsible>بانو صفیه حیاتی</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>برآوردن پیش نیازها</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>نمایشگاه داخلی شرکت</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>راه اندازی نرم افزار مدیریت ارتباط با مشتری</summary>
+							<targetDate>20140502</targetDate>
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>کاتالوگ درب و پنجره آلومینیوم و UPVC</summary>
+							<targetDate>20140402</targetDate>
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>قرارداد و شیوه نامه</summary>
+							<targetDate>20140112</targetDate>
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>درآمد گرفتن و واسپاری پروژه های درب و پنجره</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>درآمد ماهیانه</summary>
+							<targetDate>20140921</targetDate>
+							<targetValue>150</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>درآمد ماهیانه</summary>
+							<targetDate>20140305</targetDate>
+							<targetValue>40</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>بودجه پژوهش و گسترش</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>بودجه ثبت و جداسازی شرکت آرتا پنجره</summary>
+							<targetDate>20150629</targetDate>
+							<targetValue>300</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>گزینش همکاران سازنده و نصاب ها</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار همکاران سازنده درب و پنجره UPVC</summary>
+							<targetDate>20140302</targetDate>
+							<targetValue>4</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار همکاران سازنده درب و پنجره آلومینیوم</summary>
+							<targetDate>20140302</targetDate>
+							<targetValue>3</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار نصاب های درب و پنجره</summary>
+							<targetDate>20140202</targetDate>
+							<targetValue>5</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>گسترش شبکه بازاریابی و فروش</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار شرکت های دکوراسیون داخلی</summary>
+							<targetDate>20140216</targetDate>
+							<targetValue>20</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار شرکت های تاسیسات</summary>
+							<targetDate>20140202</targetDate>
+							<targetValue>10</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار شهرهای  استان فارس دارای نماینده</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار معمار های نما</summary>
+							<targetDate>20140402</targetDate>
+							<targetValue>14</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار نگهبان های ساختمان</summary>
+							<targetDate>20140102</targetDate>
+							<targetValue>12</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار درب و پنجره سازان آلومینیوم</summary>
+							<targetDate>20140202</targetDate>
+							<targetValue>10</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار درب و پنجره سازان UPVC</summary>
+							<targetDate>20140102</targetDate>
+							<targetValue>10</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار بازاریاب ها</summary>
+							<targetDate>20140102</targetDate>
+							<targetValue>5</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>گسترش شمار مشتریان </summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار مشتریان وفادار</summary>
+							<targetDate>20140102</targetDate>
+							<targetValue>20</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار رکوردهای بانک اطلاعاتی ناظران و مجریان</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار رکوردهای بانک اطلاعاتی پیمانکاران</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>گسترش شمار تماس مشتری</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>شمار پیامهای تبلیغاتی ارسال شده در ماه</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>میانگین شمار تماسهای مشتری برای استعلام قیمت در هفته</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+						<metric>
+							<summary>شمار وبسایت های میزبان</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>ثبت شرکت آرتا پنجره</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>ثبت شرکت آرتا پنجره</summary>
+							<targetDate>20150421</targetDate>
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

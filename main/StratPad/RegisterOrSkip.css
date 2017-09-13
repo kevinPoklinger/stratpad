@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    color: #111;
+    font-size: 1.0em;
+}
+
+a {
+    color: #447AD7;
+}
+
+p {
+    text-align:justify;
+}
+
+strong {
+    font-weight:bold;
+}
+
+.hidden {
+    display: none;
+}
+
+li {
+    margin-bottom: 8px;
+}

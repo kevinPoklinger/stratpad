@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111109T18:40:45-0700</dateCreated>
+	<dateLastAccessed>20130725T15:41:20-0600</dateLastAccessed>
+	<dateModified>20120531T13:50:30-0600</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.6 (1090)</model>
+	<uuid>9C8D51F4-27B9-4C11-8F7A-F6D5996EAF91</uuid>
+	<name>Salir al mercado</name>
+	<companyName>Acme Software Technologies Ltd.</companyName>
+	<city>Seattle</city>
+	<provinceState>Washington</provinceState>
+	<country>EE. UU.</country>
+	<industry>software de seguridad</industry>
+	<keyProblems>Las organizaciones necesitan compartir documentos entre el equipo directivo y el resto de personal, además de con otras compañías. Sin embargo, los dispositivos de computación son cada vez más potentes y ofrecen más posibilidades de comunicación y portabilidad, lo que aumenta el riesgo de que se pierdan, roben o compartan por error documentos privados. Este tipo de incidencias pueden tener un costo incalculable.
+
+Hay varias soluciones de negocio para este problema. Sin embargo, no hay ninguna que sea completa. Todas tienen algún defecto clave relacionado con la seguridad, la comodidad o la respuesta ante catástrofes. Todas cuentan con diseños gravemente defectuosos que les impiden ofrecer una alternativa completa. Dicho esto, hay que tener en cuenta que se trata de una industria sólida y que estas compañías han generado unos beneficios combinados de 7,200 millones de dólares en 2010. Para el año que viene, Gartner pronostica un crecimiento de todas ellas superior al 20%.</keyProblems>
+	<addressProblems>Hemos creado un sistema de software llamado DocLock basándonos en varias de nuestras patentes. DocLock permite a los usuarios de confianza cifrar, almacenar, imprimir, compartir y acceder de forma remota a archivos PDF. DocLock es compatible con todas las principales plataformas de computación y móviles. Utiliza un cifrado de categoría militar y un enfoque único de protección de documentos, independientemente de la distancia a la que se compartan.
+
+Así es como funciona: Usted crea un documento PDF y desea compartirlo con un grupo. Arrastra el documento al icono de DocLock, que lo codifica inmediata y automáticamente. Dentro de DocLock, se especifican las personas que pueden acceder al documento (la lista de distribución) y si pueden imprimirlo. A continuación, se envía a una o más de esas personas.
+
+Los destinatarios del documento pueden abrir, ver e imprimir (si tienen permiso) el documento, pero deben hacerlo desde DocLock. Se elabora un registro de toda la actividad y se envía al autor del documento. Los destinatarios solo pueden compartir el documento con personas incluidas en la lista de distribución. El documento no se puede editar ni se pueden realizar capturas de pantalla del mismo mediante el sistema operativo local. Asimismo, el documento no está disponible como archivo independiente, por lo que no se puede &quot;ver&quot;fuera de DocLock.
+
+Como medida final, todos los documentos se pueden &quot;retirar&quot;. El autor o un administrador pueden destruir inmediata e irrevocablemente todas las copias en cualquier dispositivo con DocLock.
+
+Esta tecnología garantiza prácticamente por completo la seguridad del documento sin afectar a la comodidad del usuario. Además, el registro ofrece unas excelentes funciones para reducir posibles usos no adecuados.</addressProblems>
+	<customersDescription>Hay muchas organizaciones que desearían usar DocLock. De momento, centrémonos en organizaciones militares y gobiernos federales, estatales y provinciales de Canadá y EE. UU. En su caso, la pérdida de documentos puede tener consecuencias desastrosas.
+
+Aunque los ciclos normales de adquisición para estos clientes son largos, nos aseguramos de que los productos de gran relevancia, como DocLock, tengan siempre prioridad durante el proceso de compra.</customersDescription>
+	<competitorsDescription>La competencia es amplia, hábil y agresiva, y cuenta con productos en el mercado. Los siguientes cuatro son ejemplos de vanguardia:
+
+DropBox ofrece un entorno alojado con distribución controlada y la posibilidad de retirar o destruir documentos. Sin embargo, es posible retirar los documentos del entorno de DropBox y a partir de ese momento se pueden distribuir libremente.
+
+Adobe es quien ha creado el formato PDF, cuya seguridad ha ido mejorando paulatinamente. Sin embargo, no se ofrece una solución de distribución. Los documentos PDF se pueden duplicar fácilmente y compartir con libertad.
+
+IBM usa una mezcla de servicios y tecnología para crear soluciones personalizadas para sus clientes que a menudo se integran con el flujo de trabajo y otros proyectos de automatización de procesos. Sus soluciones, a diferencia de DocLock, son caras y no ofrecen flexibilidad ni compatibilidad con múltiples plataformas.
+
+Oracle, al igual que DropBox, ofrece soluciones de gestión de documentos combinadas con su producto estrella. Son soluciones muy seguras que ofrecen funciones de registro y retirada de documentos. Pero los documentos están vinculados directamente con el entorno de base de datos de Oracle, de modo que no hay flexibilidad para compartirlos con dispositivos o personas que no dispongan de la base de datos de Oracle.
+
+DocLock aporta una solución de categoría superior que iguala las mejores funciones de la competencia pero que carece de sus defectos.</competitorsDescription>
+	<businessModelDescription>Generamos beneficios vendiendo licencias de software a quienes desean compartir sus documentos. DocLock se puede instalar de forma gratuita en cualquier dispositivo, aunque solo las licencias &quot;Pro&quot;pueden enviar documentos. Estas licencias son de 4,995 dólares por usuario &quot;Pro&quot;. Disponemos de una licencia para compañías con descuentos de hasta el 50% para más de 1,000 usuarios &quot;Pro&quot;.
+    
+        Contrataremos a un equipo de ventas externas dirigido por un gerente de ventas de grandes cuentas con experiencia. Después de una campaña de marketing externa integral para aumentar la visibilidad de DocLock entre los prospectos a los que queremos llegar, el equipo de ventas asistirá a dos ferias de ventas clave. El equipo y las campañas externas continuarán perfeccionándose y ampliándose.</businessModelDescription>
+	<expansionOptionsDescription>Aparte del ejército y el gobierno norteamericanos, DocLock es una solución apropiada para cualquier país y cualquier organización de investigación que desee proteger la confidencialidad de sus documentos. Nuestra investigación preliminar estima que hay 2,500 organizaciones en Norteamérica que podrían estar interesadas en adquirir licencias de DocLock &quot;Pro&quot;para al menos 100 usuarios. Esto equivale a un valor de ventas de 125 millones de dólares.</expansionOptionsDescription>
+	<ultimateAspiration>Queremos convertirnos en la referencia de transmisión segura de documentos a nivel internacional.</ultimateAspiration>
+	<mediumTermStrategicGoal>En un plazo de nueve meses (el 30 de septiembre de 2012) habremos completado el desarrollo de DocLock, vendido 100 licencias &quot;Pro&quot;y firmado 4 importantes acuerdos de distribución nacional, dos en Canadá y dos en EE. UU.</mediumTermStrategicGoal>
+	<financials>
+		<accountsReceivableTerm>30</accountsReceivableTerm>
+		<accountsPayableTerm>30</accountsPayableTerm>
+		<percentCogsIsInventory>10</percentCogsIsInventory>
+		<inventoryLeadTime>0</inventoryLeadTime>
+		<loans />
+		<assets />
+		<equities />
+		<employeeDeductions>
+			<percentCogsAreWages>0</percentCogsAreWages>
+			<percentGandAAreWages>0</percentGandAAreWages>
+			<percentRandDAreWages>0</percentRandDAreWages>
+			<percentSandMAreWages>0</percentSandMAreWages>
+			<employeeContributionPercentage>20</employeeContributionPercentage>
+			<employerContributionPercentage>15</employerContributionPercentage>
+			<dueDate>0</dueDate>
+		</employeeDeductions>
+		<salesTax>
+			<percentRevenuesIsTaxable>50</percentRevenuesIsTaxable>
+			<rate>5</rate>
+			<remittanceFrequency>3</remittanceFrequency>
+			<remittanceMonth>0</remittanceMonth>
+		</salesTax>
+		<incomeTax>
+			<rate1>20</rate1>
+			<rate2>25</rate2>
+			<rate3>30</rate3>
+			<salaryLimit1>35000</salaryLimit1>
+			<salaryLimit2>60000</salaryLimit2>
+			<yearsCarryLossesForward>5</yearsCarryLossesForward>
+			<remittanceFrequency>3</remittanceFrequency>
+			<remittanceMonth>0</remittanceMonth>
+		</incomeTax>
+		<openingBalances>
+			<cash>0</cash>
+			<accountsReceivable>0</accountsReceivable>
+			<inventory>0</inventory>
+			<prepaidExpenses>0</prepaidExpenses>
+			<longTermAssets>0</longTermAssets>
+			<otherAssets>0</otherAssets>
+			<accountsPayable>0</accountsPayable>
+			<employeeDeductionsPayable>0</employeeDeductionsPayable>
+			<salesTaxPayable>0</salesTaxPayable>
+			<incomeTaxesPayable>0</incomeTaxesPayable>
+			<shortTermLoan>0</shortTermLoan>
+			<currentPortionofLTD>0</currentPortionofLTD>
+			<longTermLoan>0</longTermLoan>
+			<prepaidPurchases>0</prepaidPurchases>
+			<otherLiabilities>0</otherLiabilities>
+			<loansFromShareholders>0</loansFromShareholders>
+			<capitalStock>0</capitalStock>
+			<retainedEarnings>0</retainedEarnings>
+		</openingBalances>
+	</financials>
+	<themes>
+		<theme>
+			<title>Desarrollo de relaciones con distribuidores</title>
+			<startDate>20120301</startDate>
+			<endDate>20120930</endDate>
+			<mandatory>1</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<researchAndDevelopmentOneTime />
+			<researchAndDevelopmentMonthly />
+			<researchAndDevelopmentQuarterly />
+			<researchAndDevelopmentAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<generalAndAdminOneTime />
+			<generalAndAdminMonthly>15000</generalAndAdminMonthly>
+			<generalAndAdminQuarterly />
+			<generalAndAdminAnnually />
+			<salesAndMarketingOneTime />
+			<salesAndMarketingMonthly />
+			<salesAndMarketingQuarterly />
+			<salesAndMarketingAnnually />
+			<researchAndDevelopmentMonthlyAdjustment />
+			<researchAndDevelopmentQuarterlyAdjustment />
+			<researchAndDevelopmentAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<generalAndAdminMonthlyAdjustment />
+			<generalAndAdminQuarterlyAdjustment />
+			<generalAndAdminAnnuallyAdjustment />
+			<salesAndMarketingMonthlyAdjustment />
+			<salesAndMarketingQuarterlyAdjustment />
+			<salesAndMarketingAnnuallyAdjustment />
+			<numberOfEmployeesAtThemeStart />
+			<numberOfEmployeesAtThemeEnd />
+			<percentCogsIsPayroll />
+			<percentResearchAndDevelopmentIsPayroll />
+			<percentGeneralAndAdminIsPayroll />
+			<percentSalesAndMarketingIsPayroll />
+			<responsible>Sam Borducci</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Preparación para aumentar los ingresos</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Número de acuerdos con distribuidores</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue>4</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Desarrollo de contratos, políticas y asistencia a distribuidores</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Sistemas de distribución presentes</summary>
+							<targetDate>20121001</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Desarrollo de contratos con distribuidores, políticas y contratos</action>
+							<startDate>20120401</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Sam Borducci</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Aumento de clientes potenciales</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Número de clientes potenciales</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue>5000</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Identificación y contacto con distribuidores potenciales</action>
+							<startDate>20120801</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Nuevo personal de asistencia a distribuidores</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Incorporación de personal de asistencia a distribuidores</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Personal de asistencia a distribuidores contratado</summary>
+							<targetDate>20120801</targetDate>
+							<targetValue>1</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Capacitación de personal de asistencia a distribuidores</action>
+							<startDate>20120701</startDate>
+							<endDate>20120731</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Sam Borducci</responsible>
+						</activity>
+						<activity>
+							<action>Incorporación de personal de asistencia a distribuidores</action>
+							<startDate>20120601</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Sam Borducci</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Venta de 100 licencias &quot;Pro&quot;</title>
+			<startDate>20120201</startDate>
+			<endDate>20120930</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<researchAndDevelopmentOneTime />
+			<researchAndDevelopmentMonthly />
+			<researchAndDevelopmentQuarterly />
+			<researchAndDevelopmentAnnually />
+			<revenueMonthly>60000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<generalAndAdminOneTime />
+			<generalAndAdminMonthly>35000</generalAndAdminMonthly>
+			<generalAndAdminQuarterly />
+			<generalAndAdminAnnually />
+			<salesAndMarketingOneTime />
+			<salesAndMarketingMonthly />
+			<salesAndMarketingQuarterly />
+			<salesAndMarketingAnnually />
+			<researchAndDevelopmentMonthlyAdjustment />
+			<researchAndDevelopmentQuarterlyAdjustment />
+			<researchAndDevelopmentAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<generalAndAdminMonthlyAdjustment />
+			<generalAndAdminQuarterlyAdjustment />
+			<generalAndAdminAnnuallyAdjustment />
+			<salesAndMarketingMonthlyAdjustment />
+			<salesAndMarketingQuarterlyAdjustment />
+			<salesAndMarketingAnnuallyAdjustment />
+			<numberOfEmployeesAtThemeStart />
+			<numberOfEmployeesAtThemeEnd />
+			<percentCogsIsPayroll />
+			<percentResearchAndDevelopmentIsPayroll />
+			<percentGeneralAndAdminIsPayroll />
+			<percentSalesAndMarketingIsPayroll />
+			<responsible>Mary Gimball</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Implementación de nuevo software CRM</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Software CRM implementado</summary>
+							<targetDate>20120331</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Adquisición de software CRM</action>
+							<startDate />
+							<endDate>20120331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Frank Gerrault</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Conexión con nuevos clientes en potencia</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Número de contactos nuevos conseguidos</summary>
+							<targetDate>20120630</targetDate>
+							<targetValue>2500</targetValue>
+							<successIndicator />
+							<measurements>
+								<measurement>
+									<date>20120215</date>
+									<value>375</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>659</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120315</date>
+									<value>1055</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>1869</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120415</date>
+									<value>2867</value>
+									<comment>Increíble. Hemos superado con creces nuestro objetivo.</comment>
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>3281</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120515</date>
+									<value>4611</value>
+									<comment>Número de clientes potenciales que amenazan con sobrepasar nuestra capacidad de suplir la demanda...</comment>
+								</measurement>
+								<measurement>
+									<date>20120531</date>
+									<value>5365</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120615</date>
+									<value>6389</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120630</date>
+									<value>7890</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Number of new contacts w/ narrative</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>4</colorScheme>
+									<showTarget>1</showTarget>
+									<order>1</order>
+									<uuid>AB03DC9F-A5D1-4C7C-95B0-E765FE4940EF</uuid>
+									<overlay>BA4735DD-A506-4208-ACFB-F2464CFA2B15</overlay>
+									<yAxisMax />
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>2</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>BA4735DD-A506-4208-ACFB-F2464CFA2B15</uuid>
+									<overlay />
+									<yAxisMax />
+								</chart>
+								<chart>
+									<title>Número de nuevos contactos e ingresos</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>7</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>1646D2FC-C385-4779-BEDF-ABC0E15BEA0C</uuid>
+									<overlay>602F3A0A-7895-424B-BF09-F04ADF81024D</overlay>
+									<yAxisMax />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Implementación de campaña de marketing externo</action>
+							<startDate>20120401</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Gimball</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Incorporación de personal de asistencia de ventas</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Personal de asistencia de ventas incorporado</summary>
+							<targetDate>20120229</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Contratación de personal de asistencia de ventas</action>
+							<startDate>20120201</startDate>
+							<endDate>20120229</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Gimball</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Ingresos iniciales</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Ingresos acumulados</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue>480000</targetValue>
+							<successIndicator />
+							<measurements>
+								<measurement>
+									<date>20120229</date>
+									<value>6000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>15000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>27000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120531</date>
+									<value>42000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120630</date>
+									<value>73000</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Gráfica de ingresos acumulados</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>2</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>AF1401F2-335D-45CD-B112-8B656C918098</uuid>
+									<overlay />
+									<yAxisMax />
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>1</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>0</showTarget>
+									<order />
+									<uuid>602F3A0A-7895-424B-BF09-F04ADF81024D</uuid>
+									<overlay />
+									<yAxisMax />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Capacitación del personal de ventas</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Personal capacitado</summary>
+							<targetDate>20120331</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Capacitación del personal de asistencia de ventas</action>
+							<startDate>20120301</startDate>
+							<endDate>20120331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Gimball</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Finalización del desarrollo de DocLock</title>
+			<startDate>20120101</startDate>
+			<endDate>20120331</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<researchAndDevelopmentOneTime />
+			<researchAndDevelopmentMonthly />
+			<researchAndDevelopmentQuarterly />
+			<researchAndDevelopmentAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<generalAndAdminOneTime />
+			<generalAndAdminMonthly>85000</generalAndAdminMonthly>
+			<generalAndAdminQuarterly />
+			<generalAndAdminAnnually />
+			<salesAndMarketingOneTime />
+			<salesAndMarketingMonthly />
+			<salesAndMarketingQuarterly />
+			<salesAndMarketingAnnually />
+			<researchAndDevelopmentMonthlyAdjustment />
+			<researchAndDevelopmentQuarterlyAdjustment />
+			<researchAndDevelopmentAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<generalAndAdminMonthlyAdjustment />
+			<generalAndAdminQuarterlyAdjustment />
+			<generalAndAdminAnnuallyAdjustment />
+			<salesAndMarketingMonthlyAdjustment />
+			<salesAndMarketingQuarterlyAdjustment />
+			<salesAndMarketingAnnuallyAdjustment />
+			<numberOfEmployeesAtThemeStart />
+			<numberOfEmployeesAtThemeEnd />
+			<percentCogsIsPayroll />
+			<percentResearchAndDevelopmentIsPayroll />
+			<percentGeneralAndAdminIsPayroll />
+			<percentSalesAndMarketingIsPayroll />
+			<responsible>Peter Tok</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Producto completado</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Tiempo asignado</summary>
+							<targetDate>20120331</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Gestión diaria del proyecto</action>
+							<startDate>20120101</startDate>
+							<endDate>20120331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Peter Dumas</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

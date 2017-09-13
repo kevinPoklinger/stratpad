@@ -1,0 +1,1159 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"themeJson"
+			],
+			[
+				"date",
+				"dateFormatter"
+			],
+			[
+				"themeDetail",
+				"themeDetailReport"
+			],
+			[
+				"row",
+				"rowHeader"
+			],
+			[
+				"forma",
+				"formatNumber"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"page",
+				"pagedRow"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"slice",
+				"slice"
+			],
+			[
+				"jso",
+				"jsonForPage"
+			],
+			[
+				"isDet",
+				"isDetails"
+			],
+			[
+				"rowLevel",
+				"rowLevel1"
+			],
+			[
+				"sp",
+				"spacer"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"icom",
+				"incomeTaxes"
+			],
+			[
+				"stra",
+				"stratpadId"
+			],
+			[
+				"device",
+				"deviceId"
+			],
+			[
+				"def",
+				"default_value"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"os",
+				"osVersion"
+			],
+			[
+				"num",
+				"numberOfStratFiles"
+			],
+			[
+				"dev",
+				"deviceId"
+			],
+			[
+				"infusion",
+				"infusionsoft"
+			],
+			[
+				"la",
+				"Language"
+			],
+			[
+				"reg",
+				"reg"
+			],
+			[
+				"ra",
+				"raise"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"str",
+				"strip"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"show",
+				"showLanding"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"back",
+				"backup"
+			],
+			[
+				"handl",
+				"handlers153"
+			],
+			[
+				"mi",
+				"min_api_version"
+			],
+			[
+				"max",
+				"maxCt"
+			],
+			[
+				"mo",
+				"modificationDate"
+			],
+			[
+				"usa",
+				"usageEntry"
+			],
+			[
+				"usag",
+				"usageEntry"
+			],
+			[
+				"has",
+				"hasStratBoard"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"strat",
+				"stratfileCount"
+			],
+			[
+				"Str",
+				"StringProperty"
+			],
+			[
+				"sel",
+				"sel"
+			],
+			[
+				"Page",
+				"PageContentView"
+			],
+			[
+				"pre",
+				"prevPage"
+			],
+			[
+				"nex",
+				"nextPage"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"j",
+				"jgestures"
+			],
+			[
+				"ti",
+				"timer"
+			],
+			[
+				"sho",
+				"showPage"
+			],
+			[
+				"pageC",
+				"pageControlView"
+			],
+			[
+				"pageN",
+				"PageNavigationView"
+			],
+			[
+				"di",
+				"displayEl"
+			],
+			[
+				"pag",
+				"pageTree"
+			],
+			[
+				"getPage",
+				"getPageTree"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"dat",
+				"dataKey"
+			],
+			[
+				"getPa",
+				"getPageTree"
+			],
+			[
+				"sec",
+				"sections"
+			],
+			[
+				"get",
+				"getPageMap"
+			],
+			[
+				"pg",
+				"pageMap"
+			],
+			[
+				"pa",
+				"pageContent"
+			],
+			[
+				"na",
+				"navForPageName"
+			],
+			[
+				"repl",
+				"replacement"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"cha",
+				"chapter"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"pages",
+				"pages"
+			],
+			[
+				"ch",
+				"chapter"
+			],
+			[
+				"fi",
+				"fixImages"
+			],
+			[
+				"subs",
+				"substring"
+			],
+			[
+				"star",
+				"startIdx"
+			],
+			[
+				"img",
+				"imgTag"
+			],
+			[
+				"go",
+				"goNext"
+			],
+			[
+				"jquery",
+				"jquery"
+			],
+			[
+				"jqu",
+				"jquery"
+			],
+			[
+				"th",
+				"themes"
+			],
+			[
+				"cre",
+				"createStratFileView"
+			],
+			[
+				"stratFile",
+				"stratFileTitle"
+			],
+			[
+				"Strat",
+				"StratFileItemView"
+			],
+			[
+				"com",
+				"companyName"
+			],
+			[
+				"inde",
+				"indexView"
+			],
+			[
+				"ArtistCo",
+				"artistCollectionView"
+			],
+			[
+				"artist",
+				"artist-name"
+			],
+			[
+				"Art",
+				"ArtistCollectionView"
+			],
+			[
+				"Inde",
+				"IndexView"
+			],
+			[
+				"new",
+				"newArtist"
+			],
+			[
+				"New",
+				"NewArtistView"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"file",
+				"fileExtension"
+			],
+			[
+				"in",
+				"inverse"
+			],
+			[
+				"lis",
+				"listItems"
+			],
+			[
+				"han",
+				"handlebars_templates"
+			],
+			[
+				"fri",
+				"friend_name"
+			],
+			[
+				"eff",
+				"effectiveEdition"
+			],
+			[
+				"regi",
+				"registration"
+			],
+			[
+				"uni",
+				"unix_time_millis"
+			],
+			[
+				"las",
+				"lastParseDate"
+			],
+			[
+				"last",
+				"lastModDate"
+			],
+			[
+				"mod",
+				"modDate"
+			],
+			[
+				"Par",
+				"ParseMeta"
+			],
+			[
+				"Prod",
+				"productInfo"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"pro",
+				"productId"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"prod",
+				"productId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "GetToMarket.xml",
+			"settings":
+			{
+				"buffer_size": 25727,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "financials.js",
+			"settings":
+			{
+				"buffer_size": 24034,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tester.js",
+			"settings":
+			{
+				"buffer_size": 5814,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "FinancialDetailsReport.html",
+			"settings":
+			{
+				"buffer_size": 1824,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "financials.css",
+			"settings":
+			{
+				"buffer_size": 3670,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nJsFormat:\n--------\n\n  JsFormat v1.1.0 changelog:\n  - Added support for .jsbeautifyrc files. Allows for per-project settings without constantly having to change the JsFormat uset settings.\n  For more info, check out the relevant section of the documentation: https://github.com/jdc0589/JsFormat#jsbeautifyrc-files\n",
+			"settings":
+			{
+				"buffer_size": 364,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/User/stratweb.sublime-build",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/R5/R5.ThemeDetail.htm",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/financials.css",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/R5/stratpad.js",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/R5/r5.json",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/R5/r5.js",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/R5/reports.js",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/common/reports.css",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/tester.html",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/financials.js",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/svn-commit.tmp",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/svn-commit.tmp",
+		"/Users/woodj/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/R5/sprintf/sprintf.js",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/stratpad.js",
+		"/Users/woodj/Desktop/r6.json",
+		"/Users/woodj/Desktop/r7.json",
+		"/Users/woodj/Desktop/r5.json",
+		"/Users/woodj/Desktop/paged_details.js",
+		"/Users/woodj/Desktop/table.json",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/FinancialSummaryReport.html",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/tester.js",
+		"/Users/woodj/Desktop/details.json",
+		"/Users/woodj/Desktop/summary.json",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/xcode/main/StratPad/Financials/balancesheetexample.html",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v153/util.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v153/registration.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/main153.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/app.yaml",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v152/registration.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/docx4stratpad/src/test/bizplan.json",
+		"/Users/woodj/Desktop/bizplan.json",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/docx4stratpad/src/main/resources/en/bizplan.strings",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/bulkloader.yaml",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/bulkloader-results-20130225.112747.sql3",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/usage.csv",
+		"/Users/woodj/Documents/projects/stratweb/app/js/modules/Config.js",
+		"/Users/woodj/Documents/projects/stratweb/app/build.xml",
+		"/Users/woodj/Desktop/filePost.html",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v153/product.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v152/product.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v153/globalz.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v153/main.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v153/backup.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/main152.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v152/crm.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/registration.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/util.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/v153/__init__.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/globalz.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/153/util.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/153/main.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/153/__init.py__",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/product.py",
+		"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad/usage.py",
+		"/Users/woodj/Documents/projects/stratweb/app/scss/core/_mixins.scss",
+		"/Users/woodj/Library/Application Support/Sublime Text 2/Packages/User/stratweb.sublime-build",
+		"/Users/woodj/Library/Application Support/Sublime Text 2/Packages/User/app-25-01.sublime-build",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/js/modules/HtmlHelper.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/en.lproj/onStrategy23.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/scss/templates/_toolkit.scss",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/js/modules/PageStructure.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/index.html",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/scss/global-structure/_content.scss",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/build.xml",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/js/views/PageNavigationView.js",
+		"/Users/woodj/Documents/projects/stratweb/.gitignore",
+		"/Users/woodj/Desktop/probook/Documents/Documents/jfileupload/jfileuploadpremium2/build.xml",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/build.sh",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/js/modules/Config.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/scss/style.scss",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/en.lproj/toolkit17.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/es-MX.lproj/toolkit17.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/es.lproj/toolkit17.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/en.lproj/toolkit06.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/es-MX.lproj/toolkit06.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/es.lproj/toolkit06.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/css/style.css",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/scss/templates/_homepage.scss",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/js/views/PageControlView.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/scss/misc/_misc.scss",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/en.lproj/toolkit03.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/js/modules/Sections.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/scss/core/_normalize.scss",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scss/core/_normalize.scss",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scss/misc/_modules.scss",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scss/misc/_misc.scss",
+		"/Users/woodj/Documents/projects/stratweb/scratch/app-25-01-2013/static/en.lproj/toolkit01.htm",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/modules/sections.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/modules/HtmlHelper.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/views/PageControlView.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/index.html",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/main.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/modules/Router.js",
+		"/Users/woodj/Documents/projects/stratweb/prepareTemplates.py",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/modules/Config.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/backbone-relational/js/views/StratFileItemView.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/controllers/Router.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/controllers/HtmlHelper.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/backbone-relational/js/views/IndexView.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/lib/backbone/backbone.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/Router.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/modules/PageControl.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/lib/sprintf/sprintf.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/require/js/lib/jquery/jquery.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/backbone-relational/js/main.js",
+		"/Users/woodj/Documents/projects/stratweb/scratch/backbone-relational/css/style.css",
+		"/Users/woodj/Documents/learning/backbone-boilerplate-nettuts-master/app/templates/books/list.html",
+		"/Users/woodj/Documents/learning/backbone-boilerplate-nettuts-master/app/templates/books/details.html",
+		"/Users/woodj/Documents/projects/stratweb/webapp/templates/todo.html",
+		"/Users/woodj/Documents/projects/stratweb/webapp/templates/hockey.html",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scripts/modules/hockey.js",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scripts/modules/model.js",
+		"/Users/woodj/Documents/projects/stratweb/webapp-build/app.html",
+		"/Users/woodj/Documents/projects/stratweb/app.build.js",
+		"/Users/woodj/Documents/projects/stratweb/build.sh",
+		"/Users/woodj/Documents/projects/stratweb/webapp/templates/README.md",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scripts/lib/handlebars-1.0.rc.1.js",
+		"/usr/local/bin/handlebars",
+		"/Users/woodj/Documents/projects/stratweb/README.md",
+		"/Users/woodj/Documents/projects/stratweb/config.rb",
+		"/Users/woodj/Documents/projects/stratweb/webapp-build/config.rb",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scripts/lib/modernizr-2.6.2.js",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scripts/modernizr.js",
+		"/Users/woodj/Documents/projects/stratweb/items.xml",
+		"/Users/woodj/Documents/projects/stratweb/webapp/templates/cycling.handlebars",
+		"/Users/woodj/Documents/projects/stratweb/webapp/templates/hockey.handlebars",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scripts/modules/cycling.js",
+		"/Users/woodj/Documents/projects/stratweb/webapp/scripts/modules/gymnastics.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/woodj/Documents/projects/stratpad/stratpad/trunk/src/appengine/istratpad",
+			"-deploy/*.*,-dist/*.*",
+			"-deploy/*.* -dist/*.*",
+			"-deploy -dist",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"/Users/woodj/Documents/projects/stratweb/webapp/scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"accumulatedDepreciation",
+			"listArrays",
+			"testsuites",
+			"fullReportTable",
+			".reportTable tr.rowDivider1 td",
+			"this",
+			"localized",
+			"self",
+			"addThemeDetailRows",
+			"themeDetailRow",
+			"themeDetailObjective",
+			"objectivesOfType",
+			"},\n",
+			"objectivesOfType",
+			"cellValue",
+			"formatNumber",
+			"formatNumberWithParens",
+			"moment",
+			"sprintf",
+			"hasValue",
+			"numberWithCommas",
+			"showRefPageComplete",
+			"&nbsp;",
+			"hasValue",
+			"loadThemeDetailReport",
+			"themeDetailReport",
+			"[{\n",
+			"objectives",
+			"json",
+			"rowHeader",
+			"i",
+			"jsonForPage",
+			"Complete",
+			"COMPLETE",
+			"fetchReport",
+			"prepareTable",
+			"spacer()",
+			"rowDivider1 totals",
+			"fx('&nbsp;')",
+			"rowDivider3",
+			"&nbsp;",
+			"rowDivider1 totals",
+			"totals",
+			"csv",
+			"htmlFormattedString",
+			"totals",
+			"csv",
+			"htmlFormattedString",
+			"csv",
+			"IncomeStatementSummaryViewController",
+			"incometax",
+			"incomeTax",
+			"prepaidPurchases",
+			"purchas",
+			"\\n",
+			"\\s+",
+			"since",
+			"@since",
+			"updateDemographics",
+			"if",
+			"updateUsage",
+			"MigrateDemographics",
+			"migrateDemographics",
+			"updateDemographics",
+			"country",
+			"?",
+			"None",
+			"reg.contactId",
+			"contactId",
+			"updateDemographics",
+			"self.request.get",
+			"addUser",
+			"edition",
+			"email",
+			"lastName",
+			"firstName",
+			"addWithDupCheck",
+			"addUser",
+			"addWithDupCheck",
+			"rome",
+			"firstName",
+			"edition",
+			"addWithDupCheck",
+			"lastName",
+			"Exception",
+			"|",
+			"self.request",
+			"'",
+			"\n\n",
+			"'",
+			"raise",
+			"throw",
+			"modificationDate",
+			"lower",
+			"setConfirmationLink",
+			"static",
+			"validation",
+			"fullname",
+			"response.data.validation",
+			"push",
+			"fullname",
+			"name",
+			"reg_k",
+			"reg_key",
+			"showLogin",
+			"showLanding",
+			"PageLandingView",
+			"showPage",
+			"modification_date",
+			"registration",
+			"token",
+			"API_VERSION",
+			"'api'",
+			"task",
+			"152",
+			"main",
+			"regKey",
+			"usage",
+			"Registration",
+			"backup",
+			"registration",
+			"501",
+			"email",
+			"lower",
+			"501",
+			"\"\"\"",
+			"MailWorker",
+			"501"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"since StratPad",
+			"since StratPad ",
+			"MigrateUsage",
+			"migrateUsage",
+			"\"",
+			"'",
+			"\\n\\n",
+			"\"",
+			"response[\"data\"][\"validation\"]",
+			"<li class=\"navItem\">",
+			",",
+			":",
+			"",
+			"\\n",
+			"'",
+			"',",
+			"'",
+			"../bin",
+			":bin/",
+			":"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "GetToMarket.xml",
+					"settings":
+					{
+						"buffer_size": 25727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "financials.js",
+					"settings":
+					{
+						"buffer_size": 24034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8793,
+								8864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1821.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tester.js",
+					"settings":
+					{
+						"buffer_size": 5814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2492,
+								491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "FinancialDetailsReport.html",
+					"settings":
+					{
+						"buffer_size": 1824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "financials.css",
+					"settings":
+					{
+						"buffer_size": 3670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								364
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"output.find_results":
+	{
+		"height": 224.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fina.cs",
+				"financials.css"
+			],
+			[
+				"conf",
+				"js/modules/Config.js"
+			],
+			[
+				"confi",
+				"js/modules/Config.js"
+			],
+			[
+				"mixin",
+				"scss/core/_mixins.scss"
+			],
+			[
+				"buil",
+				"scratch/app-25-01-2013/build.xml"
+			],
+			[
+				"html",
+				"scratch/app-25-01-2013/js/modules/HtmlHelper.js"
+			],
+			[
+				"build",
+				"scratch/app-25-01-2013/build.xml"
+			],
+			[
+				"mai",
+				"main.py"
+			],
+			[
+				"pr",
+				"product.py"
+			],
+			[
+				"gl",
+				"globalz.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}

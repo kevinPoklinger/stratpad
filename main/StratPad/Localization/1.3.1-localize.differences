@@ -1,0 +1,54 @@
+NB. Can't actually use this as a patch, just info.
+We just want to see what's different between 1.3 and 1.3.1 so that we can get the new stuff translated.
+4 files need work.
+Can also do a compare between rev 878 and 879 in es.lproj to see what keys/files were added/changed.
+As of 879, es.lproj matches en.lproj.
+
+diff en.lproj/Localizable.strings es.lproj/Localizable.strings
+138,142d137
+< YAMMER="Yammer";
+< YAMMER_1="This %@";
+< YAMMER_MSG_SETUP="Please set up Yammer first.";
+< YAMMER_DETAIL="Post to your network and group";
+< 
+160c155
+< UPGRADE_RESTORE_PURCHASES="Restore any previously made purchases.";
+---
+> UPGRADE_RESTORE_PURCHASES="To restore purchases you have already made, tap the purchase button again, and you will be allowed to upgrade for free.";
+499d493
+< CHART_MAX_VALUE="Maximum Value";
+521,523c515
+< OFFLINE="Offline";
+< OFFLINE_INSTRUCTIONS="To view the StratBoard video, please connect to the internet and refresh.";
+< ERROR_NO_NETWORK="No network.";
+---
+> 
+529,534c521
+< STRAT_TARGET_BY=" by %@";
+< 
+< /* For selecting charts when printing or emailing a StratCard */
+< STRATCARD_ACTION_0="Print";
+< STRATCARD_ACTION_1="Email";
+< SELECT_CHARTS="Select Charts";
+\ No newline at end of file
+---
+> STRAT_TARGET_BY=" by %@";
+\ No newline at end of file
+
+
+Binary files en.lproj/MBDateSelectionView.strings and es.lproj/MBDateSelectionView.strings differ
+Changed:
+/* Class = "IBUIBarButtonItem"; title = "End Date"; ObjectID = "15"; */
+"15.title" = "End Date";
+to
+/* Class = "IBUIBarButtonItem"; title = "Title"; ObjectID = "15"; */
+"15.title" = "Title";
+
+
+Binary files en.lproj/StratBoardViewController.strings and es.lproj/StratBoardViewController.strings differ
+Added:
+/* Class = "IBUILabel"; text = "Restore Purchases using Extras menu"; ObjectID = "121"; */
+"121.text" = "Restore Purchases using Extras menu";
+
+
+Added ChartMaxValueViewController.strings

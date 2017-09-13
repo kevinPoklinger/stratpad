@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="../yammer.css" />
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+                          window.location.href = "load://params";
+                          });
+    </script>
+</head>
+<body>
+
+<div id="container">
+	<div id="thumbnail">
+		<!-- messages -> attachments -> thumbnail_url -->
+		<img src="https://www.yammer.com/externalstratpaddiscussion/api/v1/uploaded_files/5842431/version/4412712/thumbnail" />
+	</div>
+	<div id="title">
+		<!-- messages -> attachments -> full_name -->
+		A Great StratFile - Gantt - 2012-07-12
+	</div>
+	<div>
+		<!-- messages -> attachments -> group_id  && references -> where id == group_id to get group name -->
+        <div id="meta">Uploaded to a Network ▸ Some Group ▸ Files</div>
+        <div id="author">by John George</div>
+	</div>
+	<div id="description">
+		<!-- messages -> body -> plain -->
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim vestibulum dui, non porttitor elit mollis et. Quisque gravida mauris ac sem vulputate eget sagittis nibh tempus. Donec sollicitudin dui ac purus euismod aliquet. Phasellus dapibus nisi sed ipsum gravida at congue lectus tempus. Donec ullamcorper nibh eget enim tempus ac hendrerit ipsum rhoncus. Nulla facilisi. Sed sed luctus neque. Vivamus eleifend, arcu sit amet malesuada cursus, mi est elementum quam, eu pulvinar metus velit nec augue.
+	</div>
+	<div id="link">
+		<!-- messages -> attachments -> web_url -->
+		<a href="https://www.yammer.com/externalstratpaddiscussion/uploaded_files/5842431">Ver en navegador</a>
+	</div>
+</div>
+
+</body>
+</html>

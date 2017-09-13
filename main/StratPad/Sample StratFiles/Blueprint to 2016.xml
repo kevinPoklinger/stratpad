@@ -1,0 +1,2776 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20120508T23:06:49-0400</dateCreated>
+	<dateLastAccessed>20120604T21:05:26-0400</dateLastAccessed>
+	<dateModified>20120530T17:24:37-0400</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.2.1 (738)</model>
+	<name>Blueprint to 2016</name>
+	<companyName>Novus United</companyName>
+	<city>Toronto</city>
+	<provinceState>ON</provinceState>
+	<country>Canada</country>
+	<industry>Not-for-Profit/Charitable</industry>
+	<keyProblems>There were several factors which affect our clients and therefore impacts the organization. Many of our clients face various personal and socio-economic challenges including time, money, and nutrition.
+
+However, there are also many specific challenges faced by segments of our clients. For example, Youth are not effectively represented or engaged in their local communities and furthermore they are not sufficiently educated about municipal government. Families have a tough time finding quality programs and services which are affordable due to the reduction in public programs and services as well as the continuous shift in social policies. Decision-makers, both elected and appointed, are also affected by financial factors and time constraints as well as a lack of engagement within the general population. They therefore - generally speaking - focus their efforts on &quot;tax payers&quot; and those eligible to vote without seeking input from those who the decision could potentially affect the most, youth.</keyProblems>
+	<addressProblems>Novus United is committed to creating programs, services, and building a representative organization for our clients which will directly impact them in a positive manner. We wish to drive the organization to create actionable and relevant solutions to any foreseeable obstacles faced by our customers.
+
+Our team is a reflection of the diverse population found in Canada, consisting of youth, decision-makers, parents, educators, and organizations. We have determined that, when communicating with our youth, it is important for us to adapt a communication style that will both represent a sense of professionalism while still displaying a degree of relatable language formation. Additionally, when promoting our programs and services, as well as initiating a level of participation from youth, it is important to clearly outline the benefits that will be drawn from participating in our programs and services from both the youth as well as the decision-makers’ perspective.  It is fundamental that strong relationships are created with people who have influence, resources, and can ultimately empower Canada's youth; in exchange, we must provide youth, to decision-makers, who are active, enthusiastic, involved, and will prove to be a valuable resource for the decision-maker(s).  Networking opportunities will tie the youth and decision-maker categories as well as providing youth with skill-building opportunities; will essentially entice and strengthen the likelihood of participation among youth and decision-makers.
+
+Furthermore, providing opportunities for our customers and creating communication that our audience can relate to and appreciate, Novus United must also focus on creating a strong branding strategy to ensure we are creating communication that is consistent with the organization as a whole.  As it stands, our individuals programs: CYCTO and CAMP AC are becoming well-known brands and would be in the best interest of Novus United to remain in the background with regard to naming and awareness.  As a team, we are comfortable and think it is best to continue to nurture our program and, thus, program names on an individual basis and focus on strengthening those brands.  The Novus United name and organization is to simply serve as the umbrella organization for these programs and services.</addressProblems>
+	<customersDescription>Our target audience ranges from children to seniors and everyone in between. These age groups vary depending upon the organization, level of government, and even country. Therefore, for the purposes of the delivery of our programs and services we define children as between the ages of 6 and 12, &quot;teens&quot; as between the ages of 13 and 17, adults between the ages of 18 and 64, seniors as age 65+, and &quot;youth&quot; as between the ages of 14 and 24.</customersDescription>
+	<competitorsDescription>Canada is filled with talented and ambitious youth, and people. We boast a diverse and vibrant population, a reputation we wear with pride around the world. That being said, it is only natural for several organizations to recognize the genuine and true talent found in Canada, many of whom, like Novus United, are committed to helping communities grow and to nurture both children and youth. In Toronto, for example, both the Toronto Youth Cabinet and the TDSB SuperCouncil are two large and well-known establishments who are representing youth. United Way as well as Toronto Parks and Recreation are also large and well-known establishments in the delivery of programs and services to all age groups.
+
+What makes Novus United and our programs and services unique is that, with regard to youth councils, we are the first in Canada to initiate the concept of democratically electing youth representatives in a manner that models current government institutions while adapting in such a way that allows us to be innovative in our delivery. We have been actively and successfully creating partnerships with several decision-makers, institutions, youth, and influencers to build this initiative and as we continue to grow we are committed to sourcing organizations and initiatives to partner with so that we can further both of our causes.
+
+Our primary source of revenue, Camp All Connected, has been a successful endeavour and is the only camp to provide nutritious snacks and lunch as part of our registration fee while maintaining our affordability. Currently we are focusing our efforts in Toronto, Ontario which has a very competitive market when it comes to the delivery of programs and services to children and youth - given its dense population - and so we have aspirations to expand to other municipalities which have a lack of programs and services; especially considering a majority of municipal governments don't offer anywhere near the amount of programs and services that the City of Toronto does through their parks and recreation department.
+
+Constantly striving towards our goals to create relevant programming and services to youth, our evaluation of potential programs and competitors is an ongoing process.</competitorsDescription>
+	<businessModelDescription>To continue to create a sustainable organization and to develop communities, our team will look into initiating programs and revenue-generating projects upon evaluation of our resources and capacities.
+
+Currently our revenue generation stems primarily from our Camp All Connected program, memberships and donations, and grants.</businessModelDescription>
+	<expansionOptionsDescription>For the next 5 years, our sights are set on creating a positive impact among the Greater Toronto Area and the Golden Horseshoe. We place a focus on developing a strong pilot in Toronto and then expanding to other municipalities in Ontario and eventually across the country. As part of this mission, it would be beneficial for us to reach out to similar organizations in other countries and begin to create relationships with them.</expansionOptionsDescription>
+	<ultimateAspiration>Novus United is committed to assisting with and providing Canada's communities with sustainable opportunities which will enhance their life and encourage taking pride in their community. This enhancement will be seen in their willingness and desire to actively participate on a social, culture, and political level in the community.
+
+Our aspiration is to re-develop Canada's communities. We are looking to re-define what a community means and to bring people closer together on a local level in municipalities of all sizes.</ultimateAspiration>
+	<mediumTermStrategicGoal>By 2016 we will be legally registered with an overall budget of $2M, offer quality programming for children and their families within the Greater Toronto Area, and bridge the gap between youth and decision-makers through democratically elected youth councils.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Develop an accountable, sustainable, and financially responsible organization.</title>
+			<startDate>20120101</startDate>
+			<endDate>20161231</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>The Executive Council</responsible>
+			<objectives>
+				<objective>
+					<order>2</order>
+					<summary>Launch a tiered membership program</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Identify and approach potential general members</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+						<activity>
+							<action>Compose membership program evaluation survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Distribute evaluation survey to members annually</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose terms and conditions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Legally review terms and conditions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Review and proofread terms and conditions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Identify and approach potential youth members</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+						<activity>
+							<action>Define membership tiers and benefits</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Identify and approach potential corporate members</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>5</order>
+					<summary>Receive Accreditation from Imagine Canada</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Prepare draft Application Form</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Submit final Application Form</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Prepare and submit Participation Agreement</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Launch a Community-Based Projects investment program</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Compose and compile program application package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Define the objectives of the program</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Create Community Development Template</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Development</responsible>
+						</activity>
+						<activity>
+							<action>Legally review CBP program application package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Legally review CBP program welcome package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose CBP participant survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>9</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Distribute CBP participant survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>10</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Review and proofread CBP program welcome package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Review and proofread CBP application package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose and compile CBP welcome package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Launch CBP program micro-site</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Develop and implement an innovative incentive program for team members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>Obtain office space</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>7</order>
+					<summary>Apply for Charitable status</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>Develop a Marketing Strategy</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Publish monthly newsletter</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Compose online newsletter monthly</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Distribute online newsletter monthly</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Design online newsletter</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Launch Website</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Review and proofread content</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Purchase domain</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost>25</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Director, Information + Technology</responsible>
+						</activity>
+						<activity>
+							<action>Design website</action>
+							<startDate />
+							<endDate />
+							<upfrontCost>500</upfrontCost>
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>(Outsourced)</responsible>
+						</activity>
+						<activity>
+							<action>Compose website content</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Obtain appropriate insurance converage</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>5</order>
+					<summary>Recruit Board of Advisors</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Complete Organizational Environmental Scan</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Data + Statistics</responsible>
+						</activity>
+						<activity>
+							<action>Compose call for directors</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose and compile on-boarding/off-boarding resources</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Organize training and orientation</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Post call for directors</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Launch an accreditation program for youth councils</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Design accreditation micro-site</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Design accreditation seal</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>11</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Define the objectives of the program</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Distribute accreditation program participant survey annually</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>13</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose and compile accreditation welcome package and accreditation seal</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Legally review accreditation program welcome package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>10</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+						<activity>
+							<action>Review and proofread accreditation  application package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Define the requirements, process, and benefits of accreditation</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Review and proofread accreditation program welcome package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>9</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Compose accreditation program participant survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>12</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Launch accreditation micro-site</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Webmaster</responsible>
+						</activity>
+						<activity>
+							<action>Legally review accreditation program application package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+						<activity>
+							<action>Compose accreditation micro-site content</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Compose and compile program application package</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Recruit volunteer team members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Review and proofread job descriptions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Post job openings on our website and job boards</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Conduct interviews</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose job descriptions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Obtain Google Apps - Not-for-Profit Edition</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Setup Google apps settings and accounts</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Setup gPanel</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose system evaluation survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Distribute system evaluation survey to users annually</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Apple for Google Apps - Education Edition</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>6</order>
+					<summary>Register as a Not-for-profit Corporation</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>4</order>
+					<summary>Attain an operating budget of $1.5M - $2M</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Operating Budget</summary>
+							<targetDate>20161231</targetDate>
+							<targetValue>$1500000</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Link paypal account to website</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+						<activity>
+							<action>Setup bank account</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+						<activity>
+							<action>Setup paypal account</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>4</order>
+					<summary>Develop a comprehensive outreach database</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Conduct Ward-Specific Census</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Data + Statistics</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Develop Standard Operating Policies &amp;Procedures</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Compose an anti-discrimination policy</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose human resources policies</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>9</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose branding guidelines</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose an investment policy</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose a donor policy</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Legally review all policies and procedures</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>11</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Evaluate policies and procedures annually</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>12</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose a conflict of interest policy</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Review and proofread all policies and procedures</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>10</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Compose a fundraising policy</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose a complaints policy</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose a code of conduct</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose a privacy policy</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>Hire full-time staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Organize training &amp; orientation for team members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Compose volunteer service agreements</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Review and proofread volunteer service agreements</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Legally review volunteer service agreements</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Submit an application to Tides Canada for Incubation</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120530</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Submit Tides Canada application and Strategic/Business Plan</action>
+							<startDate />
+							<endDate>20120530</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Executive Director</responsible>
+						</activity>
+						<activity>
+							<action>Complete Tides Canada application form</action>
+							<startDate />
+							<endDate>20120430</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Executive Director</responsible>
+						</activity>
+						<activity>
+							<action>Meet with Tides Canada representative for pre-submission feedback</action>
+							<startDate />
+							<endDate>20120511</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Executive Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Establish democratically elected youth councils, independent of government institutions.</title>
+			<startDate>20120301</startDate>
+			<endDate>20161231</endDate>
+			<mandatory>0</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>The Managing Director</responsible>
+			<objectives>
+				<objective>
+					<order>1</order>
+					<summary>Organize an annual Youth &amp;Politics Conference</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of attendees</summary>
+							<targetDate>20121021</targetDate>
+							<targetValue>300</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Secure sponsors</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Budget Services</responsible>
+						</activity>
+						<activity>
+							<action>Compose and assemble conference registration package</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Compose conference agenda</action>
+							<startDate>20120401</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Promote conference online</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Compose evaluation survey for conference attendees</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Research + Development</responsible>
+						</activity>
+						<activity>
+							<action>Invite and confirm guest speakers</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Event Logistics</responsible>
+						</activity>
+						<activity>
+							<action>Recruit panel of 3 judges</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Public Affairs</responsible>
+						</activity>
+						<activity>
+							<action>Permit conference venue</action>
+							<startDate>20120401</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost>0</upfrontCost>
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Manager, Event Logistics</responsible>
+						</activity>
+						<activity>
+							<action>Secure catering for conference</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost>2000</ongoingCost>
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Manager, Event Logistics</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>5</order>
+					<summary>Develop an influential presence offline</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Develop a relationship with the City Manager's Office</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Establish a partnership with Toronto Elections</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Develop a comprehensive media database</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Media Relations</responsible>
+						</activity>
+						<activity>
+							<action>Establish a partnership with Youth Day</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+						<activity>
+							<action>Develop relationships with youth organizations</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Compose Charter for CYCTO</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120630</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Review and proofread the Youth Council Charter</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Compose the Youth Council Charter</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Legally review the Youth Council Charter</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Organize training &amp; orientation for team members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Review and proofread service agreements for team members</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Legally review service agreements for team members</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+						<activity>
+							<action>Compose service agreements for team members</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Team Relations</responsible>
+						</activity>
+						<activity>
+							<action>Compose and assemble new team members handbook</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Team Relations</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Recruit volunteer team members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Legally review job descriptions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+						<activity>
+							<action>Compose job descriptions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Team Relations</responsible>
+						</activity>
+						<activity>
+							<action>Review and proofread job descriptions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Post job openings on our website and job boards</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Team Relations</responsible>
+						</activity>
+						<activity>
+							<action>Conduct interviews</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Team Relations</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>7</order>
+					<summary>Launch Councillor Shadowing Program</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20130201</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Develop policies/procedures and compose a participant agreement in collaboration with the City Clerks Office</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Obtain the support of 100% of City Councillors and the Mayor's Office</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Public Affairs</responsible>
+						</activity>
+						<activity>
+							<action>Distribute survey to all participants annually</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose an evaluation survey for all participants</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Research + Development</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>Increase the number of committee deputations made by youth</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of deputations</summary>
+							<targetDate>20131231</targetDate>
+							<targetValue>50</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Assist youth in creating video deputations</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Assist youth with transportation (if needed)</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+						<activity>
+							<action>Centrally register youth deputations</action>
+							<startDate />
+							<endDate />
+							<upfrontCost>0</upfrontCost>
+							<ongoingCost>0</ongoingCost>
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Public Affairs</responsible>
+						</activity>
+						<activity>
+							<action>Promote deputation opportunities through our website, social media, email</action>
+							<startDate />
+							<endDate />
+							<upfrontCost>0</upfrontCost>
+							<ongoingCost>0</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Organize training &amp; orientation for Youth Councillors/Ambassadors</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20121031</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Compose training &amp;orientation agenda</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Compose service agreements for Youth Councillors/Ambassadors</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Permit training &amp;orientation venue</action>
+							<startDate>20120401</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Review and proofread service agreements for Youth Councillors/Ambassadors</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Compose/Assemble Youth Council Handbook &amp;other training materials</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost>500</upfrontCost>
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Legally review service agreements for Youth Councillors/Ambassadors</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>6</order>
+					<summary>Organize monthly Youth Council meetings</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Establish a relationship with the A/V Department</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Develop a minute-by-minute of the first Youth Council meeting</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Permit the venue for the Youth Council meeting</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Establish a partnership with the Facilities Department</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Conduct a minute-by-miniute walkthrough with the relevant team members and steakholders</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Compose the agenda for the Youth Council meeting</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Establish a partnership with Rogers TV to live stream</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Media Relations</responsible>
+						</activity>
+						<activity>
+							<action>Compose report for Toronto City Council</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Research</responsible>
+						</activity>
+						<activity>
+							<action>Develop a relationship with the City Clerk's Office</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>4</order>
+					<summary>Develop an influential presence online</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Overall online reach</summary>
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Reach 450 Facebook Fans</action>
+							<startDate />
+							<endDate>20121231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Reach 400 Twitter Followers</action>
+							<startDate />
+							<endDate>20121231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Reach 700 Twitter Followers</action>
+							<startDate />
+							<endDate>20130331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Reach ______ website hits</action>
+							<startDate />
+							<endDate>20121231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Reach 250 Facebook Fans</action>
+							<startDate />
+							<endDate>20120831</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Reach 200 Twitter Followers</action>
+							<startDate />
+							<endDate>20120831</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Organize Biennial Elections</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of voters</summary>
+							<targetDate>20121019</targetDate>
+							<targetValue>6000</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Establish partnership with Goldhawk Live for televised debates</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>11</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Media Relations</responsible>
+						</activity>
+						<activity>
+							<action>Evaluate elections process</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>14</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Distribute voter survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>21</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Compose candidate survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>18</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Secure public voting kiosk locations</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>12</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Create candidate promotional video</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>16</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Assemble and distribute election toolkits</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>13</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Election Services</responsible>
+						</activity>
+						<activity>
+							<action>Create voter promotional video</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>17</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Purchase and setup the selected online election system</action>
+							<startDate>20120401</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost>2350</ongoingCost>
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Publish Candidate Guide Online</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Review and proofread Candidate Guide</action>
+							<startDate>20120301</startDate>
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Oversee Candidate Registration and verify eligibility</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Election Services</responsible>
+						</activity>
+						<activity>
+							<action>Distribute candidate survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>20</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Promote candidate webinar's</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>9</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Compose Candidate Guide</action>
+							<startDate>20120301</startDate>
+							<endDate>20120331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Legally review Candidate Guide</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+						<activity>
+							<action>Compose voter survey</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>19</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Create, print, and distribute promotional material</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>15</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Organize candidate webinar's</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Election Services</responsible>
+						</activity>
+						<activity>
+							<action>Test the online election system and analyze/weight hack/fraud scenarios</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Research and RFP possible online election systems</action>
+							<startDate>20120301</startDate>
+							<endDate>20120331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Recruit 16 Youth Ambassadors</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>10</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Launch website</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120601</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Secure domain name</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Webmaster</responsible>
+						</activity>
+						<activity>
+							<action>Compose website content</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+						<activity>
+							<action>Design website</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Webmaster</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Establish quality recreational programming that is affordable and accessible for children, youth, and their families.</title>
+			<startDate>20120501</startDate>
+			<endDate>20161231</endDate>
+			<mandatory>0</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>The Managing Director</responsible>
+			<objectives>
+				<objective>
+					<order>1</order>
+					<summary>Organize training &amp; orientation for camp staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Register management-level staff in a First Aid/CPR train-the-trainer course</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Compose employment contracts</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Team Relations</responsible>
+						</activity>
+						<activity>
+							<action>Review and proofread employment contracts</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Legally review employment contracts</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+						<activity>
+							<action>Register management-level staff in a HIGH FIVE training-the-trainer course</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Receive accreditation from HIGH FIVE</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Complete and proofread application</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Submit application form</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Receive accreditation from the Ontario Camp Association</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Submit application form</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Complete and proofread application form</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>Operate a residential Leadership Academy</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Distribute posters</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+						<activity>
+							<action>Secure Geneva Park</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+						<activity>
+							<action>Distribute fliers</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Develop comprehensive and unique curriculum for all programs</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Legally review curriculum handbook</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+						<activity>
+							<action>Compose curriculum handbook</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+						<activity>
+							<action>Review and proofread curriculum handbook</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Develop policies and procedures in-line with HIGH FIVE and Ontario Camp Association accreditation guidelines</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Review and proofread policies and procedures manual</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Legally review policies and procedures manual</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Legal Advisor</responsible>
+						</activity>
+						<activity>
+							<action>Compose policies and procedures manual</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Hire Camp Staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Review and proofread job descriptions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Post job openings on camp website and job boards</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Team Relations</responsible>
+						</activity>
+						<activity>
+							<action>Conduct interviews</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Team Relations</responsible>
+						</activity>
+						<activity>
+							<action>Compose job descriptions</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Managing Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Operate March Break Day Camps</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Operate Summer Day Camps</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Secure catering</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+						<activity>
+							<action>Order t-shirts</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+						<activity>
+							<action>Distribute fliers</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+						<activity>
+							<action>Distribute posters</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+						<activity>
+							<action>Secure permits</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Launch website</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Design website</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Creative Communications</responsible>
+						</activity>
+						<activity>
+							<action>Purchase domain name</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Information Technology</responsible>
+						</activity>
+						<activity>
+							<action>Compose website content</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Online Communications</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Operate After School Programs</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>4</order>
+					<summary>Operate a Soccer House League</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Distribute posters</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+						<activity>
+							<action>Purchase uniforms (Jersey's, Short's, Shin Pad's, Sock's)</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+						<activity>
+							<action>Secure permits</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Director, Finance + Administration</responsible>
+						</activity>
+						<activity>
+							<action>Distribute fliers</action>
+							<startDate />
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manager, Community Outreach</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

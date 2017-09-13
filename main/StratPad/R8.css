@@ -1,0 +1,56 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	color: black;
+	font-family: Helvetica;
+	font-size: 12px;
+}
+#header {
+	height: 104px;
+	background: url('content-background-header.png') no-repeat;
+	font-size: 36px;
+	font-weight: bold;
+	padding: 11px 20px;
+	color: white;
+}
+
+ul {
+	padding:0;
+	margin:0;
+	list-style-type: none;
+}
+ul li.row:before {
+	content: "✓ ";
+	color: green;
+}
+
+.section {
+	margin-left: 20px;
+	margin-bottom: 18px;
+}
+.section .heading {
+	margin-bottom: 8px;
+}
+.section .row {
+	margin-bottom: 5px;
+}
+.section .last {
+	margin-left: 13px;
+}
+#logo {
+    /* width, height and background are provided inline */
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+
+/* High Resolution Screens and Large Viewports (Retina iPad) */
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (min-device-width: 768px) and (max-device-width: 1024px) {
+
+	#header {
+		background-size: 1024px 104px;
+		background: url('content-background-header@2x.png') no-repeat;
+	}
+
+}

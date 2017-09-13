@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20120611T19:28:02+1000</dateCreated>
+	<dateLastAccessed>20120719T22:19:45+1000</dateLastAccessed>
+	<dateModified>20120718T16:24:04+1000</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.3.1 (872)</model>
+	<name>myObservatory.com</name>
+	<companyName>myObervatory</companyName>
+	<city>Sydney</city>
+	<provinceState>NSW</provinceState>
+	<country>Australia</country>
+	<industry>Technology</industry>
+	<keyProblems>What is the perceived problem being addressed
+
+While becoming involved in astronomy has become easier.  For around $1000 a consumer can now purchase a telescope that includes automatic guidance systems. Add around $300 and you can even snap your own photos. However, even though the entry level has come down in terms of investment, there are still hurdles to amateur astronomy.
+
+Image size and quality of entry level scopes is always going to be a compromise.  Once the initial excitement wears off the telescope is destined to join other similar items in the garage.  If you are in the city light noise (created by city lights) will also reduce the number of visible objects.  Alternatively a amateur may travel for several hours to avoid such light noise.  If you are fortunate enough to have the right equipment and a dark location there is the issue of bad weather.  The plan to use the telescope on a weekend out of the city can be ruined by cloudy conditions.</keyProblems>
+	<addressProblems>Potential Solution: remotely accessible telescopes
+
+Membership to myObservatory will provide access to a worldwide network of online telescopes via an iPad application.  Each scope will cover a fixed set of celestial objects (Moon, Jupiter, Saturn etc) with realtime or near realtime images or video.  Additional scopes will be focussed to cover special interest and galactic events as they occur (eg solar eclipse)
+
+How does myObservatory solve the problem?
+
+Advantages of myObservatory:
+
+1. No need for equipment ownership;
+2. Telescopes are available 24/7 worldwide;
+3. not subject to localised weather conditions; and
+4. No need to travel to see the stars, do it from your living room.
+
+myObservatory will also be a vehicle for real science.  The network of telescopes includes those fitted with sensing equipment capable of tracking the afterglows of gamma ray bursts (GRBs), cataloguing Near Earth Objects (NEOs) and following up candidates for the search for extra terrestrial intelligent (SETI).</addressProblems>
+	<customersDescription>Primary target markets
+
+We have identified 3 primary markets for myObservatory
+
+1. Students, educators and parents.  There are many educational applications and resources but myObservatory will provide a realtime experience far more interactive and rich than a simple animation;
+
+2. Amateur astronomers/astrophotographers.  The platform would provide unprecedented access to equipment and locations on a 24/7 basis.  Images and video taken can be used by amateurs for personal projects.
+
+3. Professional astronomers.  The platform would eventually be capable of remote control of scientific locations.  Hiring telescopes is not a new concept, however this would bring access to scientific grade scopes so much closer to the end user, with no compromise to the end result.
+</customersDescription>
+	<competitorsDescription>Competitive alternatives
+
+There are three distinct types of astronomy applications available for iPads:
+
+1. Animated planetariums that help guide observers through the night sky: assumes the end user owns a telescope and has a location to use it;
+
+2. Animated solar system tours: providing static or partially animated solar system walks/tours.  No scope necessary, but very much like reading a book;
+
+3. Solar system catalogues: generally made for special interest groups such as exoplanets or Near Earth Objects and will have little relevance outside the scientific community.
+
+We have not seen an application that provides a live feed to celestial bodies and events.  They are all pre-programmed and limited in realtime applicability. There are some amateur web sites that provide web cam feeds, but the don't appear to be coordinated or of high quality.  They might be in a position to provide a service, but it would be limited to night time, and would not provide simultaneous viewing of objects.
+
+iTelescope.net represents the other end of the spectrum.  They provide a network of scientific grade telescopes that are controllable at an hourly rate.  This is not for consumer use and would be expensive platform, due to on-site redundancy issues.</competitorsDescription>
+	<businessModelDescription>Business model
+
+myObservatory will be an iPad application purchased through the iTunes store.  Two versions will be created
+
+1. Free to try:  this will include educational resources on the solar system objects; calendar of upcoming events including reminders; and latest astronomic news feed.
+
+2. Premium membership: includes the &quot;Free to try&quot; plus: access to archive video of celestial events; live video feeds of solar system objects; and the ability to remotely control a telescope.  It is expected that the premium upgrade will be between $5-10.</businessModelDescription>
+	<expansionOptionsDescription>Other potential models
+
+- Remote control - Celestrion (manufacturer of telescopes) recently released an iPad application that allowed remote control for compatible telescopes.  It is limited to a local telescope and does not track images, but it does show that the ability to control a scope via an iPad is possible. myObservatory could charge an hourly rate to remote control a telescope to view an object of choice.
+
+- Scientific information - By adapting the telescopes used in the network it would be possible to charge for other information regarding a viewable object outside of visible spectrum (infrared, x-ray etc).  Combined with remote control would have appeal to students, amateur and professional astronomers.
+
+- Astrophotography - Charge to purchase high resolution images of objects</expansionOptionsDescription>
+	<ultimateAspiration>Ultimate aspiration
+
+To have a coordinated network of +1,000 telescopes providing the worlds students, amateurs and professional astronomers with affordable and constant access to the planets and stars.</ultimateAspiration>
+	<mediumTermStrategicGoal>Medium Strategic goals
+
+myObservatory has been broken into 4 distinct evolutionary phases:
+
+Phase 1: build a basic application that provides a context and platform for myObservatory.  The basic application, which will be offered free, requires no internet connectivity.  It can be used as an educational resource.
+
+Phase 2: introduction of video content.  This phase requires a step up in complexity, requiring the development of a Content Delivery Network (CDN).  Bandwidth and content acquisition cost become an issue.  Due to these additional costs the application moves into a Premium Membership model.
+
+Phase 3: live telescope feeds.  This phase requires a network of independently owned and operated scopes to be coordinated by a central platform.  Building on the CDN established in Phase 2, the CDN will need to provide realtime access and include features such as adaptive bit rate (ABR).  The phase should not see an increase in bandwidth costs, but will extend the amount of content stored.
+
+Phase 4: remote control scopes.  This phase requires the ability of the network to support bi-directional requests.  The user interface will need to be modified to incorporate the real time position of the selectable objects.  Remote control of scopes will introduce a pay-as-you-use model.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>myObservatory - Phase 1 - Free-to-try</title>
+			<startDate>20120731</startDate>
+			<endDate>20121030</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>3000</costsOneTime>
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Wayne Trattles</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Build iPad application</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20121030</targetDate>
+							<targetValue>Completed</targetValue>
+							<successIndicator>1</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Launch in Apple Store</action>
+							<startDate>20121029</startDate>
+							<endDate>20121030</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>9</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Application functionality build</action>
+							<startDate>20120821</startDate>
+							<endDate>20120917</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>App approval for Apple testing</action>
+							<startDate>20121014</startDate>
+							<endDate>20121015</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Negotiate Statement of Work</action>
+							<startDate>20120814</startDate>
+							<endDate>20120820</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Apple testing and responses</action>
+							<startDate>20121016</startDate>
+							<endDate>20121029</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Incorporate content into application</action>
+							<startDate>20120918</startDate>
+							<endDate>20121001</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Approval to build app</action>
+							<startDate>20120819</startDate>
+							<endDate>20120820</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Draft app design specification</action>
+							<startDate>20120731</startDate>
+							<endDate>20120806</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>User acceptance testing</action>
+							<startDate>20121002</startDate>
+							<endDate>20121014</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Brief and select developer</action>
+							<startDate>20120807</startDate>
+							<endDate>20120813</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Recruit telescope members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Partnership agreements</summary>
+							<targetDate>20121030</targetDate>
+							<targetValue>2</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Partner Sales &amp; Marketing activities</action>
+							<startDate>20120930</startDate>
+							<endDate>20121030</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Set up first remote telescope</action>
+							<startDate>20120731</startDate>
+							<endDate>20120929</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Develop Partnering agreement</action>
+							<startDate>20120831</startDate>
+							<endDate>20120929</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Obtain source content</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20121030</targetDate>
+							<targetValue>Completed</targetValue>
+							<successIndicator>1</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Content review and approval</action>
+							<startDate>20120904</startDate>
+							<endDate>20120917</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Desktop publisher</responsible>
+						</activity>
+						<activity>
+							<action>Provide content to App Developer</action>
+							<startDate>20120916</startDate>
+							<endDate>20120917</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Research content options</action>
+							<startDate>20120731</startDate>
+							<endDate>20120806</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Brief and recruit desktop publisher</action>
+							<startDate>20120807</startDate>
+							<endDate>20120813</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Populate database with content</action>
+							<startDate>20120814</startDate>
+							<endDate>20120903</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Desktop publisher</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>myObservatory - Phase 3 - Live telescope</title>
+			<startDate>20130131</startDate>
+			<endDate>20130429</endDate>
+			<mandatory>0</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Wayne Trattles</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Free-to-try customers</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of active clients</summary>
+							<targetDate>20130429</targetDate>
+							<targetValue>20000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Free-to-try Sales &amp; Marketing activities</action>
+							<startDate>20130131</startDate>
+							<endDate>20130429</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Premium customers</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of active clients</summary>
+							<targetDate>20130429</targetDate>
+							<targetValue>1000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Premium Sales &amp; Marketing activities</action>
+							<startDate>20130131</startDate>
+							<endDate>20130429</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Update CDN for live content</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20130429</targetDate>
+							<targetValue>Completed</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Live - user acceptance testing</action>
+							<startDate>20130414</startDate>
+							<endDate>20130429</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Live - scoping activities</action>
+							<startDate>20130131</startDate>
+							<endDate>20130214</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Live - Building activities</action>
+							<startDate>20130214</startDate>
+							<endDate>20130414</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Application Developer</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Update iPad app for live content</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20130429</targetDate>
+							<targetValue>Completed</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Building App activities</action>
+							<startDate>20130215</startDate>
+							<endDate>20130414</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>App user acceptance testing</action>
+							<startDate>20130415</startDate>
+							<endDate>20130429</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Scoping App activities</action>
+							<startDate>20130131</startDate>
+							<endDate>20130214</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Recruit telescope members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Partnership agreements</summary>
+							<targetDate>20130429</targetDate>
+							<targetValue>50</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Partner Sales &amp; Marketing activities</action>
+							<startDate>20130131</startDate>
+							<endDate>20130429</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>myObservatory - Phase 4 - Remote Control</title>
+			<startDate>20130430</startDate>
+			<endDate>20130730</endDate>
+			<mandatory>0</mandatory>
+			<order>3</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Wayne Trattles</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Free-to-try customers</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of active clients</summary>
+							<targetDate>20130730</targetDate>
+							<targetValue>40000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Free-to-try Sales &amp; Marketing activities</action>
+							<startDate>20130430</startDate>
+							<endDate>20130730</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Update CDN for remote control</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20130730</targetDate>
+							<targetValue>Completed</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Remote - scoping activities</action>
+							<startDate>20130430</startDate>
+							<endDate>20130514</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Remote - user acceptance testing</action>
+							<startDate>20130714</startDate>
+							<endDate>20130730</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Remote - building activities</action>
+							<startDate>20130514</startDate>
+							<endDate>20130714</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Application Developer</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Premium customers</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of active clients</summary>
+							<targetDate>20130730</targetDate>
+							<targetValue>2000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Premium Sales &amp; Marketing activities</action>
+							<startDate>20130430</startDate>
+							<endDate>20130730</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Update iPad app for remote control</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20130730</targetDate>
+							<targetValue>Completed</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Building App activities</action>
+							<startDate>20130514</startDate>
+							<endDate>20130714</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>App user acceptance testing</action>
+							<startDate>20130714</startDate>
+							<endDate>20130730</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Scoping App activities</action>
+							<startDate>20130430</startDate>
+							<endDate>20130514</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Recruit telescope members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Partnership agreements</summary>
+							<targetDate>20130730</targetDate>
+							<targetValue>100</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Partner Sales &amp; Marketing activities</action>
+							<startDate>20130430</startDate>
+							<endDate>20130730</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>myObservatory - Phase 2 - Premium</title>
+			<startDate>20121031</startDate>
+			<endDate>20130130</endDate>
+			<mandatory>0</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>3000</costsOneTime>
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Wayne Trattles</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Build content delivery system</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20130130</targetDate>
+							<targetValue>Completed</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>CDN - Scoping activities</action>
+							<startDate>20121031</startDate>
+							<endDate>20121114</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>CDN - Building activities</action>
+							<startDate>20121115</startDate>
+							<endDate>20130114</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>CDN - Recruit Dbase admistrator</action>
+							<startDate>20130114</startDate>
+							<endDate>20130130</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>CDN - User acceptance testing</action>
+							<startDate>20130115</startDate>
+							<endDate>20130130</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Free-to-try customers</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of active clients</summary>
+							<targetDate>20130130</targetDate>
+							<targetValue>10000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Free-to-try Sales &amp; Marketing activities</action>
+							<startDate>20121031</startDate>
+							<endDate>20130130</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Update iPad app for archive video</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20130130</targetDate>
+							<targetValue>Completed</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>App user acceptance testing</action>
+							<startDate>20130115</startDate>
+							<endDate>20130130</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles, Application Developer</responsible>
+						</activity>
+						<activity>
+							<action>Scope app updates</action>
+							<startDate>20121130</startDate>
+							<endDate>20121214</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+						<activity>
+							<action>Build app updates</action>
+							<startDate>20121215</startDate>
+							<endDate>20121216</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Application Developer</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Recruit telescope members</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Partnership agreements</summary>
+							<targetDate>20130130</targetDate>
+							<targetValue>10</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Partner Sales &amp; Marketing activities</action>
+							<startDate>20121031</startDate>
+							<endDate>20130130</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Wayne Trattles</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

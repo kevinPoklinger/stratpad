@@ -1,0 +1,121 @@
+StratPad 1.2 (668)
+-------------------------
+Haven't changed anything yet.
+
+
+
+StratPad 1.2.1 (738)
+-------------------------
+For Settings and StratFile, made non-optional attributes optional and gave default values.
+This means all attributes in all domain objects are now optional.
+
+
+
+StratPad 1.3 (747)
+-------------------------
+Added Measurement entity, and added set of Measurement to Metric
+Add Chart Entity, and added set of Chart to Metric
+Added SuccessIndicator property to Metric.
+
+
+
+StratPad 1.3.1 (872)
+-------------------------
+Index Measurement.date
+Add yAxisMax property to Chart
+
+
+
+StratPad 1.4
+-------------------------
+Removed LocalizedText entity - moved into Localizable.strings + enum
+Removed relations to Frequency and ObjectiveType
+
+
+
+StratPad 1.5
+-------------------------
+We do have an email field, but it is stored in userprefs, serialized, and only used transiently for comparison during deserialization. It is not in the model at all.
+
+StratFile has YammerPublishedReports
+YammerPublishedThread
+YammerPublishedReport
+YammerStoredComment
+
+Add version to Settings
+Removed email, emailAppUpdates, emailNewsLetter
+Removed firstRun
+
+StratPad 1.6 (1090)
+-------------------------
+StratFile.uuid
+StratFile.financials
+Financials
+Loan
+Equity
+Asset
+EmployeeDeductions
+SalesTax
+OpeningBalances
+IncomeTax
+
+Theme changes:
+
+- removed:
+//@property (nonatomic, retain) NSDecimalNumber * revenueOneTimeAdjustment;
+//@property (nonatomic, retain) NSDecimalNumber * expensesOneTimeAdjustment;
+//@property (nonatomic, retain) NSDecimalNumber * cogsOneTimeAdjustment;
+//@property (nonatomic, retain) NSDecimalNumber * costsOneTimeAdjustment;
+
+- move expenses to R&D
+old:
+//@property (nonatomic, retain) NSNumber * expensesMonthly;
+//@property (nonatomic, retain) NSNumber * expensesQuarterly;
+//@property (nonatomic, retain) NSNumber * expensesAnnually;
+//@property (nonatomic, retain) NSNumber * expensesOneTime;
+new:
+@property (nonatomic, retain) NSNumber * researchAndDevelopmentMonthly;
+@property (nonatomic, retain) NSNumber * researchAndDevelopmentQuarterly;
+@property (nonatomic, retain) NSNumber * researchAndDevelopmentAnnually;
+@property (nonatomic, retain) NSNumber * researchAndDevelopmentOneTime;
+
+- move costs to G&A
+old:
+@property (nonatomic, retain) NSNumber * costsMonthly;
+@property (nonatomic, retain) NSNumber * costsQuarterly;
+@property (nonatomic, retain) NSNumber * costsAnnually;
+@property (nonatomic, retain) NSNumber * costsOneTime;
+new:
+//@property (nonatomic, retain) NSNumber * generalAndAdminMonthly;
+//@property (nonatomic, retain) NSNumber * generalAndAdminQuarterly;
+//@property (nonatomic, retain) NSNumber * generalAndAdminAnnually;
+//@property (nonatomic, retain) NSNumber * generalAndAdminOneTime;
+
+- a new type of expense
+new:
+@property (nonatomic, retain) NSNumber * salesAndMarketingMonthly;
+@property (nonatomic, retain) NSNumber * salesAndMarketingQuarterly;
+@property (nonatomic, retain) NSNumber * salesAndMarketingAnnually;
+@property (nonatomic, retain) NSNumber * salesAndMarketingOneTime;
+
+- the adjustments:
+new:
+@dynamic salesAndMarketingAnnuallyAdjustment;
+@dynamic salesAndMarketingMonthlyAdjustment;
+@dynamic salesAndMarketingQuarterlyAdjustment;
+
+- new theme properties:
+@dynamic numberOfEmployeesAtThemeStart;
+@dynamic numberOfEmployeesAtThemeEnd;
+
+@dynamic percentCogsIsPayroll;
+@dynamic percentResearchAndDevelopmentIsPayroll;
+@dynamic percentGeneralAndAdminIsPayroll;
+@dynamic percentSalesAndMarketingIsPayroll;
+
+
+
+
+
+
+

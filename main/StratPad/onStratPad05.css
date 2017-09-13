@@ -1,0 +1,59 @@
+ul {
+    font-size: 12pt;
+}
+
+.column {
+    width: 60%;
+}
+
+#strategy-pyramid {
+    position: absolute; 
+    top: 113px; 
+    left: 300px;
+    width: 578px;
+    overflow: hidden;
+}
+
+.highlight {
+    width: 878px;
+    height: 88px;
+}
+
+#strategy-pyramid-highlight1 {
+    position: absolute; 
+    top: 214px; 
+    left: 0px;    
+}
+
+#strategy-pyramid-highlight2 {
+    position: absolute; 
+    top: 333px; 
+    left: 0px;
+}
+
+#strategy-pyramid-highlight3 {
+    position: absolute; 
+    top: 453px; 
+    left: 0px;
+}
+
+#soul-list {
+    position: absolute; 
+    top: 202px; 
+    left: 0;
+    width: 484px;
+}
+
+#strategy-list {
+    position: absolute; 
+    top: 321px; 
+    left: 0;
+    width: 375px;
+}
+
+#scorecard-list {
+    position: absolute; 
+    top: 440px; 
+    left: 0;
+    width: 335px;
+}

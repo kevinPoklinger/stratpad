@@ -1,0 +1,20 @@
+/* 
+	// or /* denotes a comment, useful for the translator, not used by the program - don't translate 
+*/
+
+/* Class = "IBUILabel"; text = "WELCOME TO STRATPAD"; ObjectID = "7"; */
+"7.text" = "BIENVENIDO/A A STRATPAD";
+
+/* Class = "IBUILabel"; text = "Congratulations on getting StratPad! It's the world's highest-rated business planning and strategy app because it was designed to help your business thrive and grow.\n\nWe want to let you know about a couple of things so you'll get the most from StratPad.\n\nFirst, please confirm (or change) your language here:\n"; ObjectID = "8"; */
+"8.text" = "¡Felicitaciones por elegir StratPad! Es la aplicación mejor calificada del mundo para la planificación y estrategia de negocio, ya que fue diseñada para ayudar a que su compañía prospere y crezca.\n\nQueremos darle a conocer algunos detalles para que obtenga el máximo desempeño de StratPad.\n\nEn primer lugar, confirme (o cambie) su idioma aquí:\n";
+
+/* Class = "IBUILabel"; text = "In the future, you can change your language at any time in the Settings menu (the small gear at the top right corner). \n\nThe language will change the next time you start StratPad."; ObjectID = "41"; */
+"41.text" = "Podrá cambiar más adelante su idioma en cualquier momento en el menú Configuración (el icono de engranaje de la esquina superior derecha). \n\nEl idioma cambiará la próxima vez que inicie StratPad.";
+
+/* Class = "IBUIButton"; normalTitle = "Restart Now"; ObjectID = "141"; */
+"141.normalTitle" = "Reiniciar ahora";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "142"; */
+"142.normalTitle" = "Siguiente";
+
+

@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111115T19:22:08+0000</dateCreated>
+	<dateLastAccessed>20120515T17:49:48+0100</dateLastAccessed>
+	<dateModified>20120515T17:31:51+0100</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.2.1 (738)</model>
+	<name>Nurture Factory</name>
+	<companyName>Search High Ltd</companyName>
+	<city>Newark On Trent</city>
+	<provinceState>NOTTINGHAMSHIRE</provinceState>
+	<country>United Kingdom</country>
+	<industry>Marketing</industry>
+	<keyProblems>Our customers need to be selling more via online channels. They have websites that are not performing as they would like. Many of our customers are spending far too much money marketing on the web and not receiving the results that they would wish
+
+Old style push marketing techniques are increasingly irrelevant and less successful than they used to be. Inbound marketing implies being there, in the right place, at the right time when the customer is ready to buy our products or services, and through establishing relationships, be a trusted source from which purchase.
+
+Our clients have historically been b2b companies. However, inbound marketing is equally appropriate for b2c as it is for b2b. Large organisations over and above 600 people will likely be using one of the expensive existing integrated marketing packages whereas small businesses under 50 heads are unlikely to have the resources to implement an inbound marketing project successfully. Our target market is therefore medium-sized companies, between 50 and 600 employees.</keyProblems>
+	<addressProblems>Our products and associated service offerings will enable companies to cost-effectively design and implement an inbound marketing strategy, to reduce online marketing costs, whilst increasing the effectiveness of their marketing efforts, and at the same time strengthening their online brand.</addressProblems>
+	<customersDescription>Our target customer is a medium sized business, with between 50-600 employees. They will have a significant online marketing budget. They will be looking to reduce marketing costs, such as Google Adwords paid search, and to improve customer acquisition and retention.
+
+They will be in a market where their online reputation and strength of brand are both important to them. They will have a willingness to strengthen their brand and provide a much improved customer experience, leading to a stronger position in their market vis a vis their competitors.
+
+Our offering will help them to better manage their online presence, improve customer acquisition and retention, increase sales from new customers and return visitors, and strengthen their brand's perception and effectiveness.</customersDescription>
+	<competitorsDescription>Our main competitors are:
+Hubspot
+Tomorrow People
+Brightfire
+Other Hubspot partners
+Marketo
+
+Strengths:
+Integrated tool sets
+Integrated email marketing and CRM
+Lead nurturing program
+Plenty of marketing materials
+Simple data analysis
+They use their own product - walk the walk
+Free trial
+
+Weaknesses
+Users must create their own unique content
+Simplistic analytics mean no ability to dig deep
+Less informative than Google Analytics, which is free
+Insufficient depth of information for experienced Internet marketers to improve on
+The CMS does not have flexibility to produce attractive or complex websites
+Any help starts at around £60/hour
+Hubspot venture fund means aggressive sales model
+Initial cost is too much for many companies - from around £7,000 plus £1,500 initial training, all upfront
+Hubspot recommend also hiring a consultant for around £3-4,000 a month (Peter Caputa, Hubspot)
+None of the tools are innovative and many similar available for free. Value is in dashboard.
+For a serious CRM, costly integration with Salesforce is necessary
+Your competitors could switch to Hubspot and negate any competitive advantage
+</competitorsDescription>
+	<businessModelDescription>Initial consultancy and implementation
+Monthly retainer fees for product access and management
+Monthly fees for services - we perform what our competitors want clients to do in-house.
+Ongoing consultancy and advice
+</businessModelDescription>
+	<expansionOptionsDescription>There would be further opportunities from associated consultancy activity, such as integration with Joomla!, an open source CMS, such as Search High use to manage our website content</expansionOptionsDescription>
+	<ultimateAspiration>Search High aim to provide the best performing, easiest to use, integrated inbound online marketing solution, at a highly competitive price, through the use and integration of a combination of best-of-breed and open source products.</ultimateAspiration>
+	<mediumTermStrategicGoal>Our aim is to provide an integrated inbound marketing solution that medium size businesses can use at a lower cost than competitors such as Hubspot, but with fully integrated functionality, whilst improving on some of the areas of weakness that Hubspot currently has.
+</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Look for unique groupings of products where customers do not need everything</title>
+			<startDate>20120514</startDate>
+			<endDate>20120730</endDate>
+			<mandatory>1</mandatory>
+			<order>5</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>2000</revenueMonthly>
+			<revenueOneTime>2000</revenueOneTime>
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>3000</costsOneTime>
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>PMcI</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Staff to understand product groups and be able to support them</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120830</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Great products with great ongoing consulting support</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Opportunities for extra revenue items from existing products</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>revenue</summary>
+							<targetDate>20121031</targetDate>
+							<targetValue>3000</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Research market, identify &amp; plan new products by groupings</action>
+							<startDate>20120522</startDate>
+							<endDate>20120523</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Defined product grouping and new product names</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120730</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Create website product price matrix</action>
+							<startDate>20120701</startDate>
+							<endDate>20120711</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Identify and develop a customer dashboard with APIs</title>
+			<startDate>20120527</startDate>
+			<endDate>20120730</endDate>
+			<mandatory>1</mandatory>
+			<order>6</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>10000</costsOneTime>
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>PMcI</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Customers can manage their own inbound marketing elements in one place</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120929</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Work with developers to design new interface with api links</action>
+							<startDate>20120723</startDate>
+							<endDate>20120724</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Revenue from unique product subsets</title>
+			<startDate />
+			<endDate />
+			<mandatory>1</mandatory>
+			<order>10</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives />
+		</theme>
+		<theme>
+			<title>Identify and strengthen all areas of inbound marketing</title>
+			<startDate>20120513</startDate>
+			<endDate>20120730</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>500</costsOneTime>
+			<costsMonthly>1500</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>PMcI</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Inbound Marketing knowledge building and element identification</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Able to understand and implement all solution elements</summary>
+							<targetDate>20120730</targetDate>
+							<targetValue>0</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Train new staff in new offices</action>
+							<startDate>20120708</startDate>
+							<endDate>20120719</endDate>
+							<upfrontCost>800</upfrontCost>
+							<ongoingCost>200</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Untitled Objective</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Revenue from setting product groups and cost and selling prices</title>
+			<startDate />
+			<endDate />
+			<mandatory>1</mandatory>
+			<order>9</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives />
+		</theme>
+		<theme>
+			<title>Identify product groups, cost prices and selling prices</title>
+			<startDate>20120521</startDate>
+			<endDate>20120730</endDate>
+			<mandatory>1</mandatory>
+			<order>4</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>200</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>5000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly>1000</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>PMcI</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Complete budget revenue &amp; costs based upon research</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120701</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Prepare financial plans and budgets</action>
+							<startDate>20120603</startDate>
+							<endDate>20120615</endDate>
+							<upfrontCost>100</upfrontCost>
+							<ongoingCost>150</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Implement budgetary monitoring processes</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120730</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Implement budget controls and recording</action>
+							<startDate>20120607</startDate>
+							<endDate>20120615</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Competitive pricing and unique product sets</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Produce product pricing schedule</action>
+							<startDate>20120531</startDate>
+							<endDate>20120609</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Revenue from integrated customer dashboard through APIs</title>
+			<startDate>20120930</startDate>
+			<endDate />
+			<mandatory>1</mandatory>
+			<order>11</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>8000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives />
+		</theme>
+		<theme>
+			<title>Revenue from building on areas of weakness</title>
+			<startDate />
+			<endDate />
+			<mandatory>1</mandatory>
+			<order>8</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives />
+		</theme>
+		<theme>
+			<title>Identify areas of uniqueness and build on these</title>
+			<startDate>20120514</startDate>
+			<endDate>20120730</endDate>
+			<mandatory>1</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>1000</revenueMonthly>
+			<revenueOneTime>1000</revenueOneTime>
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>PMcI</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Identify &amp; provide unique offerings and identify their value</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120714</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Research market and identify product grouping opportunities &amp;market segments</action>
+							<startDate>20120520</startDate>
+							<endDate>20120629</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Educate staff to understand product offerings</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120730</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Ongoing staff education</action>
+							<startDate>20120701</startDate>
+							<endDate>20120716</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Build marketing literature around products &amp; groups</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120730</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Identify and write product marketing literature &amp; publish to the website</action>
+							<startDate>20120620</startDate>
+							<endDate>20120628</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Identify, clarify and document the market for our services.</title>
+			<startDate>20120520</startDate>
+			<endDate>20120730</endDate>
+			<mandatory>1</mandatory>
+			<order>3</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>PMcI</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Match market to specific product mixes as offerings</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Document plan for which product are for targeting which market segments</action>
+							<startDate>20120520</startDate>
+							<endDate>20120521</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Match market to specific product mixes as offerings</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120630</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Identify and quantify market over 4 years</action>
+							<startDate>20120520</startDate>
+							<endDate>20120521</endDate>
+							<upfrontCost />
+							<ongoingCost>500</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Revenue from strengthening all areas of Inbound Marketing</title>
+			<startDate />
+			<endDate />
+			<mandatory>1</mandatory>
+			<order>7</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives />
+		</theme>
+		<theme>
+			<title>Ensure we do not weaken the strength and integrity of our current SEO solutions</title>
+			<startDate>20120520</startDate>
+			<endDate>20120730</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly>50</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>PMcI</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Maintain knowledge strength in key areas such as SEO</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20121114</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Knowledge maintenance and document best practice</action>
+							<startDate>20120527</startDate>
+							<endDate>20120705</endDate>
+							<upfrontCost />
+							<ongoingCost>100</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Educate staff in appropriate key areas and identify continual learning process</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20120713</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Design &amp; implement staff continual learning program</action>
+							<startDate>20120706</startDate>
+							<endDate>20120725</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>PMcI</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

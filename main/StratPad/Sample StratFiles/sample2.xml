@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20110915T12:13:56-0700</dateCreated>
+	<dateLastAccessed>20110915T12:37:37-0700</dateLastAccessed>
+	<dateModified>20110915T12:18:40-0700</dateModified>
+	<name>Untitled StratFile</name>
+	<companyName>My Company</companyName>
+	<city />
+	<provinceState />
+	<country />
+	<industry />
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal />
+	<themes>
+		<theme>
+			<title>Improve Operational Efficiency</title>
+			<startDate>20120101T00:00:00+0000</startDate>
+			<endDate>20120630T00:00:00+0000</endDate>
+			<expensesMonthly>40</expensesMonthly>
+			<mandatory>1</mandatory>
+			<expensesOneTime>4</expensesOneTime>
+			<revenueAnnually>1000</revenueAnnually>
+			<revenueQuarterly>100</revenueQuarterly>
+			<expensesAnnually>4000</expensesAnnually>
+			<cogsMonthly>20</cogsMonthly>
+			<costsAnnually>8000</costsAnnually>
+			<costsQuarterly>800</costsQuarterly>
+			<revenueOneTime>1</revenueOneTime>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<costsMonthly>80</costsMonthly>
+			<cogsQuarterly>200</cogsQuarterly>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<costsOneTime>8</costsOneTime>
+			<cogsAnnually>2000</cogsAnnually>
+			<order>0</order>
+			<cogsOneTime>2</cogsOneTime>
+			<expensesQuarterly>400</expensesQuarterly>
+			<revenueMonthly>10</revenueMonthly>
+			<responsible>Marty Willick</responsible>
+			<objectives />
+		</theme>
+	</themes>
+</stratfile>

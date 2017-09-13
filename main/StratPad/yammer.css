@@ -1,0 +1,53 @@
+html, body {
+    font-family: Helvetica, sans-serif;
+    background: #FBFBFB;
+    line-height: 1.4;
+}
+
+#container {
+    font-size: 14px;
+    color: #666;
+}
+
+#thumbnail {
+    float: left;
+    margin: 0px 10px 5px 0;
+}
+
+#thumbnail img {
+    border: solid 1px #CCC;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+    border-color: #DDD;
+    width:80px;
+    min-height:60px;
+}
+
+#title {
+    font-weight: bold;
+    color: #16509E;
+    font-size: 15px;
+}
+
+#description {
+    clear: both;
+    text-align: justify;
+    color:black;
+}
+
+#link {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    color: #666;
+}
+
+p {
+    text-align: justify;
+}
+
+#author {
+    color: brown;
+    display: inline;
+}

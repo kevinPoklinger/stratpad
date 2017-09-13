@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Skin</key>
+	<dict>
+		<key>CANVAS_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the image that appears behind all pages in the application.  e.g., some-image.jpg</string>
+			<key>Value</key>
+			<string>page-background-blue-hatch.png</string>
+		</dict>
+		<key>SIDEBAR_BACKGROUND_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the image that appears in the background of the sidebar in the application.  e.g., some-image.png</string>
+			<key>Value</key>
+			<string>sidebar-background.png</string>
+		</dict>
+		<key>SIDEBAR_SELECTED_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the image that indicates selection of a button in the sidebar in the application.  e.g., some-image.png</string>
+			<key>Value</key>
+			<string>sidebar-selected.png</string>
+		</dict>
+		<key>SIDEBAR_SECTION_1_BUTTON_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the image for the buttons for section 1 of the sidebar in the application.  e.g., some-image.png</string>
+			<key>Value</key>
+			<string>sidebar-button-i.png</string>
+		</dict>
+		<key>SIDEBAR_SECTION_2_BUTTON_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the image for the buttons for section 2 of the sidebar in the application.  e.g., some-image.png</string>
+			<key>Value</key>
+			<string>sidebar-button-ii.png</string>
+		</dict>
+		<key>SIDEBAR_SECTION_3_BUTTON_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the image for the buttons for section 3 of the sidebar in the application.  e.g., some-image.png</string>
+			<key>Value</key>
+			<string>sidebar-button-iii.png</string>
+		</dict>
+		<key>SIDEBAR_SECTION_4_BUTTON_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the image for the buttons for section 3 of the sidebar in the application.  e.g., some-image.png</string>
+			<key>Value</key>
+			<string>sidebar-button-iv.png</string>
+		</dict>
+		<key>SIDEBAR_SECTION_1_BUTTON_TEXT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of the text font for buttons in section 1 of the sidebar.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>FFFFFF</string>
+		</dict>
+		<key>SIDEBAR_SECTION_2_BUTTON_TEXT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of the text font for buttons in section 2 of the sidebar.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>1B2B32</string>
+		</dict>
+		<key>SIDEBAR_SECTION_3_BUTTON_TEXT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of the text font for buttons in section 3 of the sidebar.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>37646F</string>
+		</dict>
+		<key>SIDEBAR_SECTION_4_BUTTON_TEXT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of the text font for buttons in section 3 of the sidebar.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>e1e7e8</string>
+		</dict>
+		<key>SECTION_1_BACKGROUND_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the background image for section 1.  e.g., some-image.jpg</string>
+			<key>Value</key>
+			<string>content-background-paper-midnight-blue-header.png</string>
+		</dict>
+		<key>SECTION_1_TITLE_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the title font in section 1.  This must follow conventions for the CSS font-family property.  e.g., helvetica</string>
+			<key>Value</key>
+			<string>helvetica</string>
+		</dict>
+		<key>SECTION_1_TITLE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Size of the title font in section 1.  This must follow conventions for the CSS font-size property.  e.g., 14pt</string>
+			<key>Value</key>
+			<string>28pt</string>
+		</dict>
+		<key>SECTION_1_TITLE_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of the title font in section 1.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>#FFFFFF</string>
+		</dict>
+		<key>SECTION_1_SUBTITLE_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the subtitle font in section 1.  This must follow conventions for the CSS font-family property.  e.g., helvetica</string>
+			<key>Value</key>
+			<string>helvetica</string>
+		</dict>
+		<key>SECTION_1_SUBTITLE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Size of the subtitle font in section 1.  This must follow conventions for the CSS font-size property.  e.g., 14pt</string>
+			<key>Value</key>
+			<string>20pt</string>
+		</dict>
+		<key>SECTION_1_SUBTITLE_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of the subtitle font in section 1.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>#FFFFFF</string>
+		</dict>
+		<key>SECTION_1_BODY_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the body font in section 1.  This must follow conventions for the CSS font-family property.  e.g., helvetica</string>
+			<key>Value</key>
+			<string>helvetica</string>
+		</dict>
+		<key>SECTION_1_BODY_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Size of the body font in section 1.  This must follow conventions for the CSS font-size property.  e.g., 14pt</string>
+			<key>Value</key>
+			<string>14pt</string>
+		</dict>
+		<key>SECTION_1_BODY_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of the body font in section 1.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>#37646F</string>
+		</dict>
+		<key>SECTION_1_BODY_LINK_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of link text in the body of section 1.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>#37646F</string>
+		</dict>
+		<key>SECTION_1_BODY_IMPORTANT_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex code for the color of important text in the body of section 1.  This must follow conventions for the CSS color property.  e.g., #FEFEFE</string>
+			<key>Value</key>
+			<string>#000000</string>
+		</dict>
+		<key>SECTION_2_BACKGROUND_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the background image for section 2.  e.g., some-image.jpg</string>
+			<key>Value</key>
+			<string>content-background-paper-turquoise-header.png</string>
+		</dict>
+		<key>SECTION_2_FORM_BACKGROUND_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the background color of forms in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>A3ABAF</string>
+		</dict>
+		<key>SECTION_2_INFO_BOX_BACKGROUND_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the background color of info boxes in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>A3ABAF</string>
+		</dict>
+		<key>SECTION_2_INFO_BOX_STROKE_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the outline of info boxes in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>37646F</string>
+		</dict>
+		<key>SECTION_2_INFO_BOX_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for the info boxes in section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica</string>
+		</dict>
+		<key>SECTION_2_INFO_BOX_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of the font for info boxes in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>14</string>
+		</dict>
+		<key>SECTION_2_INFO_BOX_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of font to use for info boxes in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>2D434C</string>
+		</dict>
+		<key>SECTION_2_TITLE_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for the main title in section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica-Bold</string>
+		</dict>
+		<key>SECTION_2_TITLE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of the font for the main title in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>40</string>
+		</dict>
+		<key>SECTION_2_TITLE_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of font to use for the main title in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>FFFFFF</string>
+		</dict>
+		<key>SECTION_2_SUBTITLE_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for the subtitle in section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica</string>
+		</dict>
+		<key>SECTION_2_SUBTITLE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of the font for the subtitle in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>26</string>
+		</dict>
+		<key>SECTION_2_SUBTITLE_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of font to use for the subtitle in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>FFFFFF</string>
+		</dict>
+		<key>SECTION_2_BODY_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for the body text in section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica</string>
+		</dict>
+		<key>SECTION_2_BODY_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of the font for the body text in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>20</string>
+		</dict>
+		<key>SECTION_2_BODY_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of font to use for the body text in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>2D434C</string>
+		</dict>
+		<key>SECTION_2_FIELD_LABEL_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of font to use for all field labels in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>2D434C</string>
+		</dict>
+		<key>SECTION_2_PLACE_HOLDER_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of font to use for place holder text in text views in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>B3B3B3</string>
+		</dict>
+		<key>SECTION_2_TEXT_VALUE_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of font to use for all text values in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>2D434C</string>
+		</dict>
+		<key>SECTION_2_TEXT_FIELD_BACKGROUND_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the background color of all text fields in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>E1E7E8</string>
+		</dict>
+		<key>SECTION_2_TEXT_FIELD_CALCULATION_COLOR</key>
+		<dict>
+			<key>Value</key>
+			<string>37646f</string>
+			<key>Comment</key>
+			<string>For the little shape colours on text fields in F5</string>
+		</dict>
+		<key>SECTION_2_F1_F3_FIELD_LABEL_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for field labels in F1 to F3 of section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica-Bold</string>
+		</dict>
+		<key>SECTION_2_F1_F3_FIELD_LABEL_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of the font for the field labels in forms F1 to F3 in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>14</string>
+		</dict>
+		<key>SECTION_2_F1_TEXT_VALUE_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for text values in form F1 of section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica</string>
+		</dict>
+		<key>SECTION_2_F1_TEXT_VALUE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of the font for text values in form F1 in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>20</string>
+		</dict>
+		<key>SECTION_2_F2_F3_TEXT_VALUE_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for text values in forms F2 and F3 of section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica</string>
+		</dict>
+		<key>SECTION_2_F2_F3_TEXT_VALUE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of the font for text values in forms F2 and F3 in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>17</string>
+		</dict>
+		<key>SECTION_2_TABLE_CELL_BACKGROUND_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the background for all table cells in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>E1E7E8</string>
+		</dict>
+		<key>SECTION_2_TABLE_CELL_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the font for all table cells in section 2.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>2D434C</string>
+		</dict>
+		<key>SECTION_2_TABLE_CELL_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for regular text in table cells in section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica</string>
+		</dict>
+		<key>SECTION_2_TABLE_CELL_BOLD_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for bold text in table cells in section 2.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica-Bold</string>
+		</dict>
+		<key>SECTION_2_TABLE_CELL_EXTRA_LARGE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of extra large text in table cells in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>20</string>
+		</dict>
+		<key>SECTION_2_TABLE_CELL_LARGE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of large text in table cells in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>17</string>
+		</dict>
+		<key>SECTION_2_TABLE_CELL_MEDIUM_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of medium text in table cells in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>14</string>
+		</dict>
+		<key>SECTION_2_TABLE_CELL_SMALL_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of small text in table cells in section 2.  e.g., 14</string>
+			<key>Value</key>
+			<string>12</string>
+		</dict>
+		<key>SECTION_3_BACKGROUND_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the background image for section 3.  e.g., some-image.jpg</string>
+			<key>Value</key>
+			<string>content-background-paper.png</string>
+		</dict>
+		<key>SECTION_3_HEADER_IMAGE</key>
+		<dict>
+			<key>Comment</key>
+			<string>Name of the header image for section 3.  e.g., some-image.jpg</string>
+			<key>Value</key>
+			<string>content-background-header.png</string>
+		</dict>
+		<key>SECTION_3_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for regular text in in section 3.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica</string>
+		</dict>
+		<key>SECTION_3_BOLD_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for bold text in in section 3.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica-Bold</string>
+		</dict>
+		<key>SECTION_3_ITALIC_FONT_NAME</key>
+		<dict>
+			<key>Comment</key>
+			<string>Font name for italic text in in section 3.  This must be the name of an available font in iOS, e.g., Helvetica-Bold</string>
+			<key>Value</key>
+			<string>Helvetica-Oblique</string>
+		</dict>
+		<key>SECTION_3_REPORT_TITLE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of title text in report headings in section 3.  e.g., 14</string>
+			<key>Value</key>
+			<string>36</string>
+		</dict>
+		<key>SECTION_3_REPORT_TITLE_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of title text in report headers in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>FFFFFF</string>
+		</dict>
+		<key>SECTION_3_REPORT_SUBTITLE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of subtitle text in report headings in section 3.  e.g., 14</string>
+			<key>Value</key>
+			<string>12</string>
+		</dict>
+		<key>SECTION_3_REPORT_SUBTITLE_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of subtitle text in report headers in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>000000</string>
+		</dict>
+		<key>SECTION_3_REPORT_DESCRIPTION_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of description text in report headings in section 3.  e.g., 14</string>
+			<key>Value</key>
+			<string>10</string>
+		</dict>
+		<key>SECTION_3_REPORT_DESCRIPTION_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of description text in report headers in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>000000</string>
+		</dict>
+		<key>SECTION_3_CHART_LINE_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the lines in the charts in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>1B2B32</string>
+		</dict>
+		<key>SECTION_3_CHART_ALTERNATING_ROW_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of alternating rows in charts in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>F2F2F2</string>
+		</dict>
+		<key>SECTION_3_CHART_HEADING_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the heading font in the charts in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>FFFFFF</string>
+		</dict>
+		<key>SECTION_3_CHART_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the font in the charts in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>37646F</string>
+		</dict>
+		<key>SECTION_3_REPORT_HEADER_TITLE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of report header text in R2, R3, R4, and R5.  e.g., 14</string>
+			<key>Value</key>
+			<string>9</string>
+		</dict>
+		<key>SECTION_3_SECTION_HEADING_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the font for section headings in reports  in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>1B2B32</string>
+		</dict>
+		<key>SECTION_3_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of text in reports R1, R6 - R9 for section 3.  e.g., 14</string>
+			<key>Value</key>
+			<string>12</string>
+		</dict>
+		<key>SECTION_3_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the font for regular text in reports  in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>1B2B32</string>
+		</dict>
+		<key>SECTION_3_FINANCIAL_ANALYSIS_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of text in R2, R3, R4, and R5.  e.g., 14</string>
+			<key>Value</key>
+			<string>9</string>
+		</dict>
+		<key>SECTION_3_HEADING_BOX_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the heading boxes in R5 for section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>1B2B32</string>
+		</dict>
+		<key>SECTION_3_HEADING_BOX_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the font in heading boxes in R5 for section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>FFFFFF</string>
+		</dict>
+		<key>SECTION_3_LARGE_ARROW_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the large arrows in the Gantt chart in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>5FA736</string>
+		</dict>
+		<key>SECTION_3_SMALL_ARROW_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the small arrows in the Gantt chart in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>818181</string>
+		</dict>
+		<key>SECTION_3_DIAMOND_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the diamonds in the Gantt chart in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>1D648F</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_FONT_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the color of the font in the Strategy Map in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>1B2B32</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_OBJECTIVE_FONT_SIZE</key>
+		<dict>
+			<key>Comment</key>
+			<string>The size in points of text in the objective boxes in R1.  Other text uses SECTION_3_FONT_SIZE.  e.g., 14</string>
+			<key>Value</key>
+			<string>10</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_STRATEGY_STATEMENT_LINE_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the line color of strategy statement in R1 in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>ACACAC</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_STRATEGY_STATEMENT_FILL_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the fill color of strategy statement in R1 in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>DDDDDD</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_THEME_BOX_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the fill color of theme boxes in R1 in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>A4ACB0</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_FINANCIAL_OBJECTIVE_BOX_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the fill color of financial objective boxes in R1 in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>7DCA4A</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_CUSTOMER_OBJECTIVE_BOX_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the fill color of customer objective boxes in R1 in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>4EADC4</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_PROCESS_OBJECTIVE_BOX_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the fill color of process objective boxes in R1 in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>2ba7b1</string>
+		</dict>
+		<key>SECTION_3_STRATEGY_MAP_STAFF_OBJECTIVE_BOX_COLOR</key>
+		<dict>
+			<key>Comment</key>
+			<string>8-bit hex string representing the fill color of staff objective boxes in R1 in section 3.  e.g., 4C4D4E</string>
+			<key>Value</key>
+			<string>7e8dc5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111115T11:25:23-0800</dateCreated>
+	<dateLastAccessed>20120531T12:32:43-0700</dateLastAccessed>
+	<dateModified>20120531T12:32:43-0700</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.3 (747)</model>
+	<name>SMB Market Focus</name>
+	<companyName>Gamma Consulting</companyName>
+	<city>Kingston</city>
+	<provinceState>ON</provinceState>
+	<country>Canada</country>
+	<industry>consulting</industry>
+	<keyProblems>SMBs have traditionally been unable to take advantage of the most modern, powerful and effective management tools. These tools are normally created for large companies and are therefore needlessly complex and expensive for smaller businesses. However, because today's business environment is extraordinarily challenging, SMB owners and managers need to use the best possible tools to thrive.
+
+Many consulting firms focus on larger clients because of the larger fees and longer contracts. Small clients are challenging: they demand a great deal and yet often have budgets too small to support appropriate engagements.</keyProblems>
+	<addressProblems>We will market a series of seminars, workshops and advisory packages based on EntrepreneurialStrategy to bring world-class strategy thinking to the region's SMBs.
+
+ES boils strategy and execution down to the essentials making it simpler and easier for SMB owners and managers to use. This simplicity also makes seminars and workshops much less expensive because they can be shorter. By presenting to several companies at once we will generate appropriate fees.</addressProblems>
+	<customersDescription>Our target customers are small- and medium-sized companies in the Kingston region that are growing. These businesses have annual sales in the $500,000 to $10,000,000 range, are profitable, and are working hard to &quot;get to the next level&quot;.
+
+The key individuals are the owners and senior executives of these firms. They're ambitious and want to gain an edge over their competition. They are willing to spend between $2,500 and $25,000 a year on advisory services; their willingness to make this investment will be enhanced by getting access to world-class thinking and advice.</customersDescription>
+	<competitorsDescription>Our competitors can include accountants, lawyers, and the full range of consulting firms including large national and regional firms, smaller boutique firms, and sole proprietor firms including business coaches.
+
+Accounting and legal firms already have access to our target customer on a regular basis. However, their thinking seldom goes beyond the transactional or tactical. Few accounting and legal firms truly appreciate the entrepreneurial mind-set or offer strategic services.
+
+Large national and regional firms have (or claim to have) a full array of strategic offerings. Their rates and offerings are often designed for larger firms; they are more complex and they are expensive. Few SMBs require the full range of these services; fewer can afford them.
+
+Boutique firms, sole proprietors and business coaches have rates that are more appropriate for SMBs. The quality of their offerings ranges widely but is typically weaker than the larger firms. They often borrow large-firm strategy concepts which don't translate particularly well to smaller businesses.
+
+Using EntrepreneurialStrategy we are able to offer world-class thinking that's specifically designed for SMBs. And we're able to meet their budget constraints by offering seminars, workshops and service packages.</competitorsDescription>
+	<businessModelDescription>We generate revenue three ways:
+
+• We host 1/2 day and 1 day workshops for several companies at a time. We charge a per-company or a per-attendee fee for each workshop.
+
+• We offer advisory packages for six month and one year terms. These typically include a workshop and then a two-hour monthly follow-up meeting.
+
+• We offer our services on a time and materials basis.</businessModelDescription>
+	<expansionOptionsDescription />
+	<ultimateAspiration>We want to become the region's most respected business advisor to small- and medium-sized companies (SMBs).</ultimateAspiration>
+	<mediumTermStrategicGoal>By December 31, 2013 we will become the region's most respected business advisory firm. Our ten advisors will support 200 SMB clients with a series of strategy and execution oriented seminars, workshops and advisory meetings based on the EntrepreneurialStrategy (ES) approach.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Expand market awareness</title>
+			<startDate>20120301</startDate>
+			<endDate>20131231</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Sammi Schmitt</responsible>
+			<objectives>
+				<objective>
+					<order>1</order>
+					<summary>Revenue from new clients</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly revenue from new clients</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>25000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20120131</date>
+									<value>12583</value>
+									<comment>Start of tracking but campaign has been running for 12 months already.</comment>
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>15836</value>
+									<comment>New online marketing campaign started </comment>
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>16322</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120415</date>
+									<value />
+									<comment>We expanded the call center hours today.</comment>
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>17345</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120531</date>
+									<value>17458</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120630</date>
+									<value>18453</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Monthly revenue from new clients</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>EAAFF11E-E027-4A25-B505-EDF5EFC2DC56</uuid>
+									<overlay>A907174C-1016-4D0E-8ACA-3BAD3C335FBF</overlay>
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>4</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>A907174C-1016-4D0E-8ACA-3BAD3C335FBF</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Implement CRM/soc.media technology</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New CRM technology fully implemented</summary>
+							<targetDate>20120630</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>More client contact</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly number of out-bound client contacts</summary>
+							<targetDate>20120630</targetDate>
+							<targetValue>1</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Expand number of clients</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of active clients</summary>
+							<targetDate>20131231</targetDate>
+							<targetValue>200</targetValue>
+							<successIndicator />
+							<measurements>
+								<measurement>
+									<date>20120131</date>
+									<value>87</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>92</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>97</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>113</value>
+									<comment>Great marketing effort!</comment>
+								</measurement>
+								<measurement>
+									<date>20120531</date>
+									<value>124</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120630</date>
+									<value>135</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Number of active clients</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>1</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>2C20E5B0-482E-4B09-88BB-B9E16D13689C</uuid>
+									<overlay>D912B401-DE21-4444-96D7-3A115CBF8219</overlay>
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Add client contact support staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New client contact support staff</summary>
+							<targetDate>20120331</targetDate>
+							<targetValue>1</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Expand current client revenue</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Annual revenue per client</summary>
+							<targetDate>20131231</targetDate>
+							<targetValue>15000</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Develop ES-based offerings</title>
+			<startDate>20120101</startDate>
+			<endDate>20120331</endDate>
+			<mandatory>0</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Petrova</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Develop new service offerings</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20120331</targetDate>
+							<targetValue>3</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Staff trained on new offerings</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Fully trained staff</summary>
+							<targetDate>20120415</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>More service offerings</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Avg. annual service offerings per client</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>3.0</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

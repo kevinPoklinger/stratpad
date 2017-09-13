@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Financial Details Tables</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<link rel="stylesheet" href="financials.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="moment.min.js"></script>
+<script src="financials.js"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="headerWrapper">
+			<table id="tableRowHeaders" class="tableRowHeaders">
+				<thead>
+					<!-- empty cell at top of row headers -->
+					<tr class="rowDivider2">
+						<th>&nbsp;</th>
+					</tr>
+				</thead>
+				<tbody>
+					<!-- eg a single content row; must be entirely replaced.
+
+					<tr>
+						<td class="rowLevel1">Net Changes from Operations</td>
+					</tr>
+					-->
+				</tbody>
+			</table>
+		</div>
+		<div class="tableWrapper">
+			<table id="fullReportTable" class="fullReportTable">
+				<thead>
+					<!-- 
+						- column headers in content section
+						- predicated on 8*12 + 1 columns = a fixed width for the table content 
+						- must be entirely replaced
+
+					<tr class="rowDivider2">
+						<th>&nbsp;</th>
+						<td>Jan 2012</td>
+						<td>Feb 2012</td>
+						<td>Mar 2012</td>
+						<td>Apr 2012</td>
+						<td>May 2012</td>
+						<td>...</td>
+					</tr>
+					-->
+				</thead>
+				<tbody>
+					<!-- 
+						- must also have 8*12+1 columns 
+						- # rows must match # rows in #tableRowHeaders 
+						- we repeat the row header in order to ascertain the cell height
+						- must be entirely replaced
+					
+					<tr>
+						<td class="rowLevel1">Net Changes from Operations</td>
+						<td>-999,999,999</td>
+						<td>-999,999,999</td>
+						<td>-999,999,999</td>
+						<td>10,000</td>
+						<td>10,000</td>
+						<td>10,000</td>
+					</tr>
+					-->
+				</tbody>
+			</table>
+		</div>
+	</div>
+</body>
+</html>

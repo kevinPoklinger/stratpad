@@ -1,0 +1,97 @@
+1. DefineObjectivesTableViewCells.xib changed, but just the layout.
+
+2. Info.html has some changes around the wording of our product name.
+
+ProBook:StratPad woodj$ diff en.lproj/Info.html es.lproj/Info.html
+84c84
+< <p>The StratPad family is our way of sharing EntrepreneurialStrategy with the world.</p>
+---
+> <p>StratPad is our way of sharing EntrepreneurialStrategy with the world.</p>
+92c92
+< <p>GlasseyStrategy reserves the right to anonymously track a user's activity inside of the StratPad family of products for the
+---
+> <p>GlasseyStrategy reserves the right to anonymously track a user's activity inside of StratPad for the
+100c100
+< <p class="touch"><a href="http://alexglassey.com/stratpad">The StratPad family</a></p>
+---
+> <p class="touch"><a href="http://alexglassey.com/stratpad">StratPad</a></p>
+104c104
+< <p class="touch"><a id="training" href="http://alexglassey.com/stratpad/training/">Training for the StratPad family</a></p>
+---
+> <p class="touch"><a id="training" href="http://alexglassey.com/stratpad/training/">StratPad Training</a></p>
+107a108
+> <div class="heading separator">Rate StratPad</div>
+109c110
+< <div class="heading separator">Talk to us</div>
+---
+> <p class="touch"><a id="appStoreURL" href="http://this/gets/replaced">Rate StratPad in the App Store</a></p>
+111c112
+< <p class="touch"><a id="appStoreURL" href="http://this/gets/replaced">Rate us in the App Store</a></p>
+---
+> <div class="heading separator">Talk to us</div>
+118d118
+<     
+
+3. Localizable.strings - 7 diffs
+
+ProBook:StratPad woodj$ diff en.lproj/Localizable.strings es.lproj/Localizable.strings 
+123,124c123,124
+< LANGUAGE="Language";
+< INTERNATIONAL="International";
+---
+> LANGUAGE="Idioma";
+> INTERNATIONAL="Internacional";
+140a141
+> YAMMER_MSG_SETUP="Please set up Yammer first.";
+156,157d156
+< MSG_OFFLINE="You must be online to use this feature.";
+< 
+172c171
+< STRATPAD_REPORTS_NAME="StratPad Reports";
+---
+> STRATPAD_REPORTS_NAME="StratPad Reports %@";
+413d411
+< AGENDA_ITEM_OBJECTIVE_MULTIPLE_METRICS="There are multiple metrics associated with this objective.";
+452a451
+> 
+536,551c535
+< SELECT_CHARTS="Select Charts";
+< 
+< /* Actions menu */
+< YAMMER_NETWORK="Network";
+< YAMMER_FILE="Report Name";
+< YAMMER_META="Meta";
+< YAMMER_GROUP="Group";
+< YAMMER_TOPIC="Topic";
+< YAMMER_MESSAGE="Message";
+< POST_TO_YAMMER="Post to Yammer";
+< YAMMER_MESSAGE_DETAILS="Message";
+< SUCCESS="Success";
+< ERROR="Error";
+< YAMMER_ERROR="Sorry, something went wrong with the posting to Yammer. You can press the back button and try again, or check the Yammer site - it may have worked anyway. There are some details below which may shed some light on the problem.";
+< YAMMER_MESSAGE_PLACEHOLDER="Enter a message to accompany this file.\n\nUse hashtags eg. #important to denote topics.";
+< YAMMER_TITLE_PLACEHOLDER="Enter a title for this file.";
+\ No newline at end of file
+---
+> SELECT_CHARTS="Select Charts";
+\ No newline at end of file
+
+4. MBDateSelectionView.strings
+
+Think this was a Vitaliy experiment, so just use the original translation.
+
+5. Added yammerResult.html.
+
+We're missing translations for SMB Market Focus.xml, 2012_2013 Expansion Strategy.xml and Get to Market!.xml.
+We also don't have a strategy for dealing with them. I think we will need to import the correct set for new users at bootstrap.
+
+6. More localized.strings
+
+YAMMER_UPLOAD_ERROR_MESSAGE="There was a problem sending '%@' to Yammer. Please try again.";
+YAMMER_UPLOAD_SUCCESS_MESSAGE="Successfully sent '%@' to Yammer.";
+
+RESTART_STRATPAD="Changes will take effect after restarting StratPad.";
+QUIT_NOW="Quit now";
+
+
+

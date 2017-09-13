@@ -1,0 +1,31 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    color: #111;
+    font-size: 1.0em;
+    background-color: #FEFEFE;
+}
+
+a {
+    color: Olive;
+    background: url(external.png) center right no-repeat;
+    padding-right: 13px;
+    text-decoration: none;
+}
+
+p {
+    text-align:justify;
+}
+
+#content {
+    margin: 6px;
+}
+
+h4 {
+    background-color: #e6e6e6;
+    padding: 5px 3px;
+    margin: 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}

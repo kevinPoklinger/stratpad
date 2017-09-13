@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20120214T15:55:23-0800</dateCreated>
+	<dateLastAccessed>20120215T10:00:37-0800</dateLastAccessed>
+	<dateModified>20120215T10:00:28-0800</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.2 (668)</model>
+	<name>2012 Test</name>
+	<companyName>Acme</companyName>
+	<city />
+	<provinceState />
+	<country />
+	<industry />
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal />
+	<themes>
+		<theme>
+			<title>Test5</title>
+			<startDate>20120101T00:00:00+0000</startDate>
+			<endDate>20121231T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>4</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>filler</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Test4</title>
+			<startDate>20120701T00:00:00+0000</startDate>
+			<endDate>20120831T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>3</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>filler</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Test6</title>
+			<startDate>20120201T00:00:00+0000</startDate>
+			<endDate>20120331T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>5</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>filler</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Test2</title>
+			<startDate>20120601T00:00:00+0000</startDate>
+			<endDate>20120630T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>filler</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Test3</title>
+			<startDate>20120401T00:00:00+0000</startDate>
+			<endDate>20120630T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>filler</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Test1</title>
+			<startDate>20120101T00:00:00+0000</startDate>
+			<endDate>20121231T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Test7</title>
+			<startDate>20120101T00:00:00+0000</startDate>
+			<endDate>20121231T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>6</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>filler</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

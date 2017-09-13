@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20110922T08:03:46-0700</dateCreated>
+	<dateLastAccessed>20110922T13:14:39-0700</dateLastAccessed>
+	<dateModified>20110922T13:14:35-0700</dateModified>
+	<name>Shelley's 10K</name>
+	<companyName>My Company</companyName>
+	<city />
+	<provinceState />
+	<country />
+	<industry />
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal />
+	<themes>
+		<theme>
+			<title>test theme</title>
+			<startDate />
+			<endDate />
+			<expensesMonthly />
+			<mandatory>0</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly />
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<costsMonthly />
+			<cogsQuarterly />
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime />
+			<cogsAnnually />
+			<order>0</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly />
+			<responsible />
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>financial objective 1</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>financial objective 3</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>4</order>
+					<summary>financial objective 5</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>6</order>
+					<summary>financial objective 7</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>staff objective 2</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>staff objective 1</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>financial objective 4</summary>
+					<objectiveType>0</objectiveType>
+					<targetDate />
+					<targetValue />
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>financial objective 2</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>5</order>
+					<summary>financial objective 6</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

@@ -1,0 +1,14 @@
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "5"; */
+"5.placeholder" = "Nombre";
+
+/* Class = "IBUIButton"; normalTitle = "Later"; ObjectID = "6"; */
+"6.normalTitle" = "Más tarde";
+
+/* Class = "IBUITextField"; placeholder = "Email Address"; ObjectID = "7"; */
+"7.placeholder" = "Email";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "8"; */
+"8.placeholder" = "Apellido";
+
+/* Class = "IBUIButton"; normalTitle = "Register"; ObjectID = "19"; */
+"19.normalTitle" = "Registrar";

@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20120214T15:55:23-0800</dateCreated>
+	<dateLastAccessed>20120617T15:17:55-0700</dateLastAccessed>
+	<dateModified>20120617T15:16:13-0700</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.3 (747)</model>
+	<name>STRATPAD PLANNING (F5 debugging version)</name>
+	<companyName>GlasseyStrategy</companyName>
+	<city />
+	<provinceState />
+	<country />
+	<industry />
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal />
+	<themes>
+		<theme>
+			<title>Revenue - Online Services</title>
+			<startDate>20120901</startDate>
+			<endDate>20131231</endDate>
+			<mandatory>0</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment>25</revenueMonthlyAdjustment>
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives>
+				<objective>
+					<order>1</order>
+					<summary>Increase Average Trx Value</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Average Trx Value</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>25</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20111231</date>
+									<value>15.7</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120131</date>
+									<value>18.24</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>21.8</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>22.51</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>20.98</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120512</date>
+									<value>24.17</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120519</date>
+									<value>21.45</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120526</date>
+									<value>22.12</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120602</date>
+									<value>21.62</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120609</date>
+									<value>21.83</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120616</date>
+									<value>21.85</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Average Gross Trx Value</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>2</colorScheme>
+									<showTarget>1</showTarget>
+									<order>2</order>
+									<uuid>F513E1AF-F40D-4882-AFF0-7C754D5EE731</uuid>
+									<overlay>1C7B9D17-0147-4FEE-BB02-51FA364992CE</overlay>
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>1</chartType>
+									<showTrend />
+									<colorScheme>2</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>1C7B9D17-0147-4FEE-BB02-51FA364992CE</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Grow gross margin</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly Gross Margin</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>15000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20120131</date>
+									<value>4400</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>3600</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>5700</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>6800</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120531</date>
+									<value>6800</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Monthly Gross Margin</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>4</colorScheme>
+									<showTarget>1</showTarget>
+									<order>5</order>
+									<uuid>4B248258-11AD-4602-B1FD-47EC9F893C77</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>2012 Cum. Gross Margin</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>105000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20120131</date>
+									<value>4400</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>8000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>13700</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>20500</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120531</date>
+									<value>27300</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>2012 Cumulative Gross Margin</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order>4</order>
+									<uuid>704E6AD8-C43F-456E-B14A-449BB156CDEE</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>Weekly Gross Margin</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>4000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20120407</date>
+									<value>1669</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120414</date>
+									<value>1223</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120421</date>
+									<value>1555</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120428</date>
+									<value>1845</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120505</date>
+									<value>1497</value>
+									<comment>AdWords turned off this week.</comment>
+								</measurement>
+								<measurement>
+									<date>20120512</date>
+									<value>1793</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120519</date>
+									<value>1502</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120526</date>
+									<value>1486</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120602</date>
+									<value>1317</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120609</date>
+									<value>1864</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120616</date>
+									<value>1285</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120622</date>
+									<value />
+									<comment>StratBoard release</comment>
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Net Weekly Revenue Graph</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>7</colorScheme>
+									<showTarget>1</showTarget>
+									<order>3</order>
+									<uuid>80FE0395-0208-4E15-853F-7F3E59D89FB7</uuid>
+									<overlay>58A41D35-8442-41CE-BF0E-CB040AB57D85</overlay>
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>6</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>58A41D35-8442-41CE-BF0E-CB040AB57D85</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increase # of Financial Transactions</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>No. of Financial Transactions</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>10000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20111231</date>
+									<value>283</value>
+									<comment>First month. 100 Premiums at $5.</comment>
+								</measurement>
+								<measurement>
+									<date>20120131</date>
+									<value>628</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>864</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>1228</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>1692</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120505</date>
+									<value>1760</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120512</date>
+									<value>1866</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120519</date>
+									<value>1966</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120526</date>
+									<value>2062</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120602</date>
+									<value>2149</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120609</date>
+									<value>2271</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120616</date>
+									<value>2355</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120622</date>
+									<value />
+									<comment>StratBoard release</comment>
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Cumulative No. of Financial Transactions</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>2</colorScheme>
+									<showTarget>1</showTarget>
+									<order>1</order>
+									<uuid>DE75F37A-2F81-42A6-B9FB-B33EF8B1C1E2</uuid>
+									<overlay>206A445F-83B0-4EAC-A11E-01F38C0059B5</overlay>
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>2</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>206A445F-83B0-4EAC-A11E-01F38C0059B5</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Revenue - Workshops &amp;Seminars</title>
+			<startDate>20120901</startDate>
+			<endDate>20131231</endDate>
+			<mandatory>0</mandatory>
+			<order>3</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Public Relations</title>
+			<startDate>20120601</startDate>
+			<endDate>20131231</endDate>
+			<mandatory>0</mandatory>
+			<order>5</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Manuela Bizzotto</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Expand awareness</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>StratBoard press release</action>
+							<startDate />
+							<endDate>20120626</endDate>
+							<upfrontCost>400</upfrontCost>
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+						<activity>
+							<action>Spanish press release</action>
+							<startDate />
+							<endDate>20120731</endDate>
+							<upfrontCost>800</upfrontCost>
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+						<activity>
+							<action>Pro press release</action>
+							<startDate />
+							<endDate>20120831</endDate>
+							<upfrontCost>400</upfrontCost>
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+						<activity>
+							<action>Monthly newsletter</action>
+							<startDate>20120701</startDate>
+							<endDate>20121231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>10</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>AG/MB</responsible>
+						</activity>
+						<activity>
+							<action>Weekly blog</action>
+							<startDate>20120701</startDate>
+							<endDate>20121231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>9</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>AG/MB</responsible>
+						</activity>
+						<activity>
+							<action>Cross platform press release</action>
+							<startDate />
+							<endDate>20121031</endDate>
+							<upfrontCost>800</upfrontCost>
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+						<activity>
+							<action>Nonprofit press release</action>
+							<startDate />
+							<endDate>20120724</endDate>
+							<upfrontCost>400</upfrontCost>
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+						<activity>
+							<action>Free press release</action>
+							<startDate />
+							<endDate>20120705</endDate>
+							<upfrontCost>400</upfrontCost>
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+						<activity>
+							<action>Case study (Darrin Smith) press release</action>
+							<startDate />
+							<endDate />
+							<upfrontCost>400</upfrontCost>
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+						<activity>
+							<action>Collaboration (V1.4) press release</action>
+							<startDate />
+							<endDate>20120717</endDate>
+							<upfrontCost>400</upfrontCost>
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+						<activity>
+							<action>Platinum press release</action>
+							<startDate />
+							<endDate>20120710</endDate>
+							<upfrontCost>400</upfrontCost>
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Manuela Bizzotto</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Product Development</title>
+			<startDate>20120601</startDate>
+			<endDate>20121031</endDate>
+			<mandatory>0</mandatory>
+			<order>4</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Complete development of all StratPad editions</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>All editions complete</summary>
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>SP 1.4 (collaborate) release</action>
+							<startDate />
+							<endDate>20120713</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+						<activity>
+							<action>Free release</action>
+							<startDate />
+							<endDate>20120629</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+						<activity>
+							<action>Cross-platform release</action>
+							<startDate />
+							<endDate>20121031</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+						<activity>
+							<action>StratBoard release</action>
+							<startDate />
+							<endDate>20120622</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+						<activity>
+							<action>Spanish release</action>
+							<startDate />
+							<endDate>20120727</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+						<activity>
+							<action>SP 1.3.1 Release</action>
+							<startDate />
+							<endDate>20120623</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+						<activity>
+							<action>Nonprofit (Free &amp;Paid) release</action>
+							<startDate />
+							<endDate>20120720</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+						<activity>
+							<action>Pro release</action>
+							<startDate />
+							<endDate>20120831</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Platinum release</action>
+							<startDate />
+							<endDate>20120706</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Revenue - StratPad 2012</title>
+			<startDate>20120601</startDate>
+			<endDate>20121231</endDate>
+			<mandatory>0</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment>25</revenueMonthlyAdjustment>
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment>25</cogsMonthlyAdjustment>
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Revenue - StratPad 2013</title>
+			<startDate>20130101</startDate>
+			<endDate>20131231</endDate>
+			<mandatory>0</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment>25</revenueMonthlyAdjustment>
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment>25</cogsMonthlyAdjustment>
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Alex Glassey</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Marketing / Advertising</title>
+			<startDate>20120801</startDate>
+			<endDate>20121231</endDate>
+			<mandatory>0</mandatory>
+			<order>6</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>AG/MB</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Increase sales</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate />
+							<targetValue />
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Marketing campaign</action>
+							<startDate>20120801</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost>10000</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Alex Glassey</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

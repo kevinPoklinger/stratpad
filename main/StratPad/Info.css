@@ -1,0 +1,69 @@
+html, body {
+    margin: 0;
+    padding: 5px;
+    font-family: Helvetica;
+    color: #111;
+    font-size: 1.0em;
+    background-color: #F7F7F7;
+}
+
+a {
+    color: Olive;
+    background: url(external.png) center right no-repeat;
+    padding-right: 13px;
+    text-decoration: none;
+}
+
+div.column1 p {
+    line-height: 1.5em;
+    margin-right: 30px;
+}
+
+p.justified {
+    text-align:justify;
+}
+
+body {
+    margin: 4px;
+}
+
+.heading {
+    font-weight:bold;
+    margin-bottom: 15px;
+}
+
+.separator {
+    margin-top: 30px;
+}
+
+.touch {
+    margin: 10px 10px 15px 10px;
+}
+
+div.column1 {
+    float: left;
+    width: 60%;
+}
+
+div.column2 {
+    float: left;
+    width: 40%;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 18px;
+}
+
+.headingLink {
+    margin-bottom: 15px;
+}
+
+.headingLink a {
+    color: Black;
+    font-weight:bold;
+}
+
+#pleaseRegister {
+    color: #326CAC;
+}

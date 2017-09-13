@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <link rel="stylesheet" href="financials.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+        <script src="tester.js" type="text/javascript"></script>
+    </head>
+    
+    <body>
+    	<div>
+    		<form id="report">
+    			<div style="width: 250px; float: left;">
+	    			<input type="radio" name="reportType" value="Summary">Summary<br/>
+					<input type="radio" name="reportType" value="Details" checked="checked">Details
+    			</div>
+				<div style="width: 250px; float: left;">
+	    			<input type="radio" name="reportName" value="IncomeStatement">Income Statement<br/>
+					<input type="radio" name="reportName" value="CashFlow">Cash Flow<br/>
+					<input type="radio" name="reportName" value="BalanceSheet" checked="checked">Balance Sheet
+    			</div>
+
+                <!-- just for dev -->
+                <div style="width: 250px; float: left;">
+
+                    <a href="#" onclick="csv(); return false;">csv</a>
+                    <a href="#" onclick="html(); return false;">html</a>
+                    <a href="#" onclick="json(); return false;">json</a>
+                </div>
+    		</form>
+		</div>
+
+		<div style="clear: both;"></div>
+
+    	<iframe id="display" src="FinancialDetailsReport.html" width="1000px" height="600px"></iframe>
+    	
+    	<div>
+    	<p>Relevant stratfile snippet:</p>
+    	<textarea rows="20" style="border:none; background: lightgray; width:1000px;">
+<salesTax>
+	<percentRevenuesIsTaxable>70</percentRevenuesIsTaxable>
+	<rate>6</rate>
+	<remittanceFrequency>3</remittanceFrequency>
+	<remittanceMonth>0</remittanceMonth>
+</salesTax>
+		</textarea>
+		</div>
+    </body>
+    
+</html>
+
+
+
+
+
+
+
+

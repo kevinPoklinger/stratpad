@@ -1,0 +1,147 @@
+// just an example response following a post of a file to messages
+{
+   "references":[
+      {
+         "thread_starter_id":192172615,
+         "url":"https://www.yammer.com/api/v1/messages/in_thread/192172615",
+         "type":"thread",
+         "web_url":"https://www.yammer.com/externalstratpaddiscussion#/Threads/show?threadId=192172615",
+         "privacy":"public",
+         "direct_message":false,
+         "stats":{
+            "first_reply_at":null,
+            "latest_reply_at":"2012/07/12 22:11:45 +0000",
+            "shares":0,
+            "first_reply_id":null,
+            "updates":1,
+            "latest_reply_id":192172615
+         },
+         "has_attachments":true,
+         "id":192172615,
+         "topics":[
+
+         ]
+      },
+      {
+         "url":"https://www.yammer.com/api/v1/users/10384976",
+         "name":"alex",
+         "type":"user",
+         "web_url":"https://www.yammer.com/externalstratpaddiscussion/users/alex",
+         "full_name":"Alex Glassey",
+         "state":"active",
+         "stats":{
+            "following":25,
+            "updates":27,
+            "followers":1
+         },
+         "activated_at":"2012/04/12 16:46:00 +0000",
+         "job_title":"",
+         "id":10384976,
+         "mugshot_url":"https://www.yammer.com/mugshot/48x48/12873931"
+      },
+      {
+         "url":"https://www.yammer.com/api/v1/groups/820505",
+         "name":"stratpadtesting",
+         "type":"group",
+         "web_url":"https://www.yammer.com/externalstratpaddiscussion/groups/stratpadtesting",
+         "privacy":"public",
+         "created_at":"2012/07/12 21:11:38 +0000",
+         "full_name":"StratPad Testing",
+         "description":"",
+         "id":820505,
+         "mugshot_url":"https://c64.assets-yammer.com/images/group_profile_small.gif"
+      }
+   ],
+   "meta":{
+      "direct_from_body":false,
+      "feed_desc":"This feed is not known.",
+      "feed_name":"Unknown Feed",
+      "followed_references":[
+         {
+            "type":"uploaded_file",
+            "id":5872758
+         }
+      ],
+      "current_user_id":10384976,
+      "ymodules":[
+
+      ],
+      "show_billing_banner":false,
+      "requested_poll_interval":180
+   },
+   "threaded_extended":{
+
+   },
+   "messages":[
+      {
+         "url":"https://www.yammer.com/api/v1/messages/192172615",
+         "client_url":"http://alexglassey.com/stratpad",
+         "replied_to_id":null,
+         "message_type":"update",
+         "group_id":820505,
+         "web_url":"https://www.yammer.com/externalstratpaddiscussion/messages/192172615",
+         "created_at":"2012/07/12 22:11:45 +0000",
+         "privacy":"public",
+         "liked_by":{
+            "names":[
+
+            ],
+            "count":0
+         },
+         "direct_message":false,
+         "body":{
+            "parsed":"What sort of JSON do we get?",
+            "plain":"What sort of JSON do we get?",
+            "rich":"What sort of JSON do we get?"
+         },
+         "client_type":"StratPad",
+         "attachments":[
+            {
+               "last_uploaded_by_id":10384976,
+               "name":"V-Soft Strategy - StratBoard - Staff size - Jul 12, 2012.pdf",
+               "file":{
+                  "url":"https://www.yammer.com/externalstratpaddiscussion/api/v1/uploaded_files/5872758/download",
+                  "size":31500
+               },
+               "y_id":5872758,
+               "path":"354446/5872758/V-Soft Strategy - StratBoard - Staff size - Jul 12, 2012.pdf",
+               "url":"https://www.yammer.com/externalstratpaddiscussion/api/v1/uploaded_files/5872758",
+               "content_type":"application/pdf; charset=binary",
+               "group_id":820505,
+               "owner_id":10384976,
+               "large_icon_url":"https://c64.assets-yammer.com/images/file_icons/types/pdf_red_79x102_icon.png",
+               "type":"file",
+               "thumbnail_url":"https://www.yammer.com/externalstratpaddiscussion/api/v1/uploaded_files/5872758/version/4440258/thumbnail",
+               "created_at":"2012/07/12 22:11:40 +0000",
+               "download_url":"https://www.yammer.com/externalstratpaddiscussion/api/v1/uploaded_files/5872758/version/4440258/download/V-Soft%20Strategy%20-%20StratBoard%20-%20Staff%20size%20-%20Jul%2012%2C%202012.pdf",
+               "overlay_url":"https://www.yammer.com/externalstratpaddiscussion/api/v1/uploaded_files/5872758/version/4440258/preview/V-Soft%20Strategy%20-%20StratBoard%20-%20Staff%20size%20-%20Jul%2012%2C%202012.pdf",
+               "privacy":"public",
+               "web_url":"https://www.yammer.com/externalstratpaddiscussion/uploaded_files/5872758",
+               "small_icon_url":"https://c64.assets-yammer.com/images/file_icons/types/pdf_red_39x50_icon.png",
+               "streaming_url":null,
+               "description":"",
+               "full_name":"V-Soft Strategy - StratBoard - Staff size - Jul 12, 2012",
+               "last_uploaded_by_type":"user",
+               "owner_type":"user",
+               "official":false,
+               "real_type":"uploaded_file",
+               "uuid":"55bd6124-be11-45a5-a275-3c5b82831f9b",
+               "original_name":"V-Soft Strategy - StratBoard - Staff size - Jul 12, 2012.pdf",
+               "preview_url":"https://www.yammer.com/externalstratpaddiscussion/api/v1/uploaded_files/5872758/version/4440258/preview/V-Soft%20Strategy%20-%20StratBoard%20-%20Staff%20size%20-%20Jul%2012%2C%202012.pdf",
+               "content_class":"Document",
+               "last_uploaded_at":"2012/07/12 22:11:40 +0000",
+               "id":5872758,
+               "size":31500,
+               "transcoded":null
+            }
+         ],
+         "sender_id":10384976,
+         "thread_id":192172615,
+         "chat_client_sequence":null,
+         "system_message":false,
+         "id":192172615,
+         "network_id":354446,
+         "sender_type":"user"
+      }
+   ]
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7CE31461-3A7E-4654-9261-2C077A00D608</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>c1b6003f-ead9-440b-a877-b81b985dee65</key>
+		<string>https://svn.mobilesce.com/stratpad</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/src/xcode/main/StratPad.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>c1b6003f-ead9-440b-a877-b81b985dee65</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>c1b6003f-ead9-440b-a877-b81b985dee65</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c1b6003f-ead9-440b-a877-b81b985dee65</string>
+			<key>IDESourceControlWCCName</key>
+			<string>stratpad</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+.column {
+    width: 40%;
+}
+
+#second-paragraph {
+    margin-top: 94px;
+}
+
+#strategy-pyramid {
+    position: absolute; 
+    top: 125px; 
+    left: 360px;
+    width: 500px;
+}
+
+#strategy-pyramid-highlight {
+    position: absolute; 
+    top: 195px; 
+    left: 0px;
+}
+
+#soul-statement {
+    position: absolute; 
+    top: 200px; 
+    left: 30px;    
+}

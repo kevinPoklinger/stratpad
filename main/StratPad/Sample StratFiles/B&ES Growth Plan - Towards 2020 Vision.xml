@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20120415T21:39:48+0100</dateCreated>
+	<dateLastAccessed>20120502T21:10:23+0100</dateLastAccessed>
+	<dateModified>20120502T21:10:14+0100</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.2.1 (738)</model>
+	<name>B&amp;ES Growth Plan - Towards 2020 Vision</name>
+	<companyName>Building and Engineering Services Association</companyName>
+	<city>London</city>
+	<provinceState />
+	<country />
+	<industry>Construction</industry>
+	<keyProblems>Emerging from the Heating and Ventilating Contractors Association (HVCA), the leading trade association for the heating and ventilating contracting industry established in 1904, the Building &amp; Engineering Services Association (B&amp;ES) is the new name for the former HVCA.
+
+B&amp;ES provides business support to circa 1400 firms who initially were engaged in heating and ventilating design, installation and maintenance, but more recently through recognition of a changing agenda, B&amp;ES membership has included businesses which work across the mechanical, electrical and plumbing professions. These multi services businesses together with facilities management firms present the greatest opportunity for growth of B&amp;ES.
+
+The chief construction adviser has called upon the construction sector to significantly improve its productivity across the whole supply chain, including building engineering services. These improvement require a modern approach to employment working practices. The increased pressure on energy and thermal efficiency in buildings presents the sector with the opportunity to expand its offerings in terms of a holistic approach to building design and retrofit embracing new technologies which are emerging to meet the efficiency demands of buildings. Coupled with this is the emergence of Building Information Modelling (BIM) as a productivity improvement tool which will require new ways of thinking about building design and specification in which the sector will need to be proficient within a relatively short time frame.
+ 
+Failure to adapt quickly to a changing marketplace is itself an aspect of competition which could see another body emerging or an existing organisation occupying that space. </keyProblems>
+	<addressProblems>B&amp;ES offers support for its members, their clients and the industry at large through the following products and services:
+
+Political lobbying to shape government policy on health and safety, training, procurement, regulations and standards on behalf of the membership.
+
+Publication and embedding into client specifications, technical standards compiled by industry experts to establish a level playing field which supports members and their clients.
+
+Professional advice on the legal and contractual obligations of members and their clients.
+
+A rigorous inspection and assessment regime which all members are required to meet and continue to comply with during membership of B&amp;ES
+
+Promotion and promulgation of the excellence provided by the members of the Association.
+
+Specification of standards together with confirmation of the skills and competence of employees to meet the current and future needs of employers in the sector.
+
+A vehicle for businesses operating within the sector to come together to share best practice and define the future direction of the sector.
+
+The ongoing maintenance of nationally negotiated wage agreements that set the standard for employment terms and conditions within the sector.
+
+The provision of a membership driven welfare and benefits provider service.
+
+Training, assessment and registration schemes for individuals and businesses which include; GasSafe, F Gas, Refcom and Refcom Elite, Competence Persons Scheme, SkillCard and apprenticeship programmes.</addressProblems>
+	<customersDescription>B&amp;ES only recruits reputable building engineering services businesses who are able to meet the exacting standards set by clients and which are verified through the Inspection and Assessment (I&amp;A) programme established by B&amp;ES and verified through a third party organisation. Retention of membership of B&amp;ES requires the ability of the member business to satisfy and maintain membership through regular re-inspection against the I&amp;A standard. 
+
+These businesses will typically be medium to large enterprises with a combined Mechanical and Electrical turnover of £FIGURE plus. They will be engaged in at least one discipline which includes;  design, specification, manufacture, installation, maintenance and decommissioning of mechanical and electrical building engineering services systems. They will contract in the construction or refurbishment of large domestic, industrial or commercial projects and may have divisions that span more than one of these areas.</customersDescription>
+	<competitorsDescription>Whilst there are no direct competitor trade associations, there are a number of bodies competing for subscriptions from those within membership of B&amp;ES. The repositioning of HVCA to B&amp;ES was amongst other drivers. Recognition that another competitor to membership of B&amp;ES was a failure to respond to revised employment practices, together with a increased need for the immediacy of information, has also driven the need for change. 
+
+Other trade associations within the building engineering services sector will be watching closely for any predatory action or failure to provide services in the marketplace as an opportunity to compete to occupy the current B&amp;ES space.</competitorsDescription>
+	<businessModelDescription>Revenue is generated from:
+
+- member subscription based on M&amp;E turnover
+- sale of publications
+- sale of welfare benefits
+- sale of training programmes
+- schemes accreditation.
+</businessModelDescription>
+	<expansionOptionsDescription>Expansion opportunities exist in the following areas:
+
+- Membership recruitment from current non member businesses within the footprint of B&amp;ES.
+- Expansion of membership into areas currently not considered relevant or under represented.
+- Increased engagement in non-core services including welfare benefits and training by members.
+- Service provision to non member businesses at a commercial market rate.
+- Sale of publications and technical manuals relevant to occupations within the supply chain of members.
+
+</expansionOptionsDescription>
+	<ultimateAspiration>We visualise B&amp;ES as a model  21st Century trade association that has significant political influence  in the formulation of policy relating to building engineering services, is the respected business support service for members and responds swiftly to change. </ultimateAspiration>
+	<mediumTermStrategicGoal>By 2020 we wish to provide 2000 member companies with a single point contact process for all aspects of the trade association's activities.
+
+We have identified additional market areas and begun to make inroads into membership recruitment. 
+
+Within three years our subsidiary businesses (specifically Welplan, BEST, Piper) will be selling services into an developing market, emerging from recession.
+
+Within twenty four  months we will have embedded the name of B&amp;ES as the successor trade association to HVCA achieving a 65% unprompted recognition within the sector and 50% with other stakeholder organisations, growing that response by 10% per annum to 2020.
+
+</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Raise Profile</title>
+			<startDate>20120421</startDate>
+			<endDate>20200330</endDate>
+			<mandatory>1</mandatory>
+			<order>3</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually>1000</expensesAnnually>
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually>10000</revenueAnnually>
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly>-2500</cogsQuarterly>
+			<cogsAnnually />
+			<costsOneTime>100000</costsOneTime>
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Head of Communications</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Increase Membership</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Membership Statistics</summary>
+							<targetDate>20200331</targetDate>
+							<targetValue>2000 members</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Task Regional Managers</action>
+							<startDate>20120831</startDate>
+							<endDate>20150831</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Define USP Messaging</action>
+							<startDate>20120831</startDate>
+							<endDate>20150331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Monitor Messaging Penetration</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Identify Target Market</action>
+							<startDate>20120430</startDate>
+							<endDate>20150201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increase Client Enquiries</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>6</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Customer Satisfaction Survey</summary>
+							<targetDate>20130331</targetDate>
+							<targetValue>70% Report Satisfied or Above</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Monitor Programme Impact</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Finance Director</responsible>
+						</activity>
+						<activity>
+							<action>Implement Member Promotion Programme</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Develop Membership Promotion Programme</action>
+							<startDate>20130101</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Identify Member's Client Base</action>
+							<startDate>20120831</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Improve Business Knowledge</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff Training Report</summary>
+							<targetDate>20140301</targetDate>
+							<targetValue>100%</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Business Knowledge Training</action>
+							<startDate>20120831</startDate>
+							<endDate>20121102</endDate>
+							<upfrontCost>500</upfrontCost>
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Enhance Communications</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>6</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Customer Satisfaction Survey</summary>
+							<targetDate>20200101</targetDate>
+							<targetValue>85% Report Satisfactory or Above</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Devise Marketing Strategy</action>
+							<startDate>20120430</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Develop Marketing Plan</action>
+							<startDate>20120630</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Implement Marketing Plan</action>
+							<startDate>20120831</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Monitor Marketing Plan</action>
+							<startDate>20120831</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Finance Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Relocate</title>
+			<startDate>20120430</startDate>
+			<endDate>20160630</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually>500001</expensesAnnually>
+			<revenueMonthly />
+			<revenueOneTime>10000000</revenueOneTime>
+			<revenueQuarterly />
+			<revenueAnnually>1</revenueAnnually>
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>3000000</costsOneTime>
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Executive Team</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Avoid Refurbishment Costs</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20160630</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Report Maintenance Costs in Accounts</action>
+							<startDate>20120630</startDate>
+							<endDate>20150630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Finance Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Secure New Premises</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20160630</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Implement Proposals</action>
+							<startDate>20140331</startDate>
+							<endDate>20160331</endDate>
+							<upfrontCost>500000</upfrontCost>
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Instigate Relocation Committee</action>
+							<startDate>20120430</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost>500</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Formulate Relocation Proposals</action>
+							<startDate>20120630</startDate>
+							<endDate>20130201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Present Proposals To Council</action>
+							<startDate>20130417</startDate>
+							<endDate>20130418</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Consult Staff</action>
+							<startDate>20130101</startDate>
+							<endDate>20130201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Consult Staff</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff One 2 One</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Share Relocation Proposals</action>
+							<startDate>20130101</startDate>
+							<endDate>20130201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Present to Relocation Committee</action>
+							<startDate>20130301</startDate>
+							<endDate>20130314</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Collate Opinion</action>
+							<startDate>20130101</startDate>
+							<endDate>20130201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Keep Staff Appraised of Progress</action>
+							<startDate>20130101</startDate>
+							<endDate>20160630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Manage Membership</title>
+			<startDate>20120417</startDate>
+			<endDate>20200330</endDate>
+			<mandatory>1</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually>1000</expensesAnnually>
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually>12000</revenueAnnually>
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>5000</costsOneTime>
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Head Of Operations</responsible>
+			<objectives>
+				<objective>
+					<order>1</order>
+					<summary>Utilise CRM</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff Training Report</summary>
+							<targetDate>20130331</targetDate>
+							<targetValue>100%</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>CRM Training</action>
+							<startDate>20120421</startDate>
+							<endDate>20121201</endDate>
+							<upfrontCost>1000</upfrontCost>
+							<ongoingCost>250</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Head Of Operations</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Improve Contact</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Membership Report</summary>
+							<targetDate>20170331</targetDate>
+							<targetValue>33% Members Visited Per Annum</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Monitor Engagement Returns</action>
+							<startDate>20120430</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Produce Membership Engagement Plan</action>
+							<startDate>20120430</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Allocate Key Account Managers</action>
+							<startDate>20120430</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Provide CRM</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff One 2 One</summary>
+							<targetDate>20140301</targetDate>
+							<targetValue>75% Report Satisfied or Above</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Evaluate Current CRM Functionality</action>
+							<startDate>20120517</startDate>
+							<endDate>20120605</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Report on CRM Utilisation by Staff</action>
+							<startDate>20120421</startDate>
+							<endDate>20121201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Head Of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Make Recommendations</action>
+							<startDate>20130101</startDate>
+							<endDate>20130331</endDate>
+							<upfrontCost>5000</upfrontCost>
+							<ongoingCost>5000</ongoingCost>
+							<order>2</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head Of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Implement Recommendations</action>
+							<startDate>20130531</startDate>
+							<endDate>20130831</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Monitor Ongoing Use</action>
+							<startDate>20130930</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Secure Membership Income</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Finance Report</summary>
+							<targetDate>20200330</targetDate>
+							<targetValue>£5 000 000</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Define Recruitment Targets</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Monitor Targets</action>
+							<startDate>20120430</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Revise Targets</action>
+							<startDate>20120430</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Develop Service Knowledge</action>
+							<startDate>20120430</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Improve Customer Service</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff Training Report</summary>
+							<targetDate>20130331</targetDate>
+							<targetValue>100%</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Customer Service Training</action>
+							<startDate>20120421</startDate>
+							<endDate>20121201</endDate>
+							<upfrontCost>2000</upfrontCost>
+							<ongoingCost>500</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Monitor Membership Feedback</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Conduct Member Survey</action>
+							<startDate>20130101</startDate>
+							<endDate>20200102</endDate>
+							<upfrontCost>5000</upfrontCost>
+							<ongoingCost>5000</ongoingCost>
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Recommend Improvements Based on Feedback</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost>2000</upfrontCost>
+							<ongoingCost>2000</ongoingCost>
+							<order>3</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Increase B&amp;ES Offering</title>
+			<startDate>20120423</startDate>
+			<endDate>20200330</endDate>
+			<mandatory>0</mandatory>
+			<order>4</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Deputy Chief Executive</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Increased Income</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Finance Report</summary>
+							<targetDate>20150331</targetDate>
+							<targetValue>£500 000</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Monitor New Services ROI and Perceived Value</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Finance Director</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increase Range Of Services</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>6</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Schedule of Services</summary>
+							<targetDate>20200331</targetDate>
+							<targetValue>1 per annum</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Devise Service Development Proposals</action>
+							<startDate>20121201</startDate>
+							<endDate>20130201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Incorporate Business Development Team Proposals into Business Plan</action>
+							<startDate>20141201</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Task Business Development Team</action>
+							<startDate>20140630</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Select Proposals for Inclusion in Business Plan</action>
+							<startDate>20130201</startDate>
+							<endDate>20130331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Create Business Development Team</action>
+							<startDate>20140331</startDate>
+							<endDate>20140531</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Business Proposal Development</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20131231</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Proposal Writing Training</action>
+							<startDate>20130430</startDate>
+							<endDate>20130831</endDate>
+							<upfrontCost>2500</upfrontCost>
+							<ongoingCost>500</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Negotiation Training</action>
+							<startDate>20140430</startDate>
+							<endDate>20140831</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Improve Business Processes</title>
+			<startDate>20120430</startDate>
+			<endDate>20200330</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually>2000</expensesAnnually>
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually>10000</revenueAnnually>
+			<cogsOneTime />
+			<cogsMonthly>1000</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually>60000</costsAnnually>
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Chief Executive and Executive Team</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Speed Up Decision Making</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff One 2 One</summary>
+							<targetDate>20140630</targetDate>
+							<targetValue>60% Report Improvement</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Proposal Writing Training</action>
+							<startDate>20130331</startDate>
+							<endDate>20131202</endDate>
+							<upfrontCost>1500</upfrontCost>
+							<ongoingCost>250</ongoingCost>
+							<order>2</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Decision Management Training</action>
+							<startDate>20130331</startDate>
+							<endDate>20130630</endDate>
+							<upfrontCost>1500</upfrontCost>
+							<ongoingCost>250</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Risk Management Training</action>
+							<startDate>20130629</startDate>
+							<endDate>20131201</endDate>
+							<upfrontCost>1500</upfrontCost>
+							<ongoingCost>250</ongoingCost>
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Encourage Team Problem Solving</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff Training Report</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>100 % </targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Revise Reporting Lines</action>
+							<startDate>20120430</startDate>
+							<endDate>20121202</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Suggest Supplementary Action</action>
+							<startDate>20130301</startDate>
+							<endDate>20130331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Problem Solving Training</action>
+							<startDate>20120630</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost>2500</upfrontCost>
+							<ongoingCost>500</ongoingCost>
+							<order>3</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Monitor Improvements</action>
+							<startDate>20121201</startDate>
+							<endDate>20130331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Efficent Customer Service</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>6</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Customer Satisfaction Survey</summary>
+							<targetDate>20200331</targetDate>
+							<targetValue>90% Report Satisfied or Above </targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Customer Relations Training</action>
+							<startDate>20130331</startDate>
+							<endDate>20130630</endDate>
+							<upfrontCost>1500</upfrontCost>
+							<ongoingCost>250</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Monitor Progress</action>
+							<startDate>20120630</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Build Team Esteem</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Sickness Absenteeisum</summary>
+							<targetDate>20150101</targetDate>
+							<targetValue>5 d/p/a</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Increase Internal Communications</action>
+							<startDate>20120430</startDate>
+							<endDate>20130430</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Team Event</action>
+							<startDate>20130101</startDate>
+							<endDate>20200101</endDate>
+							<upfrontCost>15000</upfrontCost>
+							<ongoingCost>15000</ongoingCost>
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Task and Finish Groups</action>
+							<startDate>20120430</startDate>
+							<endDate>20130331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Improve Line Management</action>
+							<startDate>20120430</startDate>
+							<endDate>20130331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Revise Reporting Structure</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20121231</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Consult Staff</action>
+							<startDate>20120630</startDate>
+							<endDate>20120831</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Propose Change</action>
+							<startDate>20120929</startDate>
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Implement Change</action>
+							<startDate>20120930</startDate>
+							<endDate>20121231</endDate>
+							<upfrontCost>50000</upfrontCost>
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Monitor Change</action>
+							<startDate>20130101</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Improved Productivity </summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff Appraisals</summary>
+							<targetDate>20201231</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Time Management Training</action>
+							<startDate>20130629</startDate>
+							<endDate>20131201</endDate>
+							<upfrontCost>1500</upfrontCost>
+							<ongoingCost>250</ongoingCost>
+							<order>6</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Staff Appraisals</action>
+							<startDate>20120430</startDate>
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>One 2 One Interviews</action>
+							<startDate>20120430</startDate>
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Skills Needs Analysis</action>
+							<startDate>20120430</startDate>
+							<endDate>20121101</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Revised HR Policies</action>
+							<startDate>20120531</startDate>
+							<endDate>20120901</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head Of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Targets Linked to Business Plan</action>
+							<startDate>20120430</startDate>
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>Regular Team Briefings</action>
+							<startDate>20120430</startDate>
+							<endDate />
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Deputy Chief Executive</responsible>
+						</activity>
+						<activity>
+							<action>HR Management Training</action>
+							<startDate>20130531</startDate>
+							<endDate>20131101</endDate>
+							<upfrontCost>1500</upfrontCost>
+							<ongoingCost>250</ongoingCost>
+							<order>7</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+						<activity>
+							<action>Project Management Training</action>
+							<startDate>20130430</startDate>
+							<endDate>20130831</endDate>
+							<upfrontCost>1500</upfrontCost>
+							<ongoingCost>250</ongoingCost>
+							<order>8</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Head of Operations</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>Review Governance</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary />
+							<targetDate>20130301</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Formulate Proposals</action>
+							<startDate>20120831</startDate>
+							<endDate>20130301</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Chief Executive and President</responsible>
+						</activity>
+						<activity>
+							<action>Present Proposals To Council</action>
+							<startDate>20130301</startDate>
+							<endDate>20130331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Chief Executive and President</responsible>
+						</activity>
+						<activity>
+							<action>Gain Council Approval</action>
+							<startDate>20120531</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Chief Executive and President</responsible>
+						</activity>
+						<activity>
+							<action>Present To AGM For Adoption</action>
+							<startDate>20140531</startDate>
+							<endDate>20140601</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Chief Executive and President</responsible>
+						</activity>
+						<activity>
+							<action>Create Governance Review Panel</action>
+							<startDate>20120630</startDate>
+							<endDate>20120831</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>6</ongoingFrequency>
+							<responsible>Chief Executive and President</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Engage Staff</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff One 2 One</summary>
+							<targetDate>20120430</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Review Business Plan Targets</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Resource Planning</action>
+							<startDate>20130101</startDate>
+							<endDate>20130201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Finance Director</responsible>
+						</activity>
+						<activity>
+							<action>Risk Management</action>
+							<startDate>20130101</startDate>
+							<endDate>20130201</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Project Evaluation</action>
+							<startDate>20121101</startDate>
+							<endDate>20130101</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+						<activity>
+							<action>Project Review</action>
+							<startDate>20130331</startDate>
+							<endDate>20200330</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>4</ongoingFrequency>
+							<responsible>Executive Team</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

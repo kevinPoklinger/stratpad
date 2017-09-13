@@ -1,0 +1,40 @@
+//
+// Prefix header for all source files of the 'StratPad' target in the 'StratPad' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+    #import "LocalizedManager.h"
+
+    #define degreesToRadians(x) (M_PI * (x) / 180.0)
+    #define radiansToDegrees(x) (180.0 * (x) / M_PI)
+
+    // keep this hack centralized in case we need to change it; there is a better option in ios5
+    #define disableScrolling(webView) [[[webView subviews] lastObject] setScrollEnabled:NO]
+
+    #import "MBLog.h"
+    #define MBLog(level, fmt, ...) if (level>=MB_LOG_LEVEL) NSLog(fmt, ##__VA_ARGS__);
+    #define TLog(fmt, ...) MBLog(0, (@"TRACE %s [Line %d] <%p> " fmt), __func__, __LINE__, self, ##__VA_ARGS__);
+    #define DLog(fmt, ...) MBLog(1, (@"DEBUG %s [Line %d] <%p> " fmt), __func__, __LINE__, self, ##__VA_ARGS__);
+    #define ILog(fmt, ...) MBLog(2, (@"INFO %s [Line %d] " fmt), __FUNCTION__, __LINE__, ##__VA_ARGS__);
+    #define WLog(fmt, ...) MBLog(3, (@"WARNING %s [Line %d] " fmt), __FUNCTION__, __LINE__, ##__VA_ARGS__);
+    #define ELog(fmt, ...) MBLog(4, (@"ERROR %s [Line %d] " fmt), __FUNCTION__, __LINE__, ##__VA_ARGS__);
+
+    CG_INLINE CGPoint
+    CGPointOffset(CGPoint p1, CGFloat dx, CGFloat dy)
+    {
+        return CGPointMake(p1.x + dx, p1.y + dy);
+    }
+
+    #define LocalizedString(str, comment) [[LocalizedManager sharedManager] localizedStringForKey:str]
+#endif

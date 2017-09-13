@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111105T13:39:38-0700</dateCreated>
+	<dateLastAccessed>20111117T11:51:20-0800</dateLastAccessed>
+	<dateModified>20111116T11:50:45-0800</dateModified>
+    <model>StratPad 1.1 (617)</model>
+    <permissions>0600</permissions>
+	<name>2012/2013 Expansion Strategy</name>
+	<companyName>Beta Metal Designs</companyName>
+	<city>Syracuse</city>
+	<provinceState>NY</provinceState>
+	<country>USA</country>
+	<industry>industrial design</industry>
+	<keyProblems>Prior to starting our company in 2005, nobody in Syracuse provided either innovative product design and prototyping or high-quality, low-volume manufacturing. Syracuse companies needing these services would either settle for less-skilled local talent or hire companies from larger, but much further away, metropolitan centers such as Buffalo, Toronto, Pittsburgh or Philadelphia. In many cases local companies were unable to provide the necessary quality; costs for more remote companies were higher than desired because of additional transportation costs. Syracuse needed a local company that could provide affordable, high quality design along with low-volume manufacturing.</keyProblems>
+	<addressProblems>We offer three integrated services:
+
+• We help our industrial customers design products to solve a wide range of engineering problems;
+• We create high quality physical prototypes in a variety of metals; and
+• We perform low volume manufacturing (i.e.. less than 500 pieces).
+
+Our design team is staffed by engineers who are experienced innovators. Our design process benefits by being local as we're able to spend more up-front time with our customers. Being local also reduces transportation costs and time: our turnaround time for product delivery is faster and less expensive than other alternatives.</addressProblems>
+	<customersDescription>We focus on engineering firms, manufacturers and machine shops in upstate New York who have neither the equipment nor the skills that we have. All of these firms use our services to help them with their own customers. They therefore appreciate our timeliness, high-quality, flexibility and reasonable pricing.</customersDescription>
+	<competitorsDescription>Our competitors are either smaller upstate firms or larger firms from bigger cities. The smaller firms have less equipment and, typically, less experience than us. We regularly beat these firms except when bidding on smaller projects that require a single machine.
+
+The larger firms have the same skills and equipment as we do. However, they typically focus on larger jobs. And the distance means that they have a built-in cost and responsiveness disadvantage.</competitorsDescription>
+	<businessModelDescription>We generate revenue three ways:
+
+1. We charge an hourly staff rate for design and prototyping services;
+2. We charge an hourly equipment rate for prototyping services; and
+3. We charge a per-piece or per-job rate for manufacturing services. The job- or piece-rate incorporates both staff and equipment costs.</businessModelDescription>
+	<expansionOptionsDescription>There may be opportunities to more fully partner with some of our customers who wish to fully out-source their low- to medium-volume manufacturing jobs (i.e. 500 - 5,000 pieces). Staffed properly, this could better utilize our equipment during the 128 hours per week in which they're currently not used. In addition, this work would provide some revenue stability and smoothing and allow us to consider adding additional equipment.</expansionOptionsDescription>
+	<ultimateAspiration>We aspire to be upstate New York's best-regarded engineering prototyping firm by offering the most innovative design and highest quality production services.</ultimateAspiration>
+	<mediumTermStrategicGoal>By December 31, 2013, we will be the region's most innovative design firm; we will offer the widest range of equipment to the area's engineering firms and manufacturers; our equipment and staff will be fully utilized.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Expand sales and marketing activities</title>
+			<startDate>20120701T00:00:00+0000</startDate>
+			<endDate>20131231T00:00:00+0000</endDate>
+			<expensesMonthly />
+			<mandatory>0</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly>18000</cogsMonthly>
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<costsMonthly>2500</costsMonthly>
+			<cogsQuarterly />
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<costsOneTime>15000</costsOneTime>
+			<cogsAnnually />
+			<order>2</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly>45000</revenueMonthly>
+			<responsible>Jan Wallace</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Expanded sales team</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Sales team expanded</summary>
+							<targetDate>20120930T00:00:00+0000</targetDate>
+							<targetValue>1</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Better and more frequent customer contact</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of annual outbound contacts per customer</summary>
+							<targetDate>20130630T00:00:00+0000</targetDate>
+							<targetValue>6</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Trained sales staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Sales staff fully trained on new tools and equipment</summary>
+							<targetDate>20121130T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increased revenue</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly revenue</summary>
+							<targetDate>20130630T00:00:00+0000</targetDate>
+							<targetValue>150000</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Acquire new CRM and website</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New sales tools acquired</summary>
+							<targetDate>20120930T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Expand shop and add machines</title>
+			<startDate>20120101T00:00:00+0000</startDate>
+			<endDate>20120630T00:00:00+0000</endDate>
+			<expensesMonthly />
+			<mandatory>0</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly>-4000</cogsMonthly>
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<costsMonthly>5000</costsMonthly>
+			<cogsQuarterly />
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<costsOneTime>25000</costsOneTime>
+			<cogsAnnually />
+			<order>0</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly>-10000</revenueMonthly>
+			<responsible>Kim Stamboukis</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Faster turnaround</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Days to start job</summary>
+							<targetDate>20120630T00:00:00+0000</targetDate>
+							<targetValue>1</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>More types of machines</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of new machines</summary>
+							<targetDate>20120630T00:00:00+0000</targetDate>
+							<targetValue>3</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Fully trained staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff are fully trained</summary>
+							<targetDate>20120630T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Increase service offerings</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Average number of jobs per customer</summary>
+							<targetDate>20121231T00:00:00+0000</targetDate>
+							<targetValue>3.7</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>More revenue opportunities</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly machine hours billed</summary>
+							<targetDate>20121231T00:00:00+0000</targetDate>
+							<targetValue>600</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Expand shop</action>
+							<startDate>20120101T00:00:00+0000</startDate>
+							<endDate>20120331T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Pickford</responsible>
+						</activity>
+						<activity>
+							<action>Create and issue RFP for equipment</action>
+							<startDate>20120301T00:00:00+0000</startDate>
+							<endDate>20120331T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>John Smythe</responsible>
+						</activity>
+						<activity>
+							<action>Acquire new equipment</action>
+							<startDate>20120401T00:00:00+0000</startDate>
+							<endDate>20120630T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>John Smythe</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Implement new scheduling and time tracking</title>
+			<startDate>20120401T00:00:00+0000</startDate>
+			<endDate>20131231T00:00:00+0000</endDate>
+			<expensesMonthly />
+			<mandatory>1</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly />
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<costsMonthly>2000</costsMonthly>
+			<cogsQuarterly />
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime>15000</costsOneTime>
+			<cogsAnnually />
+			<order>1</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly />
+			<responsible>Sandy Martin</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Increased billable hours</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of hours billed per month</summary>
+							<targetDate>20121231T00:00:00+0000</targetDate>
+							<targetValue>1200</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Faster job completion</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Average number of days to complete job</summary>
+							<targetDate>20120331T00:00:00+0000</targetDate>
+							<targetValue>3.5</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Acquire new software &amp; hardware</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Software and hardware installed</summary>
+							<targetDate>20120831T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Fully trained staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff recording 7.5 hours every day.</summary>
+							<targetDate>20120930T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Develop new daily/weekly procedures</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New procedures developed</summary>
+							<targetDate>20120915T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

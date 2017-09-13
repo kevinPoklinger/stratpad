@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20110915T20:48:46-0600</dateCreated>
+	<dateLastAccessed>20120508T13:39:06-0600</dateLastAccessed>
+	<dateModified>20120508T13:33:37-0600</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.3 (747)</model>
+	<name>V-Soft Strategy</name>
+	<companyName>Acme Software Technologies Ltd.</companyName>
+	<city>Victoria</city>
+	<provinceState>BC</provinceState>
+	<country>Canada</country>
+	<industry>Software</industry>
+	<keyProblems>The Company operates in the global software publishing industry and, more specifically, in the business intelligence software segment.  This segment had revenues of US$36.5 billion in 2009 and is on track to reach $54.9 billion in 2013.  There is no end in sight:  corporations with sales above $10 million require these products to remain competitive.
+
+Business intelligence software provides insights into a variety of areas from manufacturing and operations to sales and marketing.  Increasingly, they provide integrated perspectives and do it in real-time.  Further, more sophisticated offerings gather and share information from across the supply chain.
+
+The best offerings marry massive data storage capacity with sophisticated analysis algorithms.  To date, these products are complex, require significant effort to configure and maintain, and are very expensive.  Demand is high, though, as they provide senior executives with critical decision support guidance.</keyProblems>
+	<addressProblems>The Company, anticipating these trends, filed a patent for 'longitudinal product deployment data gathering and management'.  It will now capitalize on this patent by creating a general purpose, SaaS-based software product, called V-Soft, for large, multi-national corporations.  Corporations will embed V-Soft into their current line of business software and will almost immediately benefit from its industry-leading insights.
+
+V-Soft will eliminate a significant development cost for these companies and considerably reduce their time to develop and deploy their own, comparable software.  This is a compelling combination which is quietly reinforced by our patent hurdle.</addressProblems>
+	<customersDescription>Our target customers are large (sales in excess of US$100 million), multi-national, and need to make real-time decisions based upon large volumes of data.  Companies in the financial, insurance and manufacturing sector are our primary market;  secondary markets include transport/logistics and airlines.  They will be attracted by V-Soft's ability to provide higher quality analysis at about one fifth the cost of the best competitive products.</customersDescription>
+	<competitorsDescription>Directly competing products are available from IBM, Oracle, SAP AG, and Microsoft.  While sophisticated, they are expensive and require significant effort to configure and install.  V-Soft, by comparison, uses it's patented technologies to halve the installation time, provide better decision insights, while costing 80% less than the best competitive offerings.</competitorsDescription>
+	<businessModelDescription>The Company will generate revenue three ways:
+- from initial license fees directly from customers;
+- from on-going maintenance fees directly from customers; and
+- from royalties paid by other software authors who wish to integrate our patented technology with their own offering.</businessModelDescription>
+	<expansionOptionsDescription>Although we will stay tightly focused on our core markets over the next 24 months, we are aware that V-Soft has broad appeal in several other markets.  We will deepen our understanding of these markets and evaluate their potential as our other markets mature.</expansionOptionsDescription>
+	<ultimateAspiration>We aspire to become the de facto global standard for enterprise-level business intelligence software.</ultimateAspiration>
+	<mediumTermStrategicGoal>In the medium-term (by December 31, 2013), we will create the first version of V-Soft and sell it to 15 financial, insurance and manufacturing firms and 5 transport/logistic and airline firms.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Create V-Soft</title>
+			<startDate>20120101</startDate>
+			<endDate>20120930</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly>65000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Mary Watlin</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>New product available</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Product available</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Test and polish</action>
+							<startDate>20120801</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Watlin</responsible>
+						</activity>
+						<activity>
+							<action>Develop product</action>
+							<startDate>20120216</startDate>
+							<endDate>20120731</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Watlin</responsible>
+						</activity>
+						<activity>
+							<action>Startup and product design</action>
+							<startDate>20120101</startDate>
+							<endDate>20120215</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Watlin</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Assemble development team</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff size</summary>
+							<targetDate>20120215</targetDate>
+							<targetValue>5</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Develop markets</title>
+			<startDate>20120701</startDate>
+			<endDate>20141231</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>180000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>50000</costsOneTime>
+			<costsMonthly>20000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Kelly Shideler</responsible>
+			<objectives>
+				<objective>
+					<order>4</order>
+					<summary>Decrease wholesale costs</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Cost of goods sold %</summary>
+							<targetDate>20121215</targetDate>
+							<targetValue>25</targetValue>
+							<successIndicator>1</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20110101</date>
+									<value>48.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110201</date>
+									<value>50.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110301</date>
+									<value>47.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110401</date>
+									<value>44.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110501</date>
+									<value>45.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110601</date>
+									<value>38.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110701</date>
+									<value>46.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110801</date>
+									<value>40.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110901</date>
+									<value>38.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111001</date>
+									<value>39.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111101</date>
+									<value>36.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111201</date>
+									<value>37.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120101</date>
+									<value>40.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120201</date>
+									<value>35.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120301</date>
+									<value>33.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120401</date>
+									<value>32.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120501</date>
+									<value>31.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120601</date>
+									<value>30.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120701</date>
+									<value>28.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120801</date>
+									<value>27.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120901</date>
+									<value>25.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121001</date>
+									<value>24.8</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>The Rise and Fall of the Cost of Goods</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend />
+									<colorScheme>7</colorScheme>
+									<showTarget>1</showTarget>
+									<order>4</order>
+									<uuid>69925F1B-EB6E-4F71-8B0A-10A23AE94B1A</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Increase customer satisfaction</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Customer surveys average</summary>
+							<targetDate>20121215</targetDate>
+							<targetValue>9.5</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20110601</date>
+									<value>7.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110701</date>
+									<value>7.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110801</date>
+									<value>7.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110901</date>
+									<value>7.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111001</date>
+									<value>7.5</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111101</date>
+									<value>7.7</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111201</date>
+									<value>7.9</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120101</date>
+									<value>7.8</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120201</date>
+									<value>8.1</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120301</date>
+									<value>8.2</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120401</date>
+									<value>8.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120501</date>
+									<value>8.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120601</date>
+									<value>8.3</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120701</date>
+									<value>8.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120801</date>
+									<value>8.6</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120901</date>
+									<value>8.5</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121001</date>
+									<value>8.7</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Customer Survey Results</title>
+									<zLayer>0</zLayer>
+									<chartType>1</chartType>
+									<showTrend />
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order>3</order>
+									<uuid>D8EE5339-C558-453B-8B97-76BDE7B70E29</uuid>
+									<overlay>7553BD7B-34F5-47F5-BD80-A3B889963C2A</overlay>
+								</chart>
+							</charts>
+						</metric>
+						<metric>
+							<summary>Customer surveys completed</summary>
+							<targetDate>20121201</targetDate>
+							<targetValue>100</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>3</order>
+					<summary>Gross Revenue</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Revenue</summary>
+							<targetDate>20120601</targetDate>
+							<targetValue>$3000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20110123</date>
+									<value>1000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110223</date>
+									<value>900</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110323</date>
+									<value>1100</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110423</date>
+									<value>1400</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110523</date>
+									<value>340</value>
+									<comment>Off-season</comment>
+								</measurement>
+								<measurement>
+									<date>20110623</date>
+									<value>1000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110723</date>
+									<value>1000</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110823</date>
+									<value>1400</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110923</date>
+									<value>1600</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111023</date>
+									<value>2500</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111223</date>
+									<value>3000</value>
+									<comment>Reached revenue target</comment>
+								</measurement>
+								<measurement>
+									<date>20120124</date>
+									<value>2800</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120225</date>
+									<value>3100</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120317</date>
+									<value>3200</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120417</date>
+									<value>3300</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value />
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120516</date>
+									<value>3500</value>
+									<comment>Hello!!</comment>
+								</measurement>
+								<measurement>
+									<date>20120517</date>
+									<value>2800</value>
+									<comment>Launched website</comment>
+								</measurement>
+								<measurement>
+									<date>20120522</date>
+									<value />
+									<comment>Something else</comment>
+								</measurement>
+								<measurement>
+									<date>20120717</date>
+									<value>4000</value>
+									<comment>A really big one which should demonstrate how we handle long comments near the bottom of the fancy charts.</comment>
+								</measurement>
+								<measurement>
+									<date>20120817</date>
+									<value>3800</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120917</date>
+									<value>4100</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121017</date>
+									<value>4200</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121130</date>
+									<value>4500</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121227</date>
+									<value>4300</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20130119</date>
+									<value>4600</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Revenue Chart</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend />
+									<colorScheme>2</colorScheme>
+									<showTarget>1</showTarget>
+									<order>1</order>
+									<uuid>5F422F34-707C-4CDF-9775-D93C5103DFD4</uuid>
+									<overlay>0FCC56A9-C2EA-46CD-9210-28CAEBDF501E</overlay>
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>0</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>0FCC56A9-C2EA-46CD-9210-28CAEBDF501E</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Develop primary markets</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>First customer</summary>
+							<targetDate>20120901</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Sales/marketing/PR</action>
+							<startDate>20121001</startDate>
+							<endDate>20141231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Kelly Shideler</responsible>
+						</activity>
+						<activity>
+							<action>Pre-marketing</action>
+							<startDate>20120701</startDate>
+							<endDate>20120930</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Kelly Shideler</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Positive cashflow</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Achieve positive cashflow</summary>
+							<targetDate>20120831</targetDate>
+							<targetValue>1000</targetValue>
+							<successIndicator />
+							<measurements>
+								<measurement>
+									<date>20120229</date>
+									<value>48</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120330</date>
+									<value>74</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>24</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Achieve positive cashflow Graph</title>
+									<zLayer>0</zLayer>
+									<chartType>1</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>1</showTarget>
+									<order>5</order>
+									<uuid>59A4DFE1-30D0-4C34-9261-C33E1648F157</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>2</order>
+					<summary>Evaluate secondary markets</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics />
+					<activities>
+						<activity>
+							<action>Sales/marketing/PR</action>
+							<startDate>20130701</startDate>
+							<endDate>20131231</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Kelly Shideler</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increase customer base</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of customers</summary>
+							<targetDate>20121215</targetDate>
+							<targetValue>1000</targetValue>
+							<successIndicator>0</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20110101</date>
+									<value>321</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110201</date>
+									<value>325</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110301</date>
+									<value>328</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110401</date>
+									<value>345</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110501</date>
+									<value>380</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110601</date>
+									<value>430</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110701</date>
+									<value>480</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110801</date>
+									<value>602</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20110901</date>
+									<value>640</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111001</date>
+									<value>660</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111101</date>
+									<value>672</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20111201</date>
+									<value>730</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120101</date>
+									<value>780</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120201</date>
+									<value>830</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120301</date>
+									<value>900</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120401</date>
+									<value>950</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120501</date>
+									<value>987</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120601</date>
+									<value>1003</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120701</date>
+									<value>1025</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120801</date>
+									<value>1042</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120901</date>
+									<value>1067</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20121001</date>
+									<value>1086</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Customer Chart</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend />
+									<colorScheme>1</colorScheme>
+									<showTarget>1</showTarget>
+									<order>2</order>
+									<uuid>1F6D8976-43F7-4256-B91B-D2473676B4FC</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>2</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>0</colorScheme>
+									<showTarget>0</showTarget>
+									<order />
+									<uuid>7553BD7B-34F5-47F5-BD80-A3B889963C2A</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

@@ -1,0 +1,857 @@
+/* 
+  Localizable.strings
+  StratPad
+
+  Created by Eric on 11-07-25.
+  Copyright 2011 Glassey Strategy. All rights reserved.
+ 
+  NB.   \n is a line feed (ie a new line)
+        %@ is a placeholder - it will be replaced with some dynamic text, usually entered by the user
+        // or /* denotes a comment, useful for the translator, not used by the program
+        There are 4 sections in the sidebar, differentiated by colour. Within each section are chapters. 
+            Each chapter has an id that can be seen in the sidebar button. 
+            The second section chapters are usualy referred to as F3, F4, etc, though they are identified as 3, 4, etc.
+        Multiline translations can be made by appending a \ to the line (eg. SHARE_STRATFILE_BODY)
+ 
+*/
+
+/* Info page */
+MENU_INFO_TITLE="About %@";
+version.string="Version %@. Build %@. %@";
+about.string="Version %@\nCopyright ©%i Glassey Technologies Inc.\nAll rights reserved.";
+
+/* Startup screen - just after splash screen */
+BTN_START_TEXT="Tap to get started with StratPad.™";
+BTN_START_SUBTEXT="The most powerful management tool\never designed for a mobile device.";
+SPLASH_COPY="Trademarks and Copyright © 2011-%@ Glassey Technologies Inc. All rights reserved.";
+
+/* Page names */
+WELCOME_TO_STRATPAD="Start Here";
+ON_STRATEGY="On Strategy";
+ON_STRATPAD="On StratPad";
+TOOLKIT="Toolkit";
+ABOUT_YOUR_STRATEGY="StratFile";
+STRATFILE_BASICS="Discussion";
+STRATEGY_STATEMENT="Strategy\nStatement";
+BRAINSTORM_THEMES="Themes";
+THEME_DETAIL="Theme Detail";
+DEFINE_OBJECTIVES="Objectives";
+ACTIVITY="Activity";
+FINANCE="Financials";
+STRAT_FINANCIAL_ANALYSIS_MONTH="Strategy\n$/Month";
+STRAT_FINANCIAL_ANALYSIS_THEME="Strategy\n$/Theme";
+THEME_ANALYSIS_MONTH="Theme\n$/Month";
+GANTT="Gantt";
+PROJECT_PLAN="Project Plan";
+AGENDAS="Agendas";
+BUSINESS_PLAN_SUMMARY="Biz Plan";
+STRATBOARD="StratBoard";
+REPORT_CARD="StratCard";
+FINANCIAL_STATEMENT_DETAIL="Detailed Financials";
+FINANCIAL_STATEMENT_SUMMARY="Summary Financials";
+
+/* used when creating the single editable empty StratFile for Plus */
+EMPTY_STRATFILE_TITLE="My StratFile";
+EMPTY_STRATFILE_COMPANY="My Company";
+
+
+/* window title shown at the top of every screen, substituted with user-entered stratfile name */
+STRATFILE_TITLE_FORMAT="StratPad: %@";
+
+
+/* StratFiles menu */
+// name of StratFiles button in top left corner
+MY_STRATFILES="StratFiles";
+// used when creating a new stratfile from the StratFiles menu
+UNNAMED_STRATFILE_TITLE="Untitled StratFile";
+UNNAMED_COMPANY="My Company";
+
+
+/* Default names for unnamed themes, objectives, activities and metrics, F4-F7 */
+UNNAMED_THEME="Untitled Theme";
+UNNAMED_OBJECTIVE="Untitled Objective";
+UNNAMED_ACTIVITY="Untitled Activity";
+UNNAMED_METRIC="Untitled Metric";
+
+
+/* Placeholder text when there is no user-entered text in F2 */
+TEXTVIEW_PLACEHOLDER="Write your answer here...";
+
+
+/* F4 details page - text for 3 different options */
+MANDATORY="Mandatory";
+ENHANCE_UNIQUENESS="Enhance uniqueness";
+CREATE_CUSTOMER_VALUE="Create/enhance customer value";
+
+
+/* Used in F4 when there are no themes - text for row button to add a new theme */
+ADD_NEW_THEME="Add New Theme";
+
+
+/* F5 calculation detail page - window title */
+CALCULATIONS_TITLE="Adjust Percentages - %@";
+
+
+/* used in F6 when an objective row has multiple metrics */
+MULTIPLE_METRICS="Multiple Metrics";
+
+
+/* Generic button text or labels used throughout the program */
+MANAGE="Manage";
+DONE="Done";
+YES="Yes";
+NO="No";
+NA="N/A";
+SWITCH_YES="Yes";
+SWITCH_NO="No";
+OK="OK";
+CANCEL="Cancel";
+
+
+/* Help video */
+HelpVideoButtonText="Help ▸";
+HelpVideoOffline="You must have Internet access to watch this Help video.";
+
+
+/* settings menu */
+MENU_SETTINGS_TITLE="Settings";
+FINANCIAL_SETTINGS="Financial";
+REVENUE_CALCULATION="Revenue, COGS";
+CURRENCY="Currency";
+SWITCH_REVENUE_OPTIMISTIC="Optimistic";
+SWITCH_REVENUE_PESSIMISTIC="Pessimistic";
+CONSULTANTS_SETTINGS="Identity";
+FIRM_NAME="Firm";
+FIRM_LOGO="Logo";
+PLACEHOLDER_CONSULTANT_FIRM="My firm name";
+PLACEHOLDER_CURRENCY="eg. US$";
+LANGUAGE="Language";
+INTERNATIONAL="International";
+RESTART_STRATPAD="Changes will take effect after restarting StratPad.";
+QUIT_NOW_BTN="Restart StratPad now";
+RESTART_STRATPAD_TITLE="Restart StratPad";
+RESTART_STRATPAD_MESSAGE="To restart StratPad, simply press the StratPad icon after StratPad quits";
+RESTART_STRATPAD_BUTTON="Restart";
+
+/* Registration dialog in settings menu */
+REGISTER_TITLE="Welcome";
+REGISTER_DETAILS_TITLE="Registration";
+REGISTER_THANKYOU_TITLE="Thank you for registering";
+REGISTER_WELCOME="Welcome to StratPad";
+REGISTER_CHANGE_EMAIL_BUTTON="Change email";
+REGISTRATION="Registration";
+REGISTER_TO_UNLOCK_BACKUP="Register to unlock the backup feature.";
+REGISTER_THANK_YOU="Thank you for registering!";
+REGISTER_ERROR_MESSAGE="There was a problem sending your registration to Glassey Technologies Inc. Please try again.";
+REGISTRATION_SUCCESS_MESSAGE="Thanks for registering with Glassey Technologies Inc. Check your email to complete the process.";
+VALIDATION_ERROR_MESSAGE="There was a problem validating your registration with Glassey Technologies Inc. Please try again.";
+VALIDATION_ERROR_MESSAGE_NIL_ARG="There was a problem validating your registration with Glassey Technologies Inc. Nil arg. Please try again.";
+VALIDATION_ERROR_MESSAGE_BAD_TOKEN="There was a problem validating your registration with Glassey Technologies Inc. Mismatched token. Please try again.";
+VALIDATION_WARNING_MESSAGE_ALREADY_VALIDATED="This copy of StratPad is already registered. Thank you.";
+INVALIDATION_ERROR_MESSAGE="There was a problem invalidating your registration with Glassey Technologies Inc. Please try again.";
+REGISTER_DETAILS_VERSION="%@, Version %@";
+REGISTRATION_EMAIL_FEEDBACK_SUBJECT="StratPad Feedback";
+REGISTRATION_EMAIL_FEEDBACK_BODY="Hi Alex,\n\n";
+REGISTER_ANYTIME="Register anytime from the Settings menu.";
+REGISTER_REQUIRED="Registration is required.";
+REGISTER_REMINDER_MENU_ITEM="Check email to complete registration.";
+REGISTER_REMINDER_MESSAGE="Don't forget to check your email, to complete your registration! Or register again in the Settings menu.";
+REGISTER_ALERT_TITLE="Registration Required";
+REGISTER_ALERT_MESSAGE="Register StratPad to enable the backup feature.";
+SETTINGS_REGISTER_CHECK_EMAIL="Check your email to complete your current registration, or enter a new email to register again.";
+SETTINGS_REGISTER_INSTRUCTIONS="Join the StratPad Community and enjoy a new backup feature.";
+REGISTRATION_ENTER_KEY="Enter key";
+
+/* actions menu */
+MENU_ACTIONS_TITLE="Actions";
+EMAIL="Send by Email";
+EMAIL_MSG_SETUP="Please set up email first.";
+
+SEND_ONE_TITLE="This %@";
+SEND_ALL_TITLE="All %@";
+SEND_FINANCIALS_TITLE="Financial Reports";
+
+EMAIL_1_MSG_CHOOSE_REPORT="Choose a report/chart to enable this option.";
+EMAIL_ALL="All %@s";
+
+PRINT="Print";
+PRINT_ALL="All %@s";
+
+BACKUP="Backup";
+BACKUP_DETAILS="Send a backup of this StratFile to your email.";
+BACKUP_DISABLED_NOT_READ_WRITE="You must choose one of your own StratFiles.";
+REGISTER_TO_ENABLE_BACKUP="Register to unlock this option.";
+
+YAMMER="Yammer";
+YAMMER_DETAIL="Post to your network and group";
+
+ACTION_REPORT_PARAM="Report";
+ACTION_CHART_PARAM="Chart";
+
+SHARE="Send by Email";
+SHARE_STRATFILE="StratFile";
+SHARE_STRATFILE_DETAILS="Send this StratFile to another iPad.";
+SHARE_CSV="Net Financial Changes";
+SHARE_CSV_DETAILS="Send a CSV file of the financial information.";
+SHARE_DOCX="Business Plan Summary";
+SHARE_DOCX_DETAILS="Send a Docx version of your summary bizplan.";
+CONSOLIDATED_CSV_REPORT="Consolidated Strategy Financial Analysis";
+
+SHARE_DOCX_SUBJECT="Here's the '%@' Microsoft Word document from StratPad.";
+SHARE_DOCX_BODY="The '%@' document is attached to this message. Open it using Microsoft Word or any compatible office software.";
+SUMMARY_BUSINESS_PLAN_FILENAME="Summary Business Plan";
+
+HUD_LOADING_MSG="Loading";
+HUD_DOCX_DOWNLOAD_MSG="Retrieving Docx file";
+HUD_DOCX_UPLOAD_MSG="Sending StratFile";
+HUD_DOCX_PREPARE_MSG="Preparing StratFile";
+HUD_DOCX_CONVERT_MSG="Converting StratFile";
+
+HUD_PDF_PREPARE_MSG="Preparing PDF for %@";
+
+// detail text in action menu when email and print are disabled
+GET_STRATBOARD="Buy StratBoard to enable this option.";
+MSG_OFFLINE="You must be online to use this feature.";
+
+YAMMER_NETWORK="Network";
+YAMMER_FILE="Report Name";
+YAMMER_SIGNIN_TITLE="Yammer Sign In";
+YAMMER_META="Yammer Information";
+YAMMER_GROUP="Group";
+YAMMER_USER="User";
+YAMMER_TOPIC="Topic";
+YAMMER_MESSAGE_TITLE="Yammer";
+YAMMER_MESSAGE_HELP="Tap to enter a message";
+POST_TO_YAMMER="Send to Yammer";
+YAMMER_MESSAGE_DETAILS="Message";
+SUCCESS="Success";
+ERROR="Error";
+YAMMER_ERROR="Sorry, something went wrong with the posting to Yammer. You can press the back button and try again, or check the Yammer site - it may have worked anyway. There are some details below which may shed some light on the problem.";
+YAMMER_MESSAGE_PLACEHOLDER="Enter a message to accompany this file.\n\nUse hashtags eg. #important to denote topics.";
+YAMMER_TITLE_PLACEHOLDER="Enter a title for this file.";
+YAMMER_SIGNOUT="Sign out";
+YAMMER_FETCH_ERROR_TITLE="Failed";
+YAMMER_FETCH_NETWORKS_ERROR="Couldn't fetch networks. Problem: %@";
+YAMMER_FETCH_FILE_COMMENTS_ERROR="Couldn't fetch comments on file. Problem: %@";
+YAMMER_FETCH_THREAD_ERROR="Couldn't fetch thread. Problem: %@";
+YAMMER_FETCH_GROUPS_ERROR="Couldn't fetch groups. Problem: %@";
+YAMMER_RESULT_UPLOADED_NO_GROUP="Uploaded on %@";
+YAMMER_RESULT_UPLOADED="Uploaded to %@ ▸ %@ ▸ Files";
+YAMMER_RESULT_AUTHOR="by %@";
+YAMMER_RESULT_ERROR_PARSE="Error: %@. Couldn't parse response.";
+YAMMER_RESULT_ERROR_POST="Error: %@. Couldn't post file.";
+YAMMER_SIGNIN_FAIL="Incorrect username or password.";
+YAMMER_UPLOAD_ERROR_MESSAGE="There was a problem sending '%@' to Yammer. Please try again.";
+YAMMER_UPLOAD_SUCCESS_MESSAGE="Successfully sent '%@' to Yammer.";
+YAMMER_COMMENT_DATE_FORMAT_STRING="MMMM d, yyyy 'at' hh:mma";
+YAMMER_COMMENTS_WINDOW_TITLE="%@: Yammer Conversations";
+YAMMER_COMMENT_REPLY_PLACEHOLDER="Write a reply...";
+YAMMER_POST_COMMENT_ERROR="Sorry, there was a problem posting your comment to Yammer. Please try again later.";
+YAMMER_LIKE="Like";
+YAMMER_POST_COMMENT="Reply";
+YAMMER_MORE_REPLIES="Show %i older replies »";
+YAMMER_ALREADY_PUBLISHED="This report/chart has already been published.";
+YAMMER_UPDATE_FILE="Update File";
+YAMMER_UPDATE_FILE_MESSAGE="Here's an UPDATED %@.";
+YAMMER_UPDATE_ERROR_MESSAGE="There was a problem updating that file with Yammer. Please try again.";
+YAMMER_VIEW_ON_WEB="View on Yammer.com";
+
+/* extras menu */
+MENU_UPGRADE_TITLE="Extras";
+UPGRADE_NO_PURCHASES="No purchases available.";
+UPGRADE_RESTORE_PURCHASES="Restore any previously made purchases.";
+UPGRADE_TRY_LATER="Please try again later.";
+IAP_PURCHASED="Purchased";
+UPGRADE_THANKS="Thanks for upgrading. Enjoy your new features.";
+
+// StoreManager. If user is not allowed to make payments
+NO_PAYMENTS_TITLE="Payments not allowed.";
+NO_PAYMENTS_MSG="Sorry, payments are currently disallowed.";
+
+
+/* for making the filename for all reports */
+STRATPAD_REPORTS_NAME="StratPad Reports";
+
+
+/* when printing out reports, use full text rather than "$/" */
+DOLLARS_PER="Dollars per ";
+
+
+/* sending report emails */
+EMAIL_ONE_REPORT_SUBJECT="%@";
+EMAIL_ONE_REPORT_BODY="Here is the most recent '%@' report from the '%@' StratFile.";
+
+EMAIL_ALL_REPORTS_SUBJECT="All StratPad reports for %@";
+EMAIL_ALL_REPORTS_BODY="Here are the latest versions of all the StratPad reports for the '%@' StratFile.";
+
+EMAIL_ONE_CHART_SUBJECT="%@";
+EMAIL_ONE_CHART_BODY="Here is the most recent '%@' chart from the '%@' StratFile.";
+
+EMAIL_ONE_FINANCIAL_REPORT_SUBJECT="%@";
+EMAIL_ONE_FINANCIAL_REPORT_BODY="Here is the most recent '%@' financial report from the '%@' StratFile.";
+
+SHARE_STRATFILE_SUBJECT="Here's the '%@' StratFile from StratPad.";
+SHARE_STRATFILE_BODY="The '%@' StratFile is attached to this message. \
+To open it, you'll need to open this message on your iPad. \
+Then tap on the StratFile icon that's inside this message. \
+\
+You must have either StratPad Premium or StratPad Platinum installed on your iPad. \
+If you don't have StratPad on your iPad, <a href='%@'>you can get it here.</a>";
+
+SHARE_CSV_SUBJECT="A StratPad Report has been shared with you.";
+SHARE_CSV_BODY="The Financial Analysis Report for the  StratFile named \"%@\" has been shared with you. Open in a spreadsheet program, such as Microsoft Excel.";
+
+BACKUP_STRATFILE_SUBJECT="Here's the '%@' StratFile backup from StratPad.";
+BACKUP_STRATFILE_BODY="The '%@' StratFile backup is attached to this message. \
+To open it, you'll need to open this message on your iPad. \
+Then tap on the StratFile icon that's inside this message. \
+Keep this email as your StratFile backup.
+";
+
+/* After sending a backup from the actions menu */
+BACKUP_UPLOAD_SUCCESS_MESSAGE="Your Stratfile backup has been sent to %@ successfully.";
+BACKUP_UPLOAD_ERROR_MESSAGE="There was a problem sending your backup Stratfile. Please try again.";
+
+
+/* Frequency names - used through program - can see in F6 details */
+FREQUENCY_0="Daily";
+FREQUENCY_1="Weekly";
+FREQUENCY_2="Bi-Weekly";
+FREQUENCY_3="Monthly";
+FREQUENCY_4="Quarterly";
+FREQUENCY_5="Semi-Annually";
+FREQUENCY_6="Annually";
+
+
+/* Frequency abbreviations for above names - used through program - can see in F6 details */
+FREQUENCY_ABBREVIATION_0="Dy";
+FREQUENCY_ABBREVIATION_1="Wk";
+FREQUENCY_ABBREVIATION_2="Bi";
+FREQUENCY_ABBREVIATION_3="Mo";
+FREQUENCY_ABBREVIATION_4="Qy";
+FREQUENCY_ABBREVIATION_5="SA";
+FREQUENCY_ABBREVIATION_6="An";
+
+
+/* Objective/perspective names - used through program - can see in F6 details */
+OBJECTIVE_TYPE_FINANCIAL="Financial";
+OBJECTIVE_TYPE_CUSTOMER="Customer/Client";
+OBJECTIVE_TYPE_PROCESS="Process/Technology";
+OBJECTIVE_TYPE_STAFF="Staff";
+OBJECTIVE_TYPE_COMMUNITY="Community";
+OBJECTIVE_TYPE_FUNDER="Funder";
+
+
+/* Instructions for objectives in F6 */
+OBJECTIVE_INSTRUCTIONS_0="What financial benefit(s) do we wish to achieve with this theme?";
+OBJECTIVE_INSTRUCTIONS_1="What should your customers experience from this theme?";
+OBJECTIVE_INSTRUCTIONS_2="What internal process and/or technology changes are needed to support this theme?";
+OBJECTIVE_INSTRUCTIONS_3="How must we develop our people to support this theme?";
+
+
+/* in F6, text for row add button */
+ADD_OBJECTIVE_ROW="Add a new '%@' objective...";
+
+
+/* in F6, when we are in Plus and are not allowed to add an objective */
+ADD_OBJECTIVE_DISABLED="No objectives";
+
+
+/* in F6, date picker popover title for mod'ing metrics */
+METRIC_DATE_PICKER_TITLE="Metric Target Date";
+
+
+/* Success indicator, in metric editor in F6 */
+GT_TARGET="Exceeds target";
+LT_TARGET="Is less than target";
+
+
+/* in F7, text for row add button */
+ADD_ACTIVITY_ROW="Add New Activity";
+
+
+/* in F7, when we are in Plus and are not allowed to add an activity */
+ADD_ACTIVITY_ROW_DISABLED="No activities";
+
+
+/* if you navigate to F6 or F7 without first creating a theme or an objective */
+MSG_NO_OBJECTIVES="Create an objective for this theme first.";
+MSG_NO_THEMES="Create a theme first.";
+
+
+/* R1 */
+STRATEGY_MAP_REPORT_TITLE="Strategy Map";
+STRATEGY_MAP_VIEW_LABEL_STRATEGY="Strategy";
+STRATEGY_MAP_VIEW_LABEL_THEMES="Themes";
+// use OBJECTIVE_TYPE_ keys for remaining labels
+
+STRATEGY_MAP_VIEW_DESC_THEMES="Projects that will help us achieve our strategy.";
+STRATEGY_MAP_VIEW_DESC_FINANCIAL="Financial benefits that will result from this theme.";
+STRATEGY_MAP_VIEW_DESC_CUSTOMER="Our customers will experience these things.";
+STRATEGY_MAP_VIEW_DESC_PROCESS="The process and/or technology changes needed to implement this theme.";
+STRATEGY_MAP_VIEW_DESC_STAFF="We'll need to develop our staff in these ways to fully support this theme.";
+
+
+/* R2, R3 and R4 */
+ORDINAL_0="First";
+ORDINAL_1="Second";
+ORDINAL_2="Third";
+ORDINAL_3="Fourth";
+ORDINAL_4="Fifth";
+ORDINAL_5="Sixth";
+ORDINAL_ABBR_0="1st";
+ORDINAL_ABBR_1="2nd";
+ORDINAL_ABBR_2="3rd";
+ORDINAL_ABBR_3="4th";
+ORDINAL_ABBR_4="5th";
+ORDINAL_ABBR_5="6th";
+
+TOTAL="Total";
+REVENUE="REVENUE";
+CHANGE_IN_REVENUE="Change in Revenue";
+CHANGE_IN_COGS="Change in Cost of Goods Sold";
+TOTAL_CHANGE_IN_GROSS_PROFIT="Total Change in Gross Profit";
+
+EXPENSES="EXPENSES";
+CHANGE_IN_RAD="Change in Research & Development";
+CHANGE_IN_GAA="Change in General & Administrative";
+CHANGE_IN_SAM="Change in Sales & Marketing";
+TOTAL_CHANGE_IN_EXPENSES="Total Change in Expenses";
+
+TOTAL_FOR_STRATEGY="TOTAL FOR STRATEGY";
+TOTAL_FOR_THEME="TOTAL FOR THEME";
+NET_CONTRIBUTION="Net Contribution (Loss)";
+NET_CUMULATIVE_CONTRIBUTION="Net Cumulative Cont. (Loss)";
+
+RESEARCH_AND_DEVELOPMENT="Research & Development";
+GENERAL_AND_ADMINISTRATIVE="General & Administrative";
+SALES_AND_MARKETING="Sales & Marketing";
+
+COGS="COGS";
+COST_OF_GOODS_SOLD="Cost of goods sold";
+GROSS_PROFIT="Gross Profit";
+OPERATING_EXPENSES="Operating Expenses";
+TOTAL_EXPENSES="Total Expenses";
+CONTRIBUTION="Contribution";
+CUMULATIVE_CONTRIBUTION="Cumulative Contribution";
+
+NTH_YEAR_TOTAL="%@ Year\nTotal";
+SUBS_YEARS="Subs.\nYears";
+
+ROUNDING_DISCLAIMER="All calculations carry precision, but are rounded to the nearest unit. Some intermediate numbers may thus appear to sum incorrectly.";
+ROUNDING_DISCLAIMER_SHORT="Intermediate values may be rounded.";
+NET_FINANCIAL_CHANGES_FORMAT="The values shown are the net financial changes resulting from this strategy, calculated %@, in %@.";
+OPTIMISTIC="optimistically";
+PESSIMISTIC="pessimistically";
+
+
+/* R2 */
+R2_REPORT_TITLE_FOR_SCREEN="Strategy Financial Analysis:\n%@ Year Projections, By Month";
+R2_REPORT_TITLE_FOR_PRINT="Strategy Financial Analysis: %@ Year Projections, By Month";
+
+
+/* R3 */
+R3_REPORT_TITLE_FOR_SCREEN="Strategy Financial Analysis:\n%@ Year Projections, By Theme";
+R3_REPORT_TITLE_FOR_PRINT="Strategy Financial Analysis: %@ Year Projections, By Theme";
+
+
+/* R4 */
+R4_REPORT_TITLE_FOR_SCREEN="Theme Financial Analysis:\n%@ Year Projections, By Month";
+R4_REPORT_TITLE_FOR_PRINT="Theme Financial Analysis: %@ Year Projections, By Month";
+NO_THEME_TITLE="No Theme";
+
+
+/* R5 */
+
+// various wordings in the header to describe who is responsible for the theme
+RESPONSIBLE_TEMPLATE_NO_DATA="Nobody is responsible for this theme which has no start date and has no end date.";
+RESPONSIBLE_TEMPLATE_NO_RESPONSIBLE_AND_NO_END_DATE="Nobody is responsible for this theme which starts on %@ and has no end date.";
+RESPONSIBLE_TEMPLATE_NO_RESPONSIBLE_AND_NO_END_DATE="Nobody is responsible for this theme which starts on %@ and has no end date.";
+RESPONSIBLE_TEMPLATE_NO_RESPONSIBLE_AND_NO_START_DATE="Nobody is responsible for this theme which has no start date and ends on %@.";
+RESPONSIBLE_TEMPLATE_NO_RESPONSIBLE="Nobody is responsible for this theme which starts on %@ and ends on %@.";
+RESPONSIBLE_TEMPLATE_RESPONSIBLE_AND_NO_START_DATE_OR_END_DATE="%@ is responsible for this theme which has no start date and has no end date.";
+RESPONSIBLE_TEMPLATE_RESPONSIBLE_AND_NO_END_DATE="%@ is responsible for this theme which starts on %@ and has no end date.";
+RESPONSIBLE_TEMPLATE_RESPONSIBLE_AND_NO_START_DATE="%@ is responsible for this theme which has no start date and ends on %@.";
+RESPONSIBLE_TEMPLATE_ALL_DATA="%@ is responsible for this theme which starts on %@ and ends on %@.";
+
+// various wordings in the header to describe the theme
+THEME_DESCRIPTION_MANDATORY_ENHANCE_UNIQUENESS_IMPROVES_CUST_VALUE="This theme is mandatory, enhances uniqueness, and improves customer value.";
+THEME_DESCRIPTION_NOT_MANDATORY_ENHANCE_UNIQUENESS_IMPROVES_CUST_VALUE="This theme is not mandatory, enhances uniqueness, and improves customer value.";
+THEME_DESCRIPTION_MANDATORY_DOES_NOT_ENHANCE_UNIQUENESS_IMPROVES_CUST_VALUE="This theme is mandatory, does not enhance uniqueness, and improves customer value.";
+THEME_DESCRIPTION_NOT_MANDATORY_DOES_NOT_ENHANCE_UNIQUENESS_IMPROVES_CUST_VALUE="This theme is not mandatory, does not enhance uniqueness, and improves customer value.";
+THEME_DESCRIPTION_MANDATORY_ENHANCE_UNIQUENESS_DOES_NOT_IMPROVE_CUST_VALUE="This theme is mandatory, enhances uniqueness, and does not improve customer value.";
+THEME_DESCRIPTION_NOT_MANDATORY_ENHANCE_UNIQUENESS_DOES_NOT_IMPROVE_CUST_VALUE="This theme is not mandatory, enhances uniqueness, and does not improve customer value.";
+THEME_DESCRIPTION_MANDATORY_DOES_NOT_ENHANCE_UNIQUENESS_DOES_NOT_IMPROVE_CUST_VALUE="This theme is mandatory, does not enhance uniqueness, and does not improve customer value.";
+THEME_DESCRIPTION_NOT_MANDATORY_DOES_NOT_ENHANCE_UNIQUENESS_DOES_NOT_IMPROVE_CUST_VALUE="This theme is not mandatory, does not enhance uniqueness, and does not improve customer value.";
+
+// column and row headings in the report
+THEME_DETAIL_REPORT_TITLE="Theme Detail";
+THEME="Theme";
+OBJECTIVES="Objectives";
+SCORECARD="Scorecard";
+ACTIVITY="Activity";
+MEASURE="Measure";
+TARGET="Target";
+DATE="Date";
+ACTION="Action";
+FIRST_YEAR_COST="1st Year Cost";
+START="Start";
+END="End";
+
+
+/* R6 */
+ACHIEVE_METRIC_TEMPLATE="Achieve '%@'";
+REACH_METRIC_TEMPLATE="Reach %@ in '%@'";
+
+
+/* R7 */
+PROJECT_PLAN_REPORT_TITLE="Project Plan";
+LABEL_STARTING_FROM="Starting %@";
+PPR_HEADING_THEME="THEME";
+PPR_HEADING_START_DATE="Start Date";
+PPR_HEADING_END_DATE="End Date";
+
+
+/* R8 */
+MEETING_AGENDA_REPORT_TITLE="Meeting Agendas";
+
+MAR_WEEKLY_MEETING="During the week of %@, have a %@ meeting to:";
+MAR_PERIODIC_MEETING="As soon as you can in %@, have a %@ meeting to:";
+MAR_ANNUAL_MEETING="As soon as you can in %@, have an %@ meeting to:";
+FREQUENCY_NAME_ANNUAL="Annual";
+MAR_RESPONSIBLE_PEOPLE="Consider including %@ in this meeting.";
+MAR_AND="and";
+
+AGENDA_ITEM_THEME_START="Start the '%@' theme%@which is scheduled to start on %@.";
+AGENDA_ITEM_THEME_CONCLUDE="Conclude the '%@' theme, scheduled to be completed on %@.";
+AGENDA_ITEM_STRATEGY_START="Kick off the '%@' strategy, which is scheduled to start on %@.";
+AGENDA_ITEM_THEME_STOP="Wrap up the '%@' strategy, scheduled to finish on %@";
+AGENDA_ITEM_STRATEGY_PROGRESS="Assess the progress of the '%@' strategy.";
+AGENDA_ITEM_STRATEGY_REVIEW="Perform a detailed review of the '%@' strategy.";
+AGENDA_ITEM_OBJECTIVE_HAS_TARGET_AND_DATE="Check the progress of the '%@' metric which should reach %@ by %@.";
+AGENDA_ITEM_OBJECTIVE_HAS_TARGET="Check the progress of the '%@' metric which should reach %@.";
+AGENDA_ITEM_OBJECTIVE_HAS_DATE="Check the progress of the '%@' metric which should be achieved by %@.";
+AGENDA_ITEM_OBJECTIVE="Check the progress of the '%@' metric.";
+AGENDA_ITEM_OBJECTIVE_MULTIPLE_METRICS="There are multiple metrics associated with this objective.";
+AGENDA_ITEM_ACTIVITY_START="Start the '%@' action%@which is scheduled to start on %@.";
+AGENDA_ITEM_ACTIVITY_STOP="Confirm that the '%@' action%@was completed on %@.";
+AGENDA_ITEM_FINANCIAL_REVIEW="Review the %@ financial performance of the '%@' theme.";
+
+
+/* R9 */
+R9_SECTION_A_HEADING="A. Our aspiration and strategy";
+COMPANY_LOCATION_TEMPLATE="is based in %@";
+AND="and";
+COMPANY_SECTOR="operates in the %@ sector";
+R9_REPORT_TITLE="Summary Business Plan";
+PROPRIETARY_AND_CONFIDENTIAL="Proprietary and confidential.";
+R9_SECTION_B_HEADING="B. The sector we operate in and how we make money";
+R9_SECTION_C_HEADING="C. In order to achieve our goal, we will complete these activities and milestones…";
+R9_SECTION_D_HEADING="D. ...which will allow us to reach these goals…";
+QUARTERS_STARTING="Periods starting:";
+R9_SECTION_E_HEADING="E. …and progress in this fashion.";
+ALLOWING_US_TO_PROGRESS_FOOTER_THOUSANDS_TEMPLATE="Values in thousands of %@. %@";
+ALLOWING_US_TO_PROGRESS_FOOTER_TEMPLATE="Values in %@. %@";
+R9_COPYRIGHT_TEMPLATE="Copyright ©%@ %@";
+R9_ALL_RIGHTS_RESERVED="All rights reserved. Company confidential.";
+COMPANY_NAME="Company Name";
+
+
+/* Rating reminder */
+RATE_REMINDER_TITLE="Please Rate StratPad";
+RATE_REMINDER_MESSAGE="Hi! We've noticed that you have used some of the new features in StratPad. Would you like to rate and review StratPad in the App Store? We would be most appreciative!";
+ALREADY_RATED="Don't ask me again";
+LATER="Later";
+RATE_AND_REVIEW="Rate & Review";
+PAGE="Page";
+
+
+/* Importing stratfiles - ie tapping on a .stratfile in an email */
+IMPORT_STRATFILE="Import StratFile";
+IMPORT_DIALOG_TITLE="%@ version of this StratFile already exists. Do you want to replace it?";
+IMPORT_DIALOG_PREFIX_SAME="A";
+IMPORT_DIALOG_PREFIX_OLDER="An older";
+IMPORT_DIALOG_PREFIX_NEWER="A newer";
+IMPORT_DIALOG_DATE_CREATED="Created %@";
+IMPORT_DIALOG_DATE_MODIFIED="Modified %@";
+SUFFIX_IMPORTED="imported";
+IMPORT_SUCCESS_TITLE="Successful import";
+IMPORT_SUCCESS_BODY="Successfully imported \"%@\".";
+IMPORT_FAIL_TITLE="Import failed";
+IMPORT_FAIL_BODY="Failed to import %@. Reason: %@";
+INCOMPATIBLE_STRATFILE_EXC="Sorry, that StratFile is incompatible with StratPad.";
+STRATFILE_CREATED_BY_NEWER_STRATPAD="That StratFile was created with a newer version of StratPad. Please update StratPad and try again.";
+
+/* Importing stratfile backups - ie tapping on a .stratbak in an email */
+IMPORT_BACKUP_SUCCESS_TITLE="Successful restore";
+IMPORT_BACKUP_SUCCESS_BODY="Successfully restored backup \"%@\".";
+IMPORT_BACKUP_FAIL_TITLE="Restore failed";
+IMPORT_BACKUP_FAIL_BODY="Failed to restore backup %@. Reason: %@";
+ILLEGAL_STRATFILE_EXC="Sorry, that StratFile is not eligible for backup restoration. Please register first, then backup.";
+IMPORT_BACKUP_REPLACE_TITLE="Replace stratfile";
+IMPORT_BACKUP_REPLACE_BODY="Replace existing stratfile '%@' with backup file '%@'?";
+
+
+/* Date selection component - MBDateSelectionViewController. All substitutions in here (%@) are dates eg. Mar 17, 2012. */
+DATE_SELECTION_INVALID="Invalid Date. Using: %@";
+DATE_SELECTION_VALID="Date selected: %@";
+DATE_SELECTION_FOR_THEME_INVALID_START_GT_END="The start date must be less than or equal to the end date. Try using %@.";
+DATE_SELECTION_FOR_THEME_INVALID_END_LT_START="The end date must be greater than or equal to the start date. Try using %@.";
+DATE_SELECTION_FOR_THEME_INVALID_START_GT_METRIC="Using %@ would make the target date of %@ in the '%@' metric illegal, as it would fall outside of its parent theme range. Try using a date on or before %@, or change the '%@' target date first. Using %@ instead.";
+DATE_SELECTION_FOR_THEME_INVALID_START_INSIDE_ACTIVITY="That start date would invalidate the date range in the '%@' activity. Try using %@, or change the activity dates first. Using %@ instead.";
+DATE_SELECTION_FOR_THEME_INVALID_END_LT_METRIC="Using %@ would make the target date of %@ in the '%@' metric illegal, as it would fall outside of its parent theme range. Try using a date on or after %@, or change the '%@' target date first. Using %@ instead.";
+DATE_SELECTION_FOR_THEME_INVALID_END_INSIDE_ACTIVITY="That end date would invalidate the date range in the '%@' activity. Try using %@, or change the activity dates first. Using %@ instead.";
+
+
+/* StratBoard */
+
+// individual chart title
+CHART_THEME_OBJECTIVE="Theme: %@     Objective: %@";
+
+// in chart options, these are the graph types
+CHART_TYPE_0="None";
+CHART_TYPE_1="Line";
+CHART_TYPE_2="Bar";
+CHART_TYPE_3="Area";
+CHART_TYPE_4="Comments";
+
+// in chart options, these are the colours
+COLOR_SCHEME_0          = "Red";
+COLOR_SCHEME_1       = "Orange";
+COLOR_SCHEME_2       = "Yellow";
+COLOR_SCHEME_3        = "Green";
+COLOR_SCHEME_4        = "Royal";
+COLOR_SCHEME_5    = "Turquoise";
+COLOR_SCHEME_6         = "Grey";
+COLOR_SCHEME_7          = "Sky";
+
+// chart options UI
+CHART_OPTIONS_TITLE="Primary Graph Options";
+CHART_OPTIONS_BACK_TITLE="Primary";
+METRIC="Metric";
+CHART_TYPE="Graph Type";
+SHOW_TREND="Show Trendline";
+SHOW_TARGET="Show Target";
+COLOR="Color";
+NO_OVERLAY="None";
+OVERLAY_OPTIONS_TITLE="Comparison Graph";
+OVERLAY_OPTIONS_BACK_TITLE="Comparison";
+CHOOSE_CHART_TYPE="Choose a graph type";
+CHOOSE_METRIC="Choose a metric";
+CHART_TITLE="Graph Title";
+CHART_NO_TITLE="Untitled Graph";
+CHART_MAX_VALUE="Maximum Value";
+
+// StratBoard view if there are no graphs
+ADD_CHART_INSTRUCTIONS_ROW="Press the add button (+) to add a new graph.";
+
+// we see this if there are no metrics and you are looking at the measurements vc
+ADD_METRIC_INSTRUCTIONS_ROW="Use \"Chapter 6. Objectives\" to add new metrics";
+
+// this is the title of the popover used when adding a chart
+CHOOSE_METRIC_FOR_ADD_CHART="Add Chart for Metric";
+
+// if there are no valid metrics, we show this in the popover used when adding a chart
+ADD_METRIC_INSTRUCTIONS_FOR_ADD_CHART="Add Metrics in \"Chapter 6. Objectives\". Add Values to Metrics in StratBoard.";
+
+// if there are no measurements for a metric
+ADD_MEASUREMENT_INSTRUCTIONS_ROW="Press the add button (+) to add a new value.";
+
+// date picker popover title when adding a measurement
+MEASUREMENT_DATE_PICKER_TITLE="Value Date";
+
+// in Plus and Premium, show an ad page for buying stratboard; this is button text
+BUY_STRATBOARD="Buy StratBoard now\n%@";
+OFFLINE="Offline";
+OFFLINE_INSTRUCTIONS="To view the StratBoard video, please connect to the internet and refresh.";
+ERROR_NO_NETWORK="No network.";
+
+/* StratCard - when printing from StratBoard */
+RECENT_VALUE="• Most recent value: %@";
+ON_TARGET="• On target: %@";
+STRAT_TARGET="• Target: %@";
+STRAT_TARGET_BY=" by %@";
+
+/* For selecting charts when printing or emailing a StratCard */
+STRATCARD_ACTION_0="Print";
+STRATCARD_ACTION_1="Email";
+SELECT_CHARTS="Select Charts";
+
+/* When importing a stratfile, but your edition can't import, we present this upgrade dialog; OpenStratFileUpgradeAlertView */
+UPGRADE_REQUIRED_TITLE="Upgrade Required";
+UPGRADE_REQUIRED_MESSAGE="To open StratFiles in StratPad, you need to upgrade to StratPad Premium or better.";
+
+/* When tapping a field in a read-only file, we give the user a couple of options */
+READONLY_SAMPLE_FILE_CLONE_TITLE="Copy Required";
+READONLY_SAMPLE_FILE_CLONE_MESSAGE="This StratFile is marked read-only. Would you like to make an editable copy?";
+READONLY_SAMPLE_FILE_UPGRADE_TITLE="Upgrade Required";
+READONLY_SAMPLE_FILE_UPGRADE_MESSAGE="This StratFile is marked read-only. To edit sample files you need to upgrade your edition of StratPad. Would you like to view upgrade options?";
+STRATFILE_COPY_SUFFIX="copy";
+
+/* Finances */
+
+// general
+MONTH_MESSAGE_FORMAT="%@ mo.";
+YEAR_MESSAGE_FORMAT="%i y";
+PERCENT_MESSAGE_FORMAT="%@%%";
+
+// TOC
+FINANCES_0="Table of Contents";
+FINANCES_1="Accounts Receivable";
+FINANCES_2="Accounts Payable";
+FINANCES_3="Inventory";
+FINANCES_4="Loans";
+FINANCES_5="Assets";
+FINANCES_6="Equity investments";
+FINANCES_7="Employee deductions";
+FINANCES_8="Sales tax";
+FINANCES_9="Income tax";
+FINANCES_10="Opening balances";
+
+// Loans
+LoanType_0="Principal plus Interest";
+LoanType_1="Interest Only";
+
+LoanTypeAbbr_0="P+I";
+LoanTypeAbbr_1="I";
+
+LoanTerm="The duration of the loan.";
+LoanRate="Annual interest rate, as a percentage.";
+LoanDate="When did/will you receive the loan?";
+LoanType="Interest only OR principal plus interest?";
+LoanPaymentFrequency="How often are payments made?";
+
+// Assets
+
+AssetDepreciationType_0="Straight Line";
+
+AssetType_0="Land";
+AssetType_1="Building";
+AssetType_2="Machinery";
+AssetType_3="Furniture";
+AssetType_4="Tools";
+AssetType_5="IT Equipment";
+
+AssetDate="When did/will you acquire the asset?";
+AssetTerm="Years to fully depreciate this asset.";
+AssetTypes="Category for this asset.";
+AssetDepreciationTypes="How does this asset depreciate?";
+
+// Equities
+
+EquityDate="When did/will you receive the investment?";
+
+// Warnings
+LoanEquityAssetValidationWarning="One or more %@ on this page need to be completed. They will be ignored in all financial reports until finished.";
+Loans="loans";
+Assets="assets";
+Equities="equities";
+
+// Employee Deductions
+
+RemittanceDueDate_0="This month";
+RemittanceDueDate_1="Next month";
+
+COGSWarning="The sum of your Costs of Goods Sold related to inventory (%@%%) and wages (%@%%) exceeds 100%%.";
+
+// Opening Balances
+
+OpeningBalance_0="Cash";
+OpeningBalance_1="Accounts Receivable";
+OpeningBalance_2="Inventory";
+OpeningBalance_3="Pre-Paid Expenses";
+OpeningBalance_4="Long Term Assets";
+OpeningBalance_5="Other Assets";
+OpeningBalance_6="Accounts Payable";
+OpeningBalance_7="Emp. Deductions Payable";
+OpeningBalance_8="Sales Taxes Payable";
+OpeningBalance_9="Income Taxes Payable";
+OpeningBalance_10="Short Term Loan";
+OpeningBalance_11="Current Portion of LTD";
+OpeningBalance_12="Long Term Loan";
+OpeningBalance_13="Pre-Paid Purchases";
+OpeningBalance_14="Other Liabilities";
+OpeningBalance_15="Loans from Shareholders";
+OpeningBalance_16="Capital Stock";
+OpeningBalance_17="Retained Earnings";
+
+// income statement
+
+NoNetwork="To view Financial Reports, you must be connected to the internet.";
+
+IncomeStatementReportTitle="Income Statement";
+IncomeStatementSummaryTitle="Summary Financials\nIncome Statement";
+IncomeStatementDetailTitle="Detailed Financials\nIncome Statement";
+
+GENERAL_AND_ADMINISTRATIVE_SHORT="G & A";
+RESEARCH_AND_DEVELOPMENT_SHORT="R & D";
+SALES_AND_MARKETING_SHORT="S & M";
+REVENUE="Revenue";
+COGS="Cost of Goods Sold";
+GROSS_PROFIT="Gross Profit";
+EXPENSES="Expenses";
+is.ebitda="EBITDA";
+is.ebit="EBIT";
+is.interest="Interest";
+is.depreciation="Depreciation";
+is.ebt="EBT";
+is.incomeTaxes="Income Taxes";
+
+
+// cashflow
+
+CashFlowReportTitle="Cash Flow";
+CashFlowSummaryTitle="Summary Financials\nStatement of Cash Flows";
+CashFlowDetailTitle="Detailed Financials\nStatement of Cash Flows";
+
+operations="Net Changes from Operations";
+netIncome="Net Income";
+arChange="Net Change from Accounts Receivable";
+apChange="Net Change from Accounts Payable";
+cashSubtotals="Cash from Operations";
+cashChanges="Net Changes to Cash";
+startCash="Cash at Start";
+endCash="Cash at End";
+changesFromPrepaidSales="Net Change from Pre-Paid Sales";
+changesFromPrepaidPurchases="Net Change from Pre-Paid Purchases";
+investmentsChange="Changes from Investments";
+cashFromInvestments="Cash from Investments";
+financingChange="Changes from Financing";
+cashFromFinancing="Cash from Financing";
+inventoryChange="Changes from Inventory";
+depreciationChange="Depreciation";
+
+// balance sheet
+
+BalanceSheetReportTitle="Balance Sheet";
+BalanceSheetSummaryTitle="Summary Financials\nBalance Sheet";
+BalanceSheetDetailTitle="Detailed Financials\nBalance Sheet";
+
+assets="Assets";
+cash="Cash";
+ar="Accounts Receivable";
+ap="Accounts Payable";
+totalAssets="Total Assets";
+liabilities="Liabilities";
+equity="Equity";
+totalLiabilities="Total Liabilities";
+retainedEarnings="Retained Earnings";
+totalEquity="Total Equity";
+totalLiabilitiesAndEquity="Total Liabilities and Equity";
+currentAssets="Current Assets";
+currentLiabilities="Current Liabilities";
+prepaidSales="Pre-Paid Sales";
+prepaidPurchases="Pre-Paid Purchases";
+longTermAssets="Long Term Assets";
+currentPortionOfLtd="Current Portion of LTD";
+longTermLiabilities="Long Term Liabilities";
+capitalStock="Capital Stock";
+accumulatedDepreciation="Less: Accumulated Depreciation";
+employeeDeductions="Employee Deductions";
+taxesAndDeductions="Taxes & Deductions";
+
+// general financials
+SUMMARY_FINACIAL_REPORTS_FILENAME="Summary Financial Reports";
+FINANCIAL_PROGRESS_PREPARING="Preparing Report";
+FINANCIAL_PROGRESS_FINALIZING="Finalizing Report";
+

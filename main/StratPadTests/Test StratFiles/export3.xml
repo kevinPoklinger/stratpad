@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111115T11:25:23-0800</dateCreated>
+	<dateLastAccessed>20111116T11:22:08-0800</dateLastAccessed>
+	<dateModified>20111116T11:20:00-0800</dateModified>
+    <model>StratPad 1.1 (622)</model>
+    <permissions>0600</permissions>
+	<name>SMB Market Focus</name>
+	<companyName>Gamma Consulting</companyName>
+	<city>Kingston</city>
+	<provinceState>ON</provinceState>
+	<country>Canada</country>
+	<industry>consulting</industry>
+	<keyProblems>SMBs have traditionally been unable to take advantage of the most modern, powerful and effective management tools. These tools are normally created for large companies and are therefore needlessly complex and expensive for smaller businesses. However, because today's business environment is extraordinarily challenging, SMB owners and managers need to use the best possible tools to thrive.
+
+Many consulting firms focus on larger clients because of the larger fees and longer contracts. Small clients are challenging: they demand a great deal and yet often have budgets too small to support appropriate engagements.</keyProblems>
+	<addressProblems>We will market a series of seminars, workshops and advisory packages based on EntrepreneurialStrategy to bring world-class strategy thinking to the region's SMBs.
+
+ES boils strategy and execution down to the essentials making it simpler and easier for SMB owners and managers to use. This simplicity also makes seminars and workshops much less expensive because they can be shorter. By presenting to several companies at once we will generate appropriate fees.</addressProblems>
+	<customersDescription>Our target customers are small- and medium-sized companies in the Kingston region that are growing. These businesses have annual sales in the $500,000 to $10,000,000 range, are profitable, and are working hard to &quot;get to the next level&quot;.
+
+The key individuals are the owners and senior executives of these firms. They're ambitious and want to gain an edge over their competition. They are willing to spend between $2,500 and $25,000 a year on advisory services; their willingness to make this investment will be enhanced by getting access to world-class thinking and advice.</customersDescription>
+	<competitorsDescription>Our competitors can include accountants, lawyers, and the full range of consulting firms including large national and regional firms, smaller boutique firms, and sole proprietor firms including business coaches.
+
+Accounting and legal firms already have access to our target customer on a regular basis. However, their thinking seldom goes beyond the transactional or tactical. Few accounting and legal firms truly appreciate the entrepreneurial mind-set or offer strategic services.
+
+Large national and regional firms have (or claim to have) a full array of strategic offerings. Their rates and offerings are often designed for larger firms; they are more complex and they are expensive. Few SMBs require the full range of these services; fewer can afford them.
+
+Boutique firms, sole proprietors and business coaches have rates that are more appropriate for SMBs. The quality of their offerings ranges widely but is typically weaker than the larger firms. They often borrow large-firm strategy concepts which don't translate particularly well to smaller businesses.
+
+Using EntrepreneurialStrategy we are able to offer world-class thinking that's specifically designed for SMBs. And we're able to meet their budget constraints by offering seminars, workshops and service packages.</competitorsDescription>
+	<businessModelDescription>We generate revenue three ways:
+
+• We host 1/2 day and 1 day workshops for several companies at a time. We charge a per-company or a per-attendee fee for each workshop.
+
+• We offer advisory packages for six month and one year terms. These typically include a workshop and then a two-hour monthly follow-up meeting.
+
+• We offer our services on a time and materials basis.</businessModelDescription>
+	<expansionOptionsDescription />
+	<ultimateAspiration>We want to become the region's most respected business advisor to small- and medium-sized companies (SMBs).</ultimateAspiration>
+	<mediumTermStrategicGoal>By December 31, 2013 we will become the region's most respected business advisory firm. Our ten advisors will support 200 SMB clients with a series of strategy and execution oriented seminars, workshops and advisory meetings based on the EntrepreneurialStrategy (ES) approach.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Expand market awareness</title>
+			<startDate>20120301T00:00:00+0000</startDate>
+			<endDate>20131231T00:00:00+0000</endDate>
+			<expensesMonthly />
+			<mandatory>1</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly />
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<costsMonthly />
+			<cogsQuarterly />
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<costsOneTime />
+			<cogsAnnually />
+			<order>1</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly />
+			<responsible>Sammi Schmitt</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Implement CRM/soc.media technology</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New CRM technology fully implemented</summary>
+							<targetDate>20120630T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Expand current client revenue</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Annual revenue per client</summary>
+							<targetDate>20131231T00:00:00+0000</targetDate>
+							<targetValue>15000</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Add client contact support staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New client contact support staff</summary>
+							<targetDate>20120331T00:00:00+0000</targetDate>
+							<targetValue>1</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Expand number of clients</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of active clients</summary>
+							<targetDate>20131231T00:00:00+0000</targetDate>
+							<targetValue>200</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>More client contact</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly number of out-bound client contacts</summary>
+							<targetDate>20120630T00:00:00+0000</targetDate>
+							<targetValue>1</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Revenue from new clients</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly revenue from new clients</summary>
+							<targetDate>20121231T00:00:00+0000</targetDate>
+							<targetValue>25000</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Develop ES-based offerings</title>
+			<startDate>20120101T00:00:00+0000</startDate>
+			<endDate>20120331T00:00:00+0000</endDate>
+			<expensesMonthly />
+			<mandatory>0</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly />
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<costsMonthly />
+			<cogsQuarterly />
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<costsOneTime />
+			<cogsAnnually />
+			<order>0</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly />
+			<responsible>Alex Petrova</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Develop new service offerings</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New service offerings developed</summary>
+							<targetDate>20120331T00:00:00+0000</targetDate>
+							<targetValue>3</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>More service offerings</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Avg. annual service offerings per client</summary>
+							<targetDate>20121231T00:00:00+0000</targetDate>
+							<targetValue>3.0</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Staff trained on new offerings</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Fully trained staff</summary>
+							<targetDate>20120415T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111109T17:40:45-0800</dateCreated>
+	<dateLastAccessed>20120206T13:30:52-0800</dateLastAccessed>
+	<dateModified>20120206T13:18:31-0800</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.1 (622)</model>
+	<name>Rapid, Iterative Product and Market Development</name>
+	<companyName>Small Business App Foundry</companyName>
+	<city>Victoria</city>
+	<provinceState>BC</provinceState>
+	<country>Canada</country>
+	<industry>Technology | Software | Mobile</industry>
+	<keyProblems>They want their staff to deal with their accounting-related work in real time, not hand in paper to somebody else in the office. They believe that this will increase their efficiency and improve their customer service.
+
+There is much accounting software already in the world. However there are no integrated packages available on the iPad at a time when small- and medium-sized businesses are buying millions of iPads every quarter.</keyProblems>
+	<addressProblems>Our apps live on the iPad which is a uniquely capable and portable device. These apps put key functionality in the hands of users exactly when and where they're required. They also use the iPad's camera and connectivity in ways that traditional software simply can't. For example:
+
+* pictures of worksites and relevant objects can be attached to estimates and invoices in real-time;
+* receipts can be attached electronically to expense claims; and
+* documents can be shared instantly with colleagues and customers either through the cloud or by email.</addressProblems>
+	<customersDescription>Our customers are small businesses in the English-speaking world who use iPads to carry out their every day tasks. They are budget-conscious but they're willing to take small risks. They're often owner-operated and managed.
+
+They're also embracing the iPad in a way that's never been seen before. In a Feb 1, 2012 article in Bloomberg ('Apple Infiltrates $3.8 Trillion Market With iPad: Tech'), Matt Wallach says, &quot;Nothing touches the speed of adoption of the iPad.&quot;Our customers want well-designed, easy-to-use apps with just the right amount of functionality that allows them to get their jobs done as efficiently as possible. They want apps that utilize the iPad's mobility along with its other built-in capabilities.</customersDescription>
+	<competitorsDescription>We have large, capable, aggressive competitors with existing products. The following three are examples of the state-of-the-art:
+
+Intuit offers a wide range of highly capable, integrated, and inexpensive software sold and supported by a well-developed network of retailers and accounting professionals. However, their offerings don't yet run on the iPad.
+
+Kashoo is a web-based accounting software vendor who recently released their first version of an app. However, their app is not yet fully featured and may be hampered by forced connectivity to their cloud-based flagship product.
+
+Xero.com is web-based accounting software that has extended its functionality with many integrations to other vendors. However they have not yet released an app and, like other web vendors, may find it difficult to so while effectively supporting their flagship product.
+
+In contrast, our products are free to make the best use of the iPad's capabilities without being weighed down by historical technological and financial expectations.</competitorsDescription>
+	<businessModelDescription>We generate revenue by selling individual apps through the App Store. We then encourage our customers to purchase additional integrated apps via in-app purchases. Customers who wish to share their accounting information with their colleagues will need to purchase a monthly recurring &quot;sharing&quot;license.
+
+Individual apps range in price from $1.99 to $39.99. We charge between $1.99 and $9.99 per user per month for our sharing license.</businessModelDescription>
+	<expansionOptionsDescription>We will have many additional revenue opportunities as our list of SMB customers grows. These include banking transaction fees and cross-selling other products and services. For the first year, however, we will focus on developing the revenue and honing the marketing approaches of the core business.</expansionOptionsDescription>
+	<ultimateAspiration>We want to become the dominant global vendor of accounting-related apps.</ultimateAspiration>
+	<mediumTermStrategicGoal>By March 31, 2013 we will be the leading seller of English accounting-related apps on the App Store. Starting on April 1, 2012 we will develop a suite of 10 integrated apps (roughly one a month) that collectively addresses the fundamental accounting needs of the small business. We will market them aggressively using a combination of SEO, CPC and CPA (affiliate-based) campaigns. We will exit in 24 months by selling to a larger software firm.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Ongoing Marketing</title>
+			<startDate>20130401T00:00:00+0000</startDate>
+			<endDate>20140331T00:00:00+0000</endDate>
+			<mandatory>1</mandatory>
+			<order>5</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>35000</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>70000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly>15000</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment>8</expensesMonthlyAdjustment>
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment>8</revenueMonthlyAdjustment>
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment>8</cogsMonthlyAdjustment>
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Marketing Resource 1</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Ongoing Development</title>
+			<startDate>20130401T00:00:00+0000</startDate>
+			<endDate>20140331T00:00:00+0000</endDate>
+			<mandatory>1</mandatory>
+			<order>4</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>20000</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Julian Wood</responsible>
+			<objectives />
+		</theme>
+		<theme>
+			<title>Develop first app</title>
+			<startDate>20120401T00:00:00+0000</startDate>
+			<endDate>20120430T00:00:00+0000</endDate>
+			<mandatory>1</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>25000</costsOneTime>
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Julian Wood</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Complete first app</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>First app complete</summary>
+							<targetDate>20120430T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Document app dev process</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>App dev process documented</summary>
+							<targetDate>20120401T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Market 9 other apps</title>
+			<startDate>20120601T00:00:00+0000</startDate>
+			<endDate>20130331T00:00:00+0000</endDate>
+			<mandatory>1</mandatory>
+			<order>3</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>3500</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>5000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly>1500</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment>25</expensesMonthlyAdjustment>
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment>25</revenueMonthlyAdjustment>
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment>25</cogsMonthlyAdjustment>
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Marketing Resource 1</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>10,000 customers</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>No. of customers</summary>
+							<targetDate>20130331T00:00:00+0000</targetDate>
+							<targetValue>10000</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Achieve cash-flow positive</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Cash flow positive</summary>
+							<targetDate>20130430T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Develop marketing campaigns</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>No. of successful marketing campaigns</summary>
+							<targetDate>20130331T00:00:00+0000</targetDate>
+							<targetValue>5</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>1,000 new customers per month</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>No. new customers per month</summary>
+							<targetDate>20121130T00:00:00+0000</targetDate>
+							<targetValue>1000</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Market first app</title>
+			<startDate>20120501T00:00:00+0000</startDate>
+			<endDate>20130331T00:00:00+0000</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>3500</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>5000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly>1500</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Marketing Resource 1</responsible>
+			<objectives>
+				<objective>
+					<order>1</order>
+					<summary>First 1,000 customers</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>No. of customers</summary>
+							<targetDate>20120831T00:00:00+0000</targetDate>
+							<targetValue>1000</targetValue>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>App available on App Store</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>App on App Store</summary>
+							<targetDate>20120501T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Add mktg support staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Mktg support staff added</summary>
+							<targetDate>20120401T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Document app mktg process</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>App mktg process documented</summary>
+							<targetDate>20120430T00:00:00+0000</targetDate>
+							<targetValue />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Develop additional 9 apps</title>
+			<startDate>20120501T00:00:00+0000</startDate>
+			<endDate>20130331T00:00:00+0000</endDate>
+			<mandatory>1</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly>20000</expensesMonthly>
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Julian Wood</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>New app available every 4-8 weeks</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>No. of apps completed</summary>
+							<targetDate>20130331T00:00:00+0000</targetDate>
+							<targetValue>10</targetValue>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Develop app 5</action>
+							<startDate>20120901T00:00:00+0000</startDate>
+							<endDate>20120930T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>3</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+						<activity>
+							<action>Develop app 8</action>
+							<startDate>20130101T00:00:00+0000</startDate>
+							<endDate>20130131T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>6</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+						<activity>
+							<action>Develop app 3</action>
+							<startDate>20120616T00:00:00+0000</startDate>
+							<endDate>20120715T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+						<activity>
+							<action>Develop app 2</action>
+							<startDate>20120501T00:00:00+0000</startDate>
+							<endDate>20120615T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+						<activity>
+							<action>Develop app 4</action>
+							<startDate>20120716T00:00:00+0000</startDate>
+							<endDate>20120831T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+						<activity>
+							<action>Develop app 7</action>
+							<startDate>20121116T00:00:00+0000</startDate>
+							<endDate>20121231T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>5</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+						<activity>
+							<action>Develop app 6</action>
+							<startDate>20121001T00:00:00+0000</startDate>
+							<endDate>20121115T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>4</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+						<activity>
+							<action>Develop app 9</action>
+							<startDate>20130201T00:00:00+0000</startDate>
+							<endDate>20130228T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>7</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+						<activity>
+							<action>Develop app 10</action>
+							<startDate>20130301T00:00:00+0000</startDate>
+							<endDate>20130331T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>8</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Julian Wood</responsible>
+						</activity>
+					</activities>
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

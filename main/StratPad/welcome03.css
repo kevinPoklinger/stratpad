@@ -1,0 +1,77 @@
+/* Image paths are relative to the css path, not the base href. Override in welcome03.htm */
+
+.stratfiles {
+    background: url(stratfiles.png) no-repeat;
+	width: 86px;
+	height: 40px;
+    position: absolute; 
+    top: 120px; 
+    left: 20px;
+}
+
+.menubar {
+    background: url(starthere-nav-menubar.png) no-repeat;
+	width: 159px;
+	height: 39px;
+    position: absolute; 
+    top: 195px; 
+    left: 300px;
+}
+
+.sidebar {
+	/* localized */
+    background: url(starthere-nav-sidebar.png) no-repeat;
+	width: 124px;
+	height: 145px;
+    position: absolute; 
+    top: 320px; 
+    left: 20px;
+}
+
+.pagecontrol {
+    background: url(starthere-nav-pagecontrol.png) no-repeat;
+	width: 85px;
+	height: 28px;
+    position: absolute; 
+    top: 520px; 
+    left: 400px;
+}
+
+#stratfiles-tip {
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    width: 330px;
+}
+
+#menubar-tip {
+    position: absolute;
+    top: 195px; 
+    left: 20px; 
+    width: 250px;
+}
+
+#sidebar-tip {
+    position: absolute;
+    top: 320px; 
+    left: 150px; 
+    width: 350px;    
+}
+
+#pagecontrol-tip {
+    position: absolute;
+    top: 520px; 
+    left: 20px; 
+    width: 350px;    
+}
+
+#ready-to-start {
+    position: absolute;
+    top: 400px; 
+    left: 600px; 
+    width: 200px;
+}
+
+#ready-to-start span {
+    font-size: larger;    
+}

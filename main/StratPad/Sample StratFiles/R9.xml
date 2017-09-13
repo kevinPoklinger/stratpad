@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111115T11:22:08-0800</dateCreated>
+	<dateLastAccessed>20120207T06:15:22-0800</dateLastAccessed>
+	<dateModified>20120207T06:12:34-0800</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.2 (668)</model>
+	<name>R9 Test</name>
+	<companyName>My Company</companyName>
+	<city />
+	<provinceState />
+	<country />
+	<industry />
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal />
+	<themes>
+		<theme>
+			<title>Test theme</title>
+			<startDate>20120207T00:00:00+0000</startDate>
+			<endDate>20190208T00:00:00+0000</endDate>
+			<mandatory>0</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly>1000</revenueQuarterly>
+			<revenueAnnually>10000</revenueAnnually>
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime />
+			<costsMonthly />
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment>10</revenueAnnuallyAdjustment>
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible />
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Number of downloads</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>6</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>App Store</summary>
+							<targetDate>20170207T00:00:00+0000</targetDate>
+							<targetValue>5000</targetValue>
+						</metric>
+					</metrics>
+                    <activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

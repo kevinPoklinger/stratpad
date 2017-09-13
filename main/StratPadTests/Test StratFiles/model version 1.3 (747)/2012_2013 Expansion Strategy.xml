@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20111105T13:39:38-0700</dateCreated>
+	<dateLastAccessed>20120531T13:12:53-0700</dateLastAccessed>
+	<dateModified>20120531T13:12:53-0700</dateModified>
+	<permissions>0600</permissions>
+	<model>StratPad 1.3 (747)</model>
+	<name>2012/2013 Expansion Strategy</name>
+	<companyName>Beta Metal Designs</companyName>
+	<city>Syracuse</city>
+	<provinceState>NY</provinceState>
+	<country>USA</country>
+	<industry>industrial design</industry>
+	<keyProblems>Prior to starting our company in 2005, nobody in Syracuse provided either innovative product design and prototyping or high-quality, low-volume manufacturing. Syracuse companies needing these services would either settle for less-skilled local talent or hire companies from larger, but much further away, metropolitan centers such as Buffalo, Toronto, Pittsburgh or Philadelphia. In many cases local companies were unable to provide the necessary quality; costs for more remote companies were higher than desired because of additional transportation costs. Syracuse needed a local company that could provide affordable, high quality design along with low-volume manufacturing.</keyProblems>
+	<addressProblems>We offer three integrated services:
+
+• We help our industrial customers design products to solve a wide range of engineering problems;
+• We create high quality physical prototypes in a variety of metals; and
+• We perform low volume manufacturing (i.e.. less than 500 pieces).
+
+Our design team is staffed by engineers who are experienced innovators. Our design process benefits by being local as we're able to spend more up-front time with our customers. Being local also reduces transportation costs and time: our turnaround time for product delivery is faster and less expensive than other alternatives.</addressProblems>
+	<customersDescription>We focus on engineering firms, manufacturers and machine shops in upstate New York who have neither the equipment nor the skills that we have. All of these firms use our services to help them with their own customers. They therefore appreciate our timeliness, high-quality, flexibility and reasonable pricing.</customersDescription>
+	<competitorsDescription>Our competitors are either smaller upstate firms or larger firms from bigger cities. The smaller firms have less equipment and, typically, less experience than us. We regularly beat these firms except when bidding on smaller projects that require a single machine.
+
+The larger firms have the same skills and equipment as we do. However, they typically focus on larger jobs. And the distance means that they have a built-in cost and responsiveness disadvantage.</competitorsDescription>
+	<businessModelDescription>We generate revenue three ways:
+
+1. We charge an hourly staff rate for design and prototyping services;
+2. We charge an hourly equipment rate for prototyping services; and
+3. We charge a per-piece or per-job rate for manufacturing services. The job- or piece-rate incorporates both staff and equipment costs.</businessModelDescription>
+	<expansionOptionsDescription>There may be opportunities to more fully partner with some of our customers who wish to fully out-source their low- to medium-volume manufacturing jobs (i.e. 500 - 5,000 pieces). Staffed properly, this could better utilize our equipment during the 128 hours per week in which they're currently not used. In addition, this work would provide some revenue stability and smoothing and allow us to consider adding additional equipment.</expansionOptionsDescription>
+	<ultimateAspiration>We aspire to be upstate New York's best-regarded engineering prototyping firm by offering the most innovative design and highest quality production services.</ultimateAspiration>
+	<mediumTermStrategicGoal>By December 31, 2013, we will be the region's most innovative design firm; we will offer the widest range of equipment to the area's engineering firms and manufacturers; our equipment and staff will be fully utilized.</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Expand sales and marketing activities</title>
+			<startDate>20120701</startDate>
+			<endDate>20131231</endDate>
+			<mandatory>0</mandatory>
+			<order>2</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>45000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly>18000</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>15000</costsOneTime>
+			<costsMonthly>2500</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Jan Wallace</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Acquire new CRM and website</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New sales tools acquired</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Trained sales staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Sales staff fully trained on new tools and equipment</summary>
+							<targetDate>20121130</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Better and more frequent customer contact</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of annual outbound contacts per customer</summary>
+							<targetDate>20130630</targetDate>
+							<targetValue>6</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increased revenue</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly revenue</summary>
+							<targetDate>20130630</targetDate>
+							<targetValue>150000</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Expanded sales team</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Sales team expanded</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue>1</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Expand shop and add machines</title>
+			<startDate>20120101</startDate>
+			<endDate>20120630</endDate>
+			<mandatory>0</mandatory>
+			<order>0</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>1</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly>-10000</revenueMonthly>
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly>-4000</cogsMonthly>
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>25000</costsOneTime>
+			<costsMonthly>5000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Kim Stamboukis</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Fully trained staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff are fully trained</summary>
+							<targetDate>20120630</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Increase service offerings</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Average number of jobs per customer</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>3.7</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>More types of machines</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of new machines</summary>
+							<targetDate>20120630</targetDate>
+							<targetValue>3</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>More revenue opportunities</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Monthly machine hours billed</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>600</targetValue>
+							<successIndicator />
+							<measurements>
+								<measurement>
+									<date>20120131</date>
+									<value>236</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>218</value>
+									<comment>Short month.</comment>
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>232</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>287</value>
+									<comment>First new machine came online with some pending orders.</comment>
+								</measurement>
+								<measurement>
+									<date>20120531</date>
+									<value>372</value>
+									<comment>Second new machine came online. We're starting to let customers know now.</comment>
+								</measurement>
+								<measurement>
+									<date>20120630</date>
+									<value>438</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title>Monthly machine hours billed</title>
+									<zLayer>0</zLayer>
+									<chartType>2</chartType>
+									<showTrend>1</showTrend>
+									<colorScheme>1</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>5E9D3C17-BE7A-47F5-888B-A58EA2B01FAE</uuid>
+									<overlay>FC3229F3-7B20-4476-AFA2-9A73DDF39F7D</overlay>
+								</chart>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>6</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>FC3229F3-7B20-4476-AFA2-9A73DDF39F7D</uuid>
+									<overlay />
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities>
+						<activity>
+							<action>Expand shop</action>
+							<startDate>20120101</startDate>
+							<endDate>20120331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>Mary Pickford</responsible>
+						</activity>
+						<activity>
+							<action>Create and issue RFP for equipment</action>
+							<startDate>20120301</startDate>
+							<endDate>20120331</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>John Smythe</responsible>
+						</activity>
+						<activity>
+							<action>Acquire new equipment</action>
+							<startDate>20120401</startDate>
+							<endDate>20120630</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>2</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible>John Smythe</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Faster turnaround</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Days to start job</summary>
+							<targetDate>20120630</targetDate>
+							<targetValue>1</targetValue>
+							<successIndicator>1</successIndicator>
+							<measurements>
+								<measurement>
+									<date>20111231</date>
+									<value>10.23</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120131</date>
+									<value>11.05</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120229</date>
+									<value>11.83</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120331</date>
+									<value>11.27</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120430</date>
+									<value>8.38</value>
+									<comment>Started rolling out new procedures. Need to clear backlog.</comment>
+								</measurement>
+								<measurement>
+									<date>20120531</date>
+									<value>4.41</value>
+									<comment>Backlog almost cleared. Tuned up some processes and requested some enhancements to admin software.</comment>
+								</measurement>
+								<measurement>
+									<date>20120630</date>
+									<value>1.1</value>
+									<comment>Incredible. We almost can't believe that we pulled it off. And we now know of additional tune-ups we can make to improve even further.</comment>
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>0</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>D0F10AD1-1CE1-4945-8F17-305C4BB9047A</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Days to start job</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>3</colorScheme>
+									<showTarget>1</showTarget>
+									<order>0</order>
+									<uuid>72CC126A-F79C-4A31-AC81-808697D49CE2</uuid>
+									<overlay>D0F10AD1-1CE1-4945-8F17-305C4BB9047A</overlay>
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+		<theme>
+			<title>Implement new scheduling and time tracking</title>
+			<startDate>20120401</startDate>
+			<endDate>20131231</endDate>
+			<mandatory>1</mandatory>
+			<order>1</order>
+			<enhanceCustomerValue>1</enhanceCustomerValue>
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<expensesOneTime />
+			<expensesMonthly />
+			<expensesQuarterly />
+			<expensesAnnually />
+			<revenueMonthly />
+			<revenueOneTime />
+			<revenueQuarterly />
+			<revenueAnnually />
+			<cogsOneTime />
+			<cogsMonthly />
+			<cogsQuarterly />
+			<cogsAnnually />
+			<costsOneTime>15000</costsOneTime>
+			<costsMonthly>2000</costsMonthly>
+			<costsQuarterly />
+			<costsAnnually />
+			<expensesMonthlyAdjustment />
+			<expensesQuarterlyAdjustment />
+			<expensesAnnuallyAdjustment />
+			<revenueMonthlyAdjustment />
+			<revenueQuarterlyAdjustment />
+			<revenueAnnuallyAdjustment />
+			<cogsMonthlyAdjustment />
+			<cogsQuarterlyAdjustment />
+			<cogsAnnuallyAdjustment />
+			<costsMonthlyAdjustment />
+			<costsQuarterlyAdjustment />
+			<costsAnnuallyAdjustment />
+			<responsible>Sandy Martin</responsible>
+			<objectives>
+				<objective>
+					<order>1</order>
+					<summary>Develop new daily/weekly procedures</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>New procedures developed</summary>
+							<targetDate>20120915</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Acquire new software &amp;hardware</summary>
+					<objectiveType>2</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Software and hardware installed</summary>
+							<targetDate>20120831</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Faster job completion</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Average number of days to complete job</summary>
+							<targetDate>20120331</targetDate>
+							<targetValue>3.5</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Fully trained staff</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Staff recording 7.5 hours every day.</summary>
+							<targetDate>20120930</targetDate>
+							<targetValue />
+							<successIndicator />
+							<measurements>
+								<measurement>
+									<date>20120406</date>
+									<value>6.25</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120413</date>
+									<value>6.47</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120420</date>
+									<value>6.42</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120427</date>
+									<value>6.58</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120504</date>
+									<value>6.98</value>
+									<comment>New training being rolled out this week.</comment>
+								</measurement>
+								<measurement>
+									<date>20120511</date>
+									<value>7.38</value>
+									<comment>We follow up with each person daily.</comment>
+								</measurement>
+								<measurement>
+									<date>20120518</date>
+									<value>7.34</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120525</date>
+									<value>7.4</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120601</date>
+									<value>7.32</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120608</date>
+									<value>7.38</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120615</date>
+									<value>7.41</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120622</date>
+									<value>7.38</value>
+									<comment />
+								</measurement>
+								<measurement>
+									<date>20120629</date>
+									<value>7.42</value>
+									<comment />
+								</measurement>
+							</measurements>
+							<charts>
+								<chart>
+									<title />
+									<zLayer>1</zLayer>
+									<chartType>4</chartType>
+									<showTrend />
+									<colorScheme>3</colorScheme>
+									<showTarget />
+									<order />
+									<uuid>B41C4787-2A51-4A63-969F-EE21D43464FB</uuid>
+									<overlay />
+								</chart>
+								<chart>
+									<title>Average daily hours recorded, per person</title>
+									<zLayer>0</zLayer>
+									<chartType>3</chartType>
+									<showTrend>0</showTrend>
+									<colorScheme>2</colorScheme>
+									<showTarget>0</showTarget>
+									<order>0</order>
+									<uuid>34212F39-4AEA-4C43-98C3-832150B7D43C</uuid>
+									<overlay>B41C4787-2A51-4A63-969F-EE21D43464FB</overlay>
+								</chart>
+							</charts>
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increased billable hours</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+					<metrics>
+						<metric>
+							<summary>Number of hours billed per month</summary>
+							<targetDate>20121231</targetDate>
+							<targetValue>1200</targetValue>
+							<successIndicator />
+							<measurements />
+							<charts />
+						</metric>
+					</metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>

@@ -1,0 +1,37 @@
+.row {
+    overflow: auto; 
+    width: 100%;
+    margin-top: 1em;
+}
+
+#step-one-column-left {
+    width: 25%;
+}
+
+#step-one-column-right {
+    width: 70%;
+}
+
+#step-two-column-left {
+    width: 65%;
+}
+
+#step-two-column-right {
+    width: 30%;
+}
+
+#step-three-column-left {
+    width: 60%;
+}
+
+#step-three-column-right {
+    width: 35%;
+}
+
+#step-four-column-left {
+    width: 30%;
+}
+
+#step-four-column-right {
+    width: 65%;
+}

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stratfile>
+	<dateCreated>20110915T23:51:17-0600</dateCreated>
+	<dateLastAccessed>20110919T10:42:16-0600</dateLastAccessed>
+	<dateModified>20110919T10:41:46-0600</dateModified>
+	<name>R8</name>
+	<companyName>My Company</companyName>
+	<city />
+	<provinceState />
+	<country />
+	<industry />
+	<keyProblems />
+	<addressProblems />
+	<customersDescription />
+	<competitorsDescription />
+	<businessModelDescription />
+	<expansionOptionsDescription />
+	<ultimateAspiration />
+	<mediumTermStrategicGoal>2011-2013 Corporate Strategy</mediumTermStrategicGoal>
+	<themes>
+		<theme>
+			<title>Enhance Billing Procedure</title>
+			<startDate>20110901T00:00:00+0000</startDate>
+			<endDate>20130912T00:00:00+0000</endDate>
+			<expensesMonthly />
+			<mandatory>0</mandatory>
+			<expensesOneTime />
+			<revenueAnnually />
+			<revenueQuarterly />
+			<expensesAnnually />
+			<cogsMonthly />
+			<costsAnnually />
+			<costsQuarterly />
+			<revenueOneTime />
+			<enhanceCustomerValue>0</enhanceCustomerValue>
+			<costsMonthly />
+			<cogsQuarterly />
+			<enhanceUniqueness>0</enhanceUniqueness>
+			<costsOneTime />
+			<cogsAnnually />
+			<order>0</order>
+			<cogsOneTime />
+			<expensesQuarterly />
+			<revenueMonthly />
+			<responsible>Mary Martin</responsible>
+			<objectives>
+				<objective>
+					<order>0</order>
+					<summary>Increase Revenue</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>3</reviewFrequency>
+                    <metrics>
+                        <metric>
+                            <summary>Revenue</summary>
+                            <targetDate>20111231T00:00:00+0000</targetDate>
+                            <targetValue>$475,000</targetValue>
+                        </metric>
+                    </metrics>
+					<activities />
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Increase efficiency at cashiers</summary>
+					<objectiveType>1</objectiveType>
+					<reviewFrequency>1</reviewFrequency>
+                    <metrics>
+                        <metric>
+                            <summary>Weekly Utilization</summary>
+                            <targetDate>20111231T00:00:00+0000</targetDate>
+                            <targetValue>85%</targetValue>
+                        </metric>
+                    </metrics>
+					<activities>
+						<activity>
+							<action>Acquire new hardware</action>
+							<startDate>20110901T00:00:00+0000</startDate>
+							<endDate>20110901T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>1</order>
+							<ongoingFrequency>3</ongoingFrequency>
+							<responsible />
+						</activity>
+						<activity>
+							<action>Search for new software</action>
+							<startDate>20110901T00:00:00+0000</startDate>
+							<endDate>20111011T00:00:00+0000</endDate>
+							<upfrontCost />
+							<ongoingCost />
+							<order>0</order>
+							<ongoingFrequency>1</ongoingFrequency>
+							<responsible>Bob Thornton</responsible>
+						</activity>
+					</activities>
+				</objective>
+				<objective>
+					<order>0</order>
+					<summary>Performance Review</summary>
+					<objectiveType>3</objectiveType>
+					<reviewFrequency>6</reviewFrequency>
+					<metrics />
+					<activities />
+				</objective>
+				<objective>
+					<order>1</order>
+					<summary>Increase profit</summary>
+					<objectiveType>0</objectiveType>
+					<reviewFrequency>4</reviewFrequency>
+                    <metrics>
+                        <metric>
+                            <summary>Net Income</summary>
+                            <targetDate>20120831T00:00:00+0000</targetDate>
+                            <targetValue>12%</targetValue>
+                        </metric>
+                    </metrics>
+					<activities />
+				</objective>
+			</objectives>
+		</theme>
+	</themes>
+</stratfile>
