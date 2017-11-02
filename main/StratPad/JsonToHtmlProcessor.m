@@ -75,20 +75,36 @@
         author = @"Unregistered";
     }
     
-    NSString *html = [NSString stringWithFormat:@"<!DOCTYPE html><html><head> \
-                      <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"> \
-                      <meta name=\"Author\" content=\"%@\"/> \
-                      <meta name=\"Subject\" content=\"%@\"/> \
-                      <meta name=\"CreationDate\" content=\"%@\"/> \
-                      <meta name=\"Generator\" content=\"%@\"/> \
-                      <link rel=\"stylesheet\" href=\"../financials-prince.css\"/> \
-                      <title>%@</title> \
-                      </head>%@</html>", author, [[StratFileManager sharedManager] currentStratFile].name, [[NSDate date] formattedDate1], [[EditionManager sharedManager] productShortName], remoteReport.reportName, htmlBody];
-    
-    BOOL success = [html writeToFile:path atomically:YES encoding:NSUTF8StringEncoding error:&error];
-    
-    DLog(@"result: %@, %@", success?@"Success":@"Failure", path);
-    
+    if (remoteReport != NULL && remoteReport.reportName != NULL) {
+        NSString *html = [NSString stringWithFormat:@"<!DOCTYPE html><html><head> \
+                          <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"> \
+                          <meta name=\"Author\" content=\"%@\"/> \
+                          <meta name=\"Subject\" content=\"%@\"/> \
+                          <meta name=\"CreationDate\" content=\"%@\"/> \
+                          <meta name=\"Generator\" content=\"%@\"/> \
+                          <link rel=\"stylesheet\" href=\"../financials-prince.css\"/> \
+                          <title>%@</title> \
+                          </head>%@</html>", author, [[StratFileManager sharedManager] currentStratFile].name, [[NSDate date] formattedDate1], [[EditionManager sharedManager] productShortName], remoteReport.reportName, htmlBody];
+        
+        BOOL success = [html writeToFile:path atomically:YES encoding:NSUTF8StringEncoding error:&error];
+        
+        DLog(@"result: %@, %@", success?@"Success":@"Failure", path);
+    }
+    else {
+        NSString *html = [NSString stringWithFormat:@"<!DOCTYPE html><html><head> \
+                          <meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\"> \
+                          <meta name=\"Author\" content=\"%@\"/> \
+                          <meta name=\"Subject\" content=\"%@\"/> \
+                          <meta name=\"CreationDate\" content=\"%@\"/> \
+                          <meta name=\"Generator\" content=\"%@\"/> \
+                          <link rel=\"stylesheet\" href=\"../financials-prince.css\"/> \
+                          <title>Report</title> \
+                          </head>%@</html>", author, [[StratFileManager sharedManager] currentStratFile].name, [[NSDate date] formattedDate1], [[EditionManager sharedManager] productShortName], htmlBody];
+        
+        BOOL success = [html writeToFile:path atomically:YES encoding:NSUTF8StringEncoding error:&error];
+        
+        DLog(@"result: %@, %@", success?@"Success":@"Failure", path);
+    }
 }
 
 -(void)processWhenReady:(SEL)action target:(id)target

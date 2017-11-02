@@ -355,7 +355,12 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(EditionManager);
 {
     NSString *longName = [self productDisplayName];
     NSRange range = [longName rangeOfCharacterFromSet:[NSCharacterSet characterSetWithCharactersInString:@":"]];
-    return [longName substringToIndex:range.location];
+    if (range.location != NSNotFound) {
+        return [longName substringToIndex:range.location];
+    }
+    else {
+        return @"";
+    }
 }
 
 -(NSString*)originalProductShortName

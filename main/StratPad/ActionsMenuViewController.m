@@ -255,7 +255,8 @@
 {
     UIView *contentView = [[tableView cellForRowAtIndexPath:indexPath] contentView];
     
-    BOOL showUpgrade = [contentView viewWithTag:tagLock] != nil;
+    //BOOL showUpgrade = [contentView viewWithTag:tagLock] != nil;
+    BOOL showUpgrade = false;
     if (showUpgrade) {
         
         // dismiss the actions menu

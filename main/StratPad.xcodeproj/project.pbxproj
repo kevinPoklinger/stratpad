@@ -407,6 +407,7 @@
 		80C086BE1F3263AE0055A8E7 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80C086BC1F3263A60055A8E7 /* AVFoundation.framework */; };
 		80C086BF1F3263B50055A8E7 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80C086BC1F3263A60055A8E7 /* AVFoundation.framework */; };
 		80C086C01F3263BC0055A8E7 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 80C086BC1F3263A60055A8E7 /* AVFoundation.framework */; };
+		BA2D998F1FABA9E70052C204 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA2D998E1FABA9E70052C204 /* Images.xcassets */; };
 		FE0083141473804300CD5FD1 /* SideBarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = FE0083131473804300CD5FD1 /* SideBarButton.m */; };
 		FE042624163FB20C00E6C601 /* PdfHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = FE042623163FB20C00E6C601 /* PdfHelper.m */; };
 		FE042625163FB20C00E6C601 /* PdfHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = FE042623163FB20C00E6C601 /* PdfHelper.m */; };
@@ -4246,6 +4247,7 @@
 		80C086B71F32634B0055A8E7 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
 		80C086BC1F3263A60055A8E7 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		AEAEE7FF1F4D132D00675757 /* StratPad 11.0 (3).xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "StratPad 11.0 (3).xcdatamodel"; sourceTree = "<group>"; };
+		BA2D998E1FABA9E70052C204 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "StratPad Free/Images.xcassets"; sourceTree = "<group>"; };
 		FE0083121473804300CD5FD1 /* SideBarButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SideBarButton.h; path = StratPad/SideBarButton.h; sourceTree = "<group>"; };
 		FE0083131473804300CD5FD1 /* SideBarButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SideBarButton.m; path = StratPad/SideBarButton.m; sourceTree = "<group>"; };
 		FE042622163FB20C00E6C601 /* PdfHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PdfHelper.h; path = StratPad/PdfHelper.h; sourceTree = "<group>"; };
@@ -6753,6 +6755,7 @@
 		07F331E613DDF353007AEA80 = {
 			isa = PBXGroup;
 			children = (
+				BA2D998E1FABA9E70052C204 /* Images.xcassets */,
 				FE5B8DFA14B2BCEC00CB980C /* ReadMe.txt */,
 				07F331FD13DDF353007AEA80 /* StratPad */,
 				FEEA796F143A6DEE00374CF3 /* Expanded */,
@@ -9334,6 +9337,7 @@
 				FEE90153157D6137006B7441 /* AddRowTableViewCell.xib in Resources */,
 				FE48114014AE8C860096B8CD /* StrategyFinancialAnalysisMonthView.xib in Resources */,
 				FE48114114AE8C860096B8CD /* StrategyFinancialAnalysisThemeView.xib in Resources */,
+				BA2D998F1FABA9E70052C204 /* Images.xcassets in Resources */,
 				FE48114414AE8C860096B8CD /* sample1.xml in Resources */,
 				FE48114514AE8C860096B8CD /* info-icon.png in Resources */,
 				FE48114614AE8C860096B8CD /* InfoMenuViewController.xib in Resources */,
@@ -14746,6 +14750,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
@@ -14796,6 +14802,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
@@ -14845,6 +14853,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
@@ -14888,6 +14898,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
@@ -14955,6 +14967,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;

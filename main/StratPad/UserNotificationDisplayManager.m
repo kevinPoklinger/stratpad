@@ -135,7 +135,7 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(UserNotificationDisplayManager);
                 // fade in msg
                 [_queue removeObjectAtIndex:0];
                 [UIView animateWithDuration:0.3
-                                      delay:un.delay
+                                      delay:0
                                     options:UIViewAnimationOptionCurveEaseInOut
                                  animations:^{
                                      msgView.alpha = 1;

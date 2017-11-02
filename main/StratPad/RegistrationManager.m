@@ -218,8 +218,10 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(RegistrationManager)
         }
         
         //mCallback(true);
-        [_mController.loadingView dismiss];
-        [_mController dismissPopover];
+        if (_mController != NULL && _mController.loadingView != NULL) {
+            [_mController.loadingView dismiss];
+            [_mController dismissPopover];
+        }
     }
     
     // reset these for good measure, in case we have to start over
